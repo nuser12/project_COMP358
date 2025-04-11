@@ -1,0 +1,1001 @@
+student_id,gpa,attendance,course_load_per_term,study_hours_per_week,course_difficulty_experience,highest_degree,career_goal,delivery_mode,fail_rate,major_x,enrollment_status,student_difficulty_rating,prerequisite_level,completion_status,weekly_study_hours_required,average_grade,study_hours_logged
+4001,3.39,89,6,22,Moderate,Master,UI/UX Design,Online,0.01,Business,Full-time,2,Advanced,Dropped,7,57.0,6
+4002,2.57,87,3,15,Hard,Master,Healthcare Informatics,Online,0.04,CS,Full-time,3,Intermediate,Ongoing,8,82.45,10
+4003,2.45,98,3,20,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.09,CS,Part-time,8,Intermediate,Dropped,18,82.18,5
+4004,3.1,85,5,11,Easy,Master,UI/UX Design,In-person,0.18,CS,Part-time,8,None,Ongoing,19,80.86,11
+4005,3.44,85,6,5,Moderate,Bachelor,AI & Robotics,Online,0.01,CS,Part-time,4,Advanced,Ongoing,9,89.31,6
+4006,2.85,60,6,14,Moderate,Master,Cybersecurity,Online,0.19,Finance,Full-time,7,Advanced,Dropped,13,78.24,18
+4007,3.96,81,3,15,Hard,Diploma,Cybersecurity,Online,0.02,Business,Part-time,6,None,Ongoing,6,79.64,7
+4008,3.37,82,5,14,Moderate,Master,Cybersecurity,Online,0.38,Finance,Full-time,7,Advanced,Completed,16,86.85,16
+4009,2.96,84,3,15,Easy,Diploma,UI/UX Design,Online,0.41,Finance,Part-time,1,Advanced,Completed,8,58.13,12
+4010,2.78,67,3,12,Hard,Bachelor,Software Engineering,Hybrid,0.28,Design,Full-time,3,None,Dropped,15,56.92,18
+4011,2.69,93,5,16,Hard,Diploma,Finance,In-person,0.09,Design,Full-time,5,Intermediate,Completed,18,86.58,18
+4012,3.46,74,6,23,Easy,Bachelor,Healthcare Informatics,In-person,0.35,Design,Part-time,1,Advanced,Dropped,16,75.32,22
+4013,2.88,61,5,24,Easy,Master,AI & Robotics,Online,0.06,Design,Part-time,2,Advanced,Dropped,11,66.19,12
+4014,2.12,71,4,15,Easy,Diploma,Finance,Hybrid,0.48,Design,Part-time,1,Advanced,Completed,19,55.62,11
+4015,2.8,77,4,8,Easy,Master,AI & Robotics,Online,0.08,Finance,Full-time,1,Intermediate,Completed,6,54.79,11
+4016,3.48,66,4,6,Hard,Bachelor,UI/UX Design,Hybrid,0.33,Finance,Full-time,5,Advanced,Dropped,9,86.23,8
+4017,2.36,86,5,23,Easy,Diploma,Finance,In-person,0.37,CS,Part-time,8,Advanced,Ongoing,16,53.82,15
+4018,2.35,61,3,9,Easy,Diploma,Software Engineering,In-person,0.28,CS,Full-time,5,Basic,Ongoing,12,61.34,8
+4019,3.06,94,6,20,Easy,Diploma,UI/UX Design,In-person,0.03,Business,Part-time,9,Advanced,Dropped,10,55.03,23
+4020,3.06,72,5,7,Easy,Master,Cybersecurity,Hybrid,0.42,Design,Part-time,4,Advanced,Completed,5,55.7,9
+4021,3.27,63,6,12,Moderate,Master,Finance,Online,0.4,Design,Part-time,8,Advanced,Completed,15,78.59,14
+4022,3.7,87,5,7,Moderate,Master,Healthcare Informatics,In-person,0.35,Finance,Part-time,7,None,Completed,9,85.03,8
+4023,3.45,82,4,21,Easy,Bachelor,Healthcare Informatics,Online,0.08,Business,Part-time,6,Intermediate,Ongoing,7,76.6,15
+4024,3.22,77,6,7,Moderate,Bachelor,Software Engineering,Online,0.07,Business,Part-time,5,Basic,Ongoing,5,87.73,13
+4025,3.44,80,3,12,Hard,Bachelor,UI/UX Design,In-person,0.31,Business,Full-time,4,Intermediate,Dropped,11,75.32,21
+4026,2.65,98,6,14,Easy,Diploma,UI/UX Design,Online,0.07,Business,Part-time,2,Intermediate,Completed,17,81.23,22
+4027,2.72,73,3,19,Moderate,Master,AI & Robotics,Online,0.39,Business,Part-time,5,None,Ongoing,11,50.13,11
+4028,2.46,72,3,18,Easy,Bachelor,Healthcare Informatics,Online,0.17,Finance,Part-time,8,Intermediate,Dropped,8,84.33,22
+4029,2.59,79,3,5,Hard,Master,Software Engineering,Hybrid,0.07,Finance,Full-time,6,None,Completed,8,57.95,13
+4030,3.26,72,4,10,Moderate,Diploma,Cybersecurity,Hybrid,0.14,CS,Part-time,1,Basic,Completed,8,64.83,22
+4031,2.18,67,6,10,Easy,Master,Cybersecurity,In-person,0.11,Business,Full-time,8,Advanced,Completed,18,72.28,22
+4032,2.87,63,3,11,Hard,Bachelor,UI/UX Design,In-person,0.19,CS,Full-time,2,Advanced,Dropped,19,54.48,21
+4033,2.86,65,5,20,Easy,Diploma,Healthcare Informatics,Hybrid,0.32,Finance,Part-time,1,None,Ongoing,9,86.04,19
+4034,2.99,83,6,22,Hard,Bachelor,AI & Robotics,Hybrid,0.35,Design,Full-time,3,Advanced,Ongoing,18,87.41,22
+4035,2.85,83,6,9,Easy,Bachelor,Software Engineering,Online,0.42,CS,Part-time,8,Advanced,Ongoing,8,55.32,19
+4036,2.62,79,5,10,Easy,Bachelor,Healthcare Informatics,In-person,0.29,Finance,Part-time,3,None,Ongoing,18,71.92,13
+4037,2.85,72,4,22,Moderate,Master,AI & Robotics,In-person,0.28,CS,Part-time,5,Intermediate,Dropped,7,88.66,5
+4038,3.79,93,6,12,Easy,Diploma,UI/UX Design,Hybrid,0.09,Finance,Part-time,5,Intermediate,Completed,8,63.63,23
+4039,3.89,67,5,12,Hard,Bachelor,Software Engineering,Hybrid,0.04,Finance,Full-time,5,Basic,Ongoing,16,91.76,17
+4040,3.0,93,4,18,Hard,Bachelor,UI/UX Design,Hybrid,0.47,Finance,Full-time,3,Intermediate,Ongoing,7,55.94,5
+4041,3.25,64,4,21,Hard,Diploma,Finance,Online,0.15,CS,Full-time,1,Basic,Ongoing,18,53.96,8
+4042,2.23,75,5,10,Moderate,Bachelor,Cybersecurity,Online,0.15,Finance,Full-time,2,None,Completed,13,56.37,5
+4043,2.63,75,3,7,Easy,Diploma,Healthcare Informatics,Online,0.49,Design,Part-time,7,None,Dropped,7,57.97,22
+4044,2.83,73,3,5,Moderate,Bachelor,AI & Robotics,Hybrid,0.01,Business,Full-time,5,Intermediate,Dropped,8,60.79,15
+4045,3.73,86,5,22,Hard,Bachelor,Software Engineering,In-person,0.46,CS,Part-time,1,Advanced,Ongoing,16,55.12,8
+4046,2.5,90,5,21,Moderate,Bachelor,Healthcare Informatics,In-person,0.07,Design,Part-time,4,None,Completed,13,88.47,6
+4047,2.97,73,3,23,Easy,Master,Healthcare Informatics,Online,0.26,Finance,Full-time,8,Basic,Completed,19,93.25,22
+4048,3.97,90,6,18,Hard,Diploma,Healthcare Informatics,Online,0.04,CS,Full-time,9,None,Ongoing,18,58.76,6
+4049,3.04,73,3,10,Hard,Master,Finance,In-person,0.01,Finance,Full-time,1,Intermediate,Ongoing,11,59.97,7
+4050,3.23,83,3,6,Easy,Master,Finance,Hybrid,0.28,CS,Part-time,9,Basic,Completed,6,74.8,19
+4051,2.24,94,5,10,Easy,Diploma,Healthcare Informatics,Online,0.24,CS,Full-time,2,None,Completed,17,71.51,22
+4052,3.65,74,6,15,Easy,Diploma,Software Engineering,Hybrid,0.12,CS,Part-time,1,Intermediate,Ongoing,5,79.99,5
+4053,3.21,79,3,23,Hard,Diploma,UI/UX Design,Hybrid,0.28,Finance,Part-time,1,Advanced,Ongoing,15,54.12,23
+4054,3.09,87,4,7,Moderate,Diploma,UI/UX Design,Hybrid,0.4,Finance,Full-time,5,Basic,Dropped,6,71.36,24
+4055,2.69,97,3,21,Moderate,Bachelor,UI/UX Design,In-person,0.34,Design,Full-time,2,Intermediate,Dropped,8,57.26,17
+4056,2.61,86,5,23,Easy,Master,UI/UX Design,In-person,0.13,CS,Part-time,8,None,Ongoing,5,92.0,19
+4057,2.83,60,3,13,Hard,Master,Finance,Hybrid,0.31,CS,Full-time,7,None,Completed,18,86.58,5
+4058,3.36,71,6,17,Hard,Bachelor,Healthcare Informatics,In-person,0.13,Business,Full-time,1,Advanced,Ongoing,13,62.96,19
+4059,3.75,98,5,15,Hard,Master,UI/UX Design,Hybrid,0.27,CS,Part-time,3,Intermediate,Completed,13,59.67,10
+4060,3.02,86,5,7,Moderate,Master,Software Engineering,In-person,0.21,CS,Full-time,3,Advanced,Ongoing,18,78.88,24
+4061,3.34,95,4,9,Moderate,Diploma,Finance,Hybrid,0.25,Business,Full-time,9,Intermediate,Ongoing,7,53.93,17
+4062,3.17,90,4,21,Hard,Bachelor,UI/UX Design,In-person,0.27,Design,Part-time,4,Basic,Ongoing,14,52.48,14
+4063,3.25,83,5,5,Hard,Bachelor,Healthcare Informatics,Online,0.15,Business,Part-time,3,None,Ongoing,17,60.45,11
+4064,3.35,91,4,13,Hard,Bachelor,UI/UX Design,Online,0.23,Finance,Full-time,7,None,Completed,19,82.29,9
+4065,3.68,79,4,20,Moderate,Bachelor,Software Engineering,Hybrid,0.43,Design,Part-time,1,Intermediate,Ongoing,19,68.23,17
+4066,2.17,82,4,14,Moderate,Diploma,Finance,Hybrid,0.44,CS,Part-time,4,None,Dropped,13,63.36,12
+4067,3.53,62,6,16,Hard,Master,Finance,Hybrid,0.07,Business,Full-time,2,Advanced,Dropped,7,73.12,17
+4068,2.49,75,5,8,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.34,Design,Full-time,1,Intermediate,Completed,16,81.37,13
+4069,2.39,61,4,8,Hard,Diploma,Finance,Online,0.28,CS,Full-time,7,None,Dropped,19,74.28,24
+4070,3.14,96,3,23,Moderate,Diploma,AI & Robotics,Online,0.34,Design,Part-time,3,Intermediate,Ongoing,8,90.36,21
+4071,2.19,80,6,12,Hard,Master,Finance,Online,0.1,CS,Part-time,5,Intermediate,Completed,12,82.95,5
+4072,3.77,62,3,23,Moderate,Master,Cybersecurity,Online,0.27,CS,Full-time,7,Basic,Dropped,7,92.06,23
+4073,3.25,71,4,24,Moderate,Bachelor,Finance,Online,0.42,Design,Part-time,5,Advanced,Dropped,9,50.64,5
+4074,3.45,87,3,7,Easy,Bachelor,Cybersecurity,Online,0.37,Business,Full-time,6,Advanced,Completed,11,90.59,7
+4075,2.03,84,6,21,Hard,Master,Finance,Hybrid,0.48,Finance,Part-time,2,Basic,Completed,9,63.94,14
+4076,3.19,75,5,17,Hard,Bachelor,Software Engineering,Online,0.43,CS,Part-time,7,Intermediate,Ongoing,19,85.21,23
+4077,3.11,71,5,11,Easy,Master,Cybersecurity,Hybrid,0.39,Business,Part-time,2,Advanced,Ongoing,9,93.97,11
+4078,2.32,80,4,17,Moderate,Master,AI & Robotics,In-person,0.4,Finance,Part-time,3,Intermediate,Ongoing,17,51.52,10
+4079,2.31,81,5,11,Easy,Master,Finance,In-person,0.2,CS,Full-time,1,Intermediate,Ongoing,16,94.37,20
+4080,3.39,78,4,12,Easy,Bachelor,Software Engineering,In-person,0.2,CS,Part-time,6,Basic,Dropped,16,76.67,20
+4081,2.64,71,3,18,Hard,Bachelor,Finance,In-person,0.1,Business,Full-time,3,None,Completed,16,89.49,22
+4082,3.38,71,6,20,Easy,Bachelor,Cybersecurity,Hybrid,0.45,Design,Part-time,3,Intermediate,Ongoing,8,79.11,17
+4083,3.11,82,4,16,Moderate,Diploma,UI/UX Design,Online,0.28,Business,Part-time,4,None,Ongoing,9,79.24,20
+4084,2.78,94,6,19,Hard,Master,Software Engineering,Online,0.49,CS,Part-time,7,Advanced,Dropped,8,56.67,11
+4085,3.85,68,4,14,Easy,Diploma,Cybersecurity,Online,0.04,Finance,Full-time,6,Basic,Dropped,9,81.04,13
+4086,3.68,80,5,23,Moderate,Master,AI & Robotics,Hybrid,0.41,Business,Part-time,8,Intermediate,Ongoing,15,82.48,14
+4087,2.71,76,3,6,Easy,Master,AI & Robotics,Online,0.01,CS,Part-time,9,None,Dropped,15,54.35,7
+4088,2.09,61,6,19,Moderate,Bachelor,Finance,Hybrid,0.35,Business,Full-time,7,Advanced,Dropped,11,53.9,23
+4089,2.61,96,5,8,Easy,Bachelor,Software Engineering,In-person,0.14,Finance,Full-time,7,Intermediate,Ongoing,17,69.73,14
+4090,2.8,70,5,8,Hard,Diploma,Healthcare Informatics,In-person,0.44,Design,Full-time,2,Intermediate,Ongoing,16,64.19,12
+4091,3.41,80,3,17,Hard,Diploma,Software Engineering,Hybrid,0.23,Finance,Part-time,4,Advanced,Ongoing,11,88.17,22
+4092,3.99,64,5,11,Moderate,Master,Cybersecurity,In-person,0.27,Design,Part-time,5,Intermediate,Dropped,5,79.58,20
+4093,2.71,93,5,20,Hard,Bachelor,Cybersecurity,Hybrid,0.31,Business,Full-time,7,Basic,Dropped,13,57.97,15
+4094,3.53,96,3,5,Moderate,Master,AI & Robotics,In-person,0.42,Business,Full-time,8,Advanced,Dropped,16,58.89,23
+4095,3.19,91,3,5,Easy,Diploma,Software Engineering,Hybrid,0.41,Finance,Part-time,2,Basic,Completed,16,63.61,15
+4096,3.38,69,6,6,Hard,Diploma,AI & Robotics,In-person,0.39,CS,Part-time,9,None,Completed,17,75.6,8
+4097,2.3,98,4,18,Moderate,Bachelor,UI/UX Design,Hybrid,0.4,Design,Part-time,9,Advanced,Completed,5,72.61,16
+4098,2.8,72,5,10,Hard,Diploma,Healthcare Informatics,Hybrid,0.31,Finance,Part-time,9,Basic,Dropped,9,71.54,9
+4099,2.48,61,5,5,Easy,Bachelor,Software Engineering,In-person,0.05,Business,Part-time,5,Advanced,Completed,13,51.41,17
+4100,2.69,82,6,17,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.09,Design,Full-time,7,Advanced,Completed,18,74.38,15
+4101,3.03,99,5,13,Hard,Diploma,Healthcare Informatics,In-person,0.34,CS,Full-time,2,Advanced,Completed,12,50.89,12
+4102,3.33,62,5,5,Easy,Diploma,Healthcare Informatics,Online,0.1,CS,Part-time,5,Intermediate,Dropped,7,69.96,6
+4103,2.21,80,3,13,Hard,Bachelor,Software Engineering,In-person,0.24,Design,Full-time,1,Advanced,Dropped,15,59.34,6
+4104,2.26,69,5,10,Easy,Master,Healthcare Informatics,In-person,0.03,Design,Full-time,9,Advanced,Ongoing,18,63.72,7
+4105,2.64,62,5,20,Hard,Diploma,Healthcare Informatics,Online,0.03,Business,Part-time,3,Advanced,Completed,14,79.36,5
+4106,3.32,74,4,12,Hard,Master,Software Engineering,Online,0.03,Finance,Full-time,5,Intermediate,Dropped,19,67.83,13
+4107,3.69,69,3,12,Moderate,Master,Healthcare Informatics,In-person,0.08,Finance,Part-time,1,Basic,Completed,15,76.58,20
+4108,3.11,68,3,18,Easy,Master,AI & Robotics,Online,0.25,Business,Full-time,6,Intermediate,Ongoing,12,83.17,20
+4109,3.71,75,4,19,Moderate,Bachelor,Healthcare Informatics,In-person,0.21,CS,Full-time,8,Intermediate,Completed,5,82.32,22
+4110,2.77,83,5,15,Hard,Bachelor,UI/UX Design,In-person,0.38,Design,Full-time,2,Advanced,Ongoing,15,74.31,7
+4111,2.63,79,5,17,Easy,Bachelor,Finance,Online,0.22,Finance,Part-time,4,Basic,Completed,16,89.08,15
+4112,2.71,89,4,12,Hard,Diploma,Finance,Hybrid,0.3,Design,Part-time,5,Advanced,Dropped,14,90.04,5
+4113,2.34,72,4,10,Moderate,Diploma,AI & Robotics,Hybrid,0.12,Business,Part-time,7,Basic,Dropped,7,80.17,12
+4114,3.66,60,5,6,Easy,Bachelor,Cybersecurity,In-person,0.43,CS,Full-time,7,Intermediate,Ongoing,15,53.47,14
+4115,2.68,63,6,17,Moderate,Bachelor,Software Engineering,Online,0.28,Design,Full-time,3,Advanced,Completed,7,55.04,6
+4116,3.1,66,5,21,Hard,Master,Software Engineering,Online,0.43,Design,Full-time,2,None,Completed,18,77.49,23
+4117,3.16,95,5,16,Moderate,Master,Cybersecurity,Hybrid,0.12,Finance,Full-time,4,Basic,Completed,8,60.47,8
+4118,3.04,80,6,15,Hard,Bachelor,Healthcare Informatics,Hybrid,0.49,Design,Full-time,1,Intermediate,Ongoing,5,92.89,9
+4119,2.01,89,3,10,Easy,Bachelor,Software Engineering,In-person,0.13,Design,Full-time,8,Advanced,Completed,17,60.43,21
+4120,3.98,98,6,22,Easy,Bachelor,Healthcare Informatics,In-person,0.33,Business,Full-time,1,Intermediate,Ongoing,13,72.66,11
+4121,3.81,86,6,14,Easy,Master,Cybersecurity,In-person,0.08,CS,Full-time,5,Intermediate,Ongoing,19,53.48,14
+4122,2.42,85,6,6,Moderate,Bachelor,Finance,Online,0.03,Finance,Full-time,9,Advanced,Completed,11,77.28,9
+4123,2.58,78,4,11,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.32,Design,Part-time,5,None,Dropped,12,84.25,19
+4124,3.04,73,5,5,Moderate,Bachelor,AI & Robotics,In-person,0.43,Finance,Part-time,4,Basic,Ongoing,6,81.46,9
+4125,3.8,99,3,15,Easy,Master,Cybersecurity,Online,0.04,Finance,Full-time,6,Advanced,Ongoing,8,67.8,7
+4126,3.97,90,3,12,Hard,Bachelor,Cybersecurity,In-person,0.27,Business,Full-time,2,None,Completed,5,65.59,24
+4127,2.52,66,3,24,Easy,Diploma,AI & Robotics,Online,0.43,Design,Full-time,1,Advanced,Dropped,13,62.04,7
+4128,3.13,92,6,17,Hard,Diploma,Healthcare Informatics,Hybrid,0.36,Design,Full-time,2,None,Dropped,13,63.23,13
+4129,3.61,68,5,6,Moderate,Master,Cybersecurity,In-person,0.3,Business,Part-time,5,Intermediate,Dropped,16,84.97,8
+4130,2.79,61,4,19,Easy,Master,Finance,In-person,0.33,Business,Part-time,8,Advanced,Completed,7,84.66,11
+4131,3.46,95,4,13,Easy,Master,Cybersecurity,Hybrid,0.34,CS,Full-time,3,Advanced,Dropped,19,85.41,10
+4132,2.32,66,5,16,Easy,Master,Healthcare Informatics,Online,0.46,Finance,Full-time,5,Intermediate,Dropped,7,92.29,22
+4133,3.2,64,4,6,Easy,Diploma,Cybersecurity,Hybrid,0.13,Business,Full-time,8,None,Completed,8,76.15,7
+4134,3.73,81,6,9,Easy,Master,AI & Robotics,Hybrid,0.41,Business,Full-time,9,Intermediate,Ongoing,15,57.09,21
+4135,3.97,93,3,15,Easy,Bachelor,UI/UX Design,In-person,0.36,Design,Full-time,3,Advanced,Dropped,19,61.74,14
+4136,2.16,75,5,20,Moderate,Master,UI/UX Design,In-person,0.1,CS,Part-time,7,Advanced,Dropped,7,69.84,24
+4137,2.86,73,5,11,Moderate,Diploma,AI & Robotics,In-person,0.4,Design,Full-time,1,Advanced,Completed,10,50.26,17
+4138,2.41,68,3,7,Moderate,Master,UI/UX Design,Online,0.1,Design,Part-time,2,Advanced,Completed,6,66.1,9
+4139,2.9,65,4,21,Easy,Master,UI/UX Design,Hybrid,0.06,Design,Part-time,4,Intermediate,Completed,5,69.46,5
+4140,3.1,96,5,9,Moderate,Diploma,Healthcare Informatics,Online,0.27,Business,Part-time,3,Advanced,Completed,16,52.87,23
+4141,2.19,61,5,11,Hard,Bachelor,Healthcare Informatics,Hybrid,0.0,Finance,Full-time,5,Advanced,Ongoing,18,85.91,24
+4142,2.59,96,3,10,Moderate,Diploma,AI & Robotics,In-person,0.44,Design,Full-time,9,Intermediate,Completed,7,80.58,15
+4143,3.86,78,3,21,Hard,Diploma,AI & Robotics,Online,0.16,CS,Full-time,4,Intermediate,Completed,14,82.69,18
+4144,3.14,76,4,21,Hard,Diploma,Cybersecurity,In-person,0.22,CS,Full-time,9,None,Dropped,7,53.61,16
+4145,2.91,60,4,16,Moderate,Diploma,AI & Robotics,In-person,0.15,Design,Part-time,4,Intermediate,Dropped,10,75.0,11
+4146,3.51,63,6,11,Moderate,Bachelor,AI & Robotics,Hybrid,0.41,Business,Part-time,5,Intermediate,Dropped,7,73.51,5
+4147,3.48,96,4,22,Hard,Diploma,Healthcare Informatics,Online,0.21,Finance,Full-time,4,Basic,Dropped,18,75.02,17
+4148,2.1,89,4,24,Hard,Master,Software Engineering,In-person,0.34,CS,Part-time,1,Basic,Completed,6,76.95,8
+4149,3.42,89,3,7,Hard,Diploma,Cybersecurity,Online,0.09,Business,Part-time,3,None,Ongoing,19,61.43,16
+4150,3.68,88,6,15,Hard,Bachelor,AI & Robotics,Online,0.03,Business,Part-time,2,None,Ongoing,13,83.15,11
+4151,2.33,80,6,19,Easy,Master,Healthcare Informatics,Hybrid,0.29,CS,Full-time,6,Advanced,Completed,10,70.72,17
+4152,3.56,62,5,24,Easy,Diploma,AI & Robotics,In-person,0.27,Design,Full-time,7,Intermediate,Dropped,6,58.98,21
+4153,2.57,84,3,23,Easy,Diploma,Cybersecurity,Hybrid,0.32,Design,Part-time,4,Basic,Completed,13,79.27,15
+4154,2.61,62,5,23,Hard,Bachelor,Cybersecurity,Hybrid,0.4,Business,Part-time,7,Basic,Ongoing,10,65.1,23
+4155,3.33,70,4,18,Hard,Bachelor,Cybersecurity,Online,0.19,Finance,Full-time,8,Advanced,Dropped,14,65.8,13
+4156,2.22,98,5,23,Easy,Bachelor,AI & Robotics,Online,0.43,CS,Part-time,2,Basic,Ongoing,8,61.32,24
+4157,3.33,96,4,5,Moderate,Bachelor,AI & Robotics,In-person,0.03,Business,Full-time,9,Advanced,Ongoing,10,73.69,15
+4158,3.78,80,4,22,Moderate,Diploma,Finance,Hybrid,0.07,Design,Full-time,9,Basic,Dropped,10,71.92,18
+4159,3.39,73,6,8,Moderate,Master,Cybersecurity,Online,0.26,Business,Part-time,8,Intermediate,Dropped,14,69.23,8
+4160,2.88,98,6,22,Easy,Master,Finance,In-person,0.26,Design,Full-time,9,Intermediate,Ongoing,10,68.13,11
+4161,2.88,90,3,12,Hard,Bachelor,Software Engineering,In-person,0.23,Design,Full-time,6,None,Ongoing,11,58.13,14
+4162,3.53,99,3,12,Moderate,Bachelor,Finance,In-person,0.07,Business,Full-time,1,Basic,Dropped,9,72.11,24
+4163,3.13,86,5,5,Hard,Bachelor,Cybersecurity,In-person,0.33,CS,Part-time,8,Basic,Completed,5,65.46,8
+4164,2.17,76,5,15,Moderate,Master,Cybersecurity,Online,0.19,Finance,Part-time,8,Advanced,Completed,18,76.38,15
+4165,3.17,83,4,9,Easy,Master,Cybersecurity,Online,0.14,Finance,Part-time,7,Basic,Dropped,9,50.29,22
+4166,3.63,94,4,22,Hard,Diploma,Cybersecurity,Online,0.09,CS,Part-time,8,Basic,Completed,5,56.32,22
+4167,2.67,78,6,13,Moderate,Bachelor,Healthcare Informatics,Online,0.45,Finance,Full-time,5,None,Dropped,10,72.67,8
+4168,3.86,93,5,6,Moderate,Bachelor,AI & Robotics,Online,0.4,CS,Part-time,4,Advanced,Completed,6,72.13,6
+4169,3.5,62,3,11,Hard,Diploma,UI/UX Design,Hybrid,0.08,Design,Full-time,1,None,Ongoing,5,63.54,15
+4170,3.15,77,3,22,Hard,Master,Healthcare Informatics,Online,0.01,Business,Part-time,7,Advanced,Dropped,13,69.37,7
+4171,3.5,90,6,6,Hard,Diploma,AI & Robotics,Hybrid,0.06,CS,Part-time,9,None,Completed,6,73.95,9
+4172,2.16,74,4,5,Hard,Bachelor,Healthcare Informatics,Hybrid,0.06,Design,Part-time,8,None,Ongoing,11,68.42,16
+4173,3.72,85,3,15,Moderate,Master,Cybersecurity,Hybrid,0.38,CS,Full-time,9,Advanced,Ongoing,6,72.5,8
+4174,3.64,76,5,17,Easy,Diploma,Software Engineering,Online,0.2,Business,Part-time,1,Advanced,Ongoing,19,59.2,17
+4175,3.82,72,5,5,Hard,Master,AI & Robotics,Online,0.18,Design,Part-time,5,Advanced,Completed,16,85.4,16
+4176,2.26,77,4,13,Easy,Bachelor,Cybersecurity,Hybrid,0.22,Finance,Part-time,3,Intermediate,Dropped,7,58.49,18
+4177,2.16,71,6,22,Easy,Bachelor,AI & Robotics,Online,0.37,Finance,Part-time,8,Advanced,Completed,18,72.09,22
+4178,2.28,81,3,23,Moderate,Bachelor,AI & Robotics,Online,0.33,Finance,Full-time,5,Intermediate,Ongoing,12,80.3,23
+4179,2.8,96,4,19,Moderate,Master,UI/UX Design,Online,0.36,Design,Full-time,1,None,Dropped,11,83.31,16
+4180,2.85,70,5,13,Hard,Bachelor,Software Engineering,Hybrid,0.3,Finance,Full-time,6,None,Dropped,16,67.0,21
+4181,3.12,72,3,10,Easy,Diploma,Healthcare Informatics,Hybrid,0.15,Business,Part-time,1,Basic,Dropped,14,80.27,6
+4182,2.24,95,4,7,Hard,Diploma,UI/UX Design,Online,0.15,Finance,Full-time,2,Advanced,Dropped,13,72.8,10
+4183,2.4,84,6,24,Moderate,Master,Cybersecurity,In-person,0.14,Finance,Part-time,1,Intermediate,Ongoing,19,72.56,15
+4184,3.62,78,5,14,Easy,Master,UI/UX Design,In-person,0.47,CS,Part-time,1,Advanced,Completed,16,59.2,22
+4185,2.94,60,3,23,Easy,Master,AI & Robotics,Online,0.06,Design,Full-time,7,Intermediate,Dropped,8,54.07,20
+4186,3.62,73,6,13,Moderate,Bachelor,Software Engineering,Online,0.14,CS,Part-time,4,Advanced,Completed,5,54.77,9
+4187,2.01,61,3,23,Moderate,Bachelor,Finance,Hybrid,0.41,Business,Part-time,2,Advanced,Dropped,18,58.42,14
+4188,3.1,64,3,21,Moderate,Diploma,Healthcare Informatics,Online,0.49,CS,Part-time,5,None,Dropped,18,71.37,19
+4189,3.86,66,3,17,Moderate,Master,UI/UX Design,Hybrid,0.11,CS,Full-time,2,Intermediate,Dropped,6,59.56,9
+4190,3.16,86,3,23,Moderate,Bachelor,UI/UX Design,Online,0.49,Design,Full-time,9,Basic,Completed,18,59.35,12
+4191,2.41,90,4,7,Moderate,Bachelor,AI & Robotics,Online,0.37,CS,Full-time,1,Advanced,Completed,11,65.78,21
+4192,3.44,75,6,13,Easy,Bachelor,Healthcare Informatics,Hybrid,0.19,Design,Part-time,8,Advanced,Completed,14,83.52,16
+4193,2.76,83,6,7,Easy,Diploma,Finance,In-person,0.17,Finance,Part-time,4,Advanced,Completed,14,88.67,16
+4194,3.34,92,3,16,Easy,Bachelor,UI/UX Design,Hybrid,0.43,CS,Full-time,5,Advanced,Completed,16,61.61,13
+4195,2.06,93,5,7,Hard,Diploma,AI & Robotics,Hybrid,0.14,Finance,Part-time,8,Intermediate,Completed,15,50.62,7
+4196,3.27,65,4,24,Hard,Master,UI/UX Design,Online,0.16,Design,Part-time,5,Advanced,Dropped,14,70.69,23
+4197,2.06,62,4,11,Easy,Bachelor,AI & Robotics,In-person,0.01,Business,Full-time,1,Advanced,Ongoing,16,62.44,11
+4198,3.49,93,6,19,Moderate,Bachelor,AI & Robotics,In-person,0.25,Business,Part-time,5,Advanced,Completed,11,70.59,12
+4199,2.95,70,5,8,Easy,Diploma,Software Engineering,Hybrid,0.11,Finance,Full-time,5,Intermediate,Completed,11,71.06,5
+4200,2.24,80,5,13,Hard,Diploma,UI/UX Design,In-person,0.5,CS,Full-time,9,None,Completed,12,87.74,12
+4201,3.09,98,5,23,Hard,Diploma,Healthcare Informatics,Online,0.08,Finance,Full-time,9,Intermediate,Completed,7,52.0,22
+4202,2.13,83,6,14,Hard,Bachelor,UI/UX Design,Online,0.44,CS,Part-time,4,Intermediate,Completed,9,94.92,9
+4203,3.31,61,6,13,Hard,Bachelor,AI & Robotics,Online,0.07,Design,Full-time,6,Intermediate,Ongoing,14,54.06,11
+4204,3.99,95,3,8,Moderate,Master,Healthcare Informatics,Hybrid,0.2,Finance,Part-time,2,Basic,Ongoing,7,86.42,9
+4205,3.54,89,6,15,Easy,Bachelor,UI/UX Design,Hybrid,0.31,Finance,Full-time,3,None,Dropped,16,82.6,10
+4206,3.15,86,5,22,Moderate,Diploma,Cybersecurity,Hybrid,0.46,Design,Part-time,6,None,Dropped,18,59.4,18
+4207,2.21,66,3,9,Hard,Master,Cybersecurity,Online,0.45,Business,Part-time,1,Basic,Dropped,15,63.85,24
+4208,3.4,60,4,7,Hard,Diploma,Healthcare Informatics,In-person,0.1,Design,Full-time,7,Intermediate,Dropped,13,92.87,15
+4209,3.32,99,3,23,Easy,Bachelor,Finance,Online,0.09,CS,Full-time,1,Basic,Dropped,6,74.95,18
+4210,2.1,82,4,16,Moderate,Diploma,Cybersecurity,In-person,0.36,Business,Full-time,6,Intermediate,Ongoing,16,73.11,7
+4211,3.58,66,4,10,Easy,Diploma,UI/UX Design,In-person,0.12,Design,Part-time,2,None,Ongoing,9,76.63,21
+4212,3.04,76,5,20,Hard,Diploma,AI & Robotics,Online,0.48,CS,Full-time,1,Basic,Dropped,8,94.06,24
+4213,2.85,87,3,23,Easy,Master,Healthcare Informatics,Online,0.02,Design,Full-time,7,Basic,Dropped,5,64.87,6
+4214,3.58,79,4,13,Hard,Master,AI & Robotics,Hybrid,0.09,Business,Full-time,5,Advanced,Dropped,14,76.12,17
+4215,2.82,90,4,11,Easy,Diploma,Finance,In-person,0.06,Business,Full-time,1,None,Dropped,10,77.16,19
+4216,2.96,91,3,12,Easy,Diploma,UI/UX Design,In-person,0.34,Finance,Full-time,7,Advanced,Completed,5,58.6,19
+4217,2.36,97,4,8,Easy,Diploma,UI/UX Design,In-person,0.01,CS,Full-time,1,None,Completed,6,93.63,8
+4218,2.64,62,3,13,Hard,Master,Finance,Hybrid,0.28,Business,Full-time,6,Basic,Dropped,10,67.59,18
+4219,3.69,76,3,12,Easy,Bachelor,AI & Robotics,Online,0.39,Business,Part-time,9,Advanced,Completed,8,67.77,18
+4220,2.37,79,6,9,Easy,Bachelor,Cybersecurity,Hybrid,0.06,CS,Full-time,1,Basic,Completed,18,90.95,12
+4221,2.83,90,4,18,Moderate,Diploma,Software Engineering,Online,0.07,Design,Full-time,3,Intermediate,Dropped,8,83.85,8
+4222,3.98,68,3,19,Hard,Bachelor,UI/UX Design,In-person,0.08,CS,Part-time,8,None,Ongoing,11,66.4,20
+4223,2.47,82,5,24,Moderate,Diploma,Software Engineering,Hybrid,0.07,Business,Full-time,8,Basic,Ongoing,6,61.3,16
+4224,3.83,91,5,16,Easy,Bachelor,AI & Robotics,Hybrid,0.37,CS,Full-time,9,Advanced,Ongoing,14,50.25,23
+4225,3.84,83,3,13,Hard,Bachelor,UI/UX Design,Online,0.17,Design,Part-time,9,Advanced,Dropped,17,62.73,22
+4226,2.18,68,4,21,Easy,Bachelor,UI/UX Design,Hybrid,0.26,Design,Full-time,4,Basic,Ongoing,11,56.5,17
+4227,2.93,89,4,21,Easy,Master,Software Engineering,In-person,0.01,Finance,Full-time,3,Intermediate,Ongoing,10,60.88,14
+4228,3.0,80,5,10,Hard,Bachelor,Finance,In-person,0.4,Business,Part-time,6,Advanced,Completed,13,93.13,16
+4229,2.63,82,3,14,Easy,Diploma,AI & Robotics,Online,0.01,Business,Part-time,4,None,Dropped,16,59.36,7
+4230,2.09,87,5,17,Easy,Bachelor,Finance,Online,0.48,Business,Full-time,5,None,Dropped,13,50.51,10
+4231,2.48,65,6,17,Hard,Bachelor,AI & Robotics,Hybrid,0.49,Design,Part-time,2,Advanced,Completed,8,59.41,13
+4232,2.19,79,6,9,Moderate,Diploma,Finance,Hybrid,0.02,Design,Part-time,1,Basic,Ongoing,9,77.96,24
+4233,2.48,74,5,17,Moderate,Bachelor,Finance,Hybrid,0.04,Design,Part-time,6,Intermediate,Ongoing,6,89.99,5
+4234,3.62,86,3,24,Hard,Master,Healthcare Informatics,In-person,0.27,Finance,Part-time,1,Intermediate,Dropped,10,67.85,20
+4235,3.79,94,6,15,Easy,Bachelor,Finance,Online,0.17,CS,Part-time,2,Intermediate,Ongoing,15,87.85,16
+4236,2.09,80,6,16,Moderate,Master,Cybersecurity,Online,0.32,Design,Full-time,3,None,Ongoing,12,78.14,22
+4237,2.6,99,4,16,Hard,Bachelor,Software Engineering,Hybrid,0.33,Finance,Full-time,2,Basic,Ongoing,18,55.38,11
+4238,3.96,71,4,17,Hard,Diploma,Software Engineering,In-person,0.01,Business,Part-time,8,Advanced,Dropped,6,75.57,23
+4239,3.08,81,3,22,Moderate,Master,Software Engineering,In-person,0.11,Business,Part-time,5,Basic,Ongoing,18,76.41,21
+4240,3.25,64,4,11,Hard,Master,AI & Robotics,In-person,0.34,Finance,Part-time,6,Intermediate,Completed,7,63.08,11
+4241,2.01,60,3,17,Easy,Master,AI & Robotics,Hybrid,0.1,Finance,Full-time,1,Advanced,Dropped,12,75.55,14
+4242,2.97,87,6,11,Moderate,Master,AI & Robotics,Online,0.02,CS,Full-time,7,Intermediate,Ongoing,6,91.66,9
+4243,3.98,62,4,8,Hard,Master,UI/UX Design,Hybrid,0.27,Design,Full-time,7,Basic,Ongoing,6,59.14,11
+4244,2.75,91,3,12,Hard,Bachelor,Cybersecurity,Hybrid,0.08,Business,Full-time,9,Intermediate,Completed,16,91.4,10
+4245,2.19,97,4,14,Hard,Bachelor,UI/UX Design,Hybrid,0.45,Business,Full-time,2,Basic,Completed,13,94.75,20
+4246,2.92,71,6,12,Moderate,Master,Software Engineering,Hybrid,0.41,CS,Part-time,3,Intermediate,Completed,12,61.59,12
+4247,3.93,65,5,10,Hard,Diploma,Finance,Hybrid,0.38,Design,Part-time,7,Basic,Ongoing,6,58.6,7
+4248,2.68,95,6,21,Easy,Bachelor,Cybersecurity,Online,0.42,Finance,Full-time,9,None,Dropped,14,50.11,11
+4249,3.6,80,4,13,Moderate,Master,UI/UX Design,In-person,0.4,Design,Full-time,7,Advanced,Ongoing,10,75.06,12
+4250,3.6,85,4,5,Moderate,Master,UI/UX Design,Hybrid,0.4,CS,Full-time,6,Intermediate,Ongoing,12,63.01,19
+4251,2.42,62,6,21,Easy,Bachelor,UI/UX Design,Online,0.5,Business,Part-time,8,None,Dropped,13,93.75,7
+4252,2.89,61,3,16,Easy,Diploma,UI/UX Design,Hybrid,0.38,Business,Full-time,6,Advanced,Dropped,14,74.86,8
+4253,3.43,68,5,22,Moderate,Diploma,Software Engineering,Online,0.24,Design,Full-time,6,Advanced,Dropped,17,73.34,12
+4254,2.82,97,6,11,Easy,Bachelor,UI/UX Design,Online,0.34,Design,Full-time,6,None,Ongoing,12,63.29,9
+4255,2.38,76,5,20,Hard,Diploma,Healthcare Informatics,Online,0.07,Business,Part-time,2,Basic,Ongoing,10,56.69,9
+4256,3.93,80,6,10,Moderate,Bachelor,AI & Robotics,Hybrid,0.02,Design,Full-time,7,Basic,Dropped,10,57.49,12
+4257,3.3,80,6,12,Easy,Diploma,UI/UX Design,Online,0.14,Design,Part-time,6,None,Ongoing,6,89.63,17
+4258,3.73,94,6,5,Moderate,Bachelor,Healthcare Informatics,In-person,0.24,CS,Part-time,5,Advanced,Dropped,17,81.38,20
+4259,2.05,93,6,13,Moderate,Bachelor,Healthcare Informatics,Online,0.09,Business,Part-time,8,Advanced,Completed,17,50.24,17
+4260,2.53,62,4,8,Easy,Bachelor,AI & Robotics,In-person,0.39,CS,Part-time,9,Intermediate,Dropped,10,84.28,9
+4261,3.0,79,6,24,Moderate,Master,Finance,In-person,0.45,Business,Part-time,8,Intermediate,Dropped,6,85.97,24
+4262,2.13,81,3,13,Easy,Diploma,Cybersecurity,Online,0.11,Design,Part-time,3,Intermediate,Dropped,7,82.5,13
+4263,3.99,83,4,20,Hard,Bachelor,UI/UX Design,In-person,0.37,Business,Full-time,1,Advanced,Ongoing,10,56.81,23
+4264,2.47,88,3,14,Moderate,Diploma,Finance,In-person,0.13,Design,Full-time,5,Basic,Completed,19,69.14,13
+4265,2.75,71,5,16,Easy,Diploma,Cybersecurity,In-person,0.17,CS,Full-time,7,None,Dropped,16,76.77,23
+4266,2.43,94,6,22,Moderate,Master,UI/UX Design,Hybrid,0.13,Finance,Part-time,6,None,Ongoing,10,91.15,23
+4267,2.21,82,6,6,Hard,Master,Finance,Online,0.11,Finance,Part-time,1,Advanced,Completed,8,91.81,8
+4268,2.46,73,4,13,Moderate,Bachelor,Healthcare Informatics,In-person,0.14,Finance,Full-time,5,Basic,Dropped,16,64.94,21
+4269,2.6,90,3,15,Moderate,Bachelor,AI & Robotics,In-person,0.18,Design,Full-time,5,None,Dropped,13,51.66,22
+4270,3.27,98,3,16,Easy,Master,UI/UX Design,Hybrid,0.09,Design,Full-time,5,None,Completed,16,93.21,6
+4271,2.56,83,4,17,Hard,Master,Finance,Online,0.43,Design,Part-time,8,None,Completed,7,92.59,23
+4272,2.72,99,6,23,Hard,Bachelor,Finance,Hybrid,0.03,CS,Full-time,2,Intermediate,Dropped,18,74.98,10
+4273,2.01,93,5,15,Moderate,Master,Software Engineering,In-person,0.33,Finance,Part-time,7,None,Dropped,14,82.46,8
+4274,2.73,98,3,7,Easy,Diploma,Healthcare Informatics,Online,0.23,Design,Full-time,8,Intermediate,Ongoing,8,61.69,16
+4275,3.07,75,3,9,Easy,Diploma,UI/UX Design,Online,0.27,Finance,Full-time,4,Intermediate,Ongoing,12,69.63,16
+4276,2.32,60,6,7,Moderate,Master,UI/UX Design,Online,0.45,Design,Part-time,1,Intermediate,Ongoing,13,59.64,11
+4277,3.19,81,4,16,Easy,Diploma,Finance,Hybrid,0.09,Finance,Part-time,8,Advanced,Ongoing,9,61.11,16
+4278,2.59,73,3,17,Moderate,Master,Healthcare Informatics,Online,0.13,CS,Full-time,6,Basic,Completed,14,64.69,5
+4279,3.26,94,3,12,Hard,Diploma,Cybersecurity,In-person,0.2,CS,Part-time,5,Intermediate,Ongoing,8,62.68,21
+4280,2.05,73,5,24,Moderate,Bachelor,UI/UX Design,In-person,0.12,Business,Part-time,6,Basic,Dropped,19,69.15,14
+4281,3.78,62,5,23,Moderate,Diploma,UI/UX Design,Online,0.4,CS,Part-time,3,Intermediate,Dropped,17,93.67,20
+4282,2.03,65,3,17,Easy,Master,UI/UX Design,Online,0.09,CS,Part-time,5,Basic,Dropped,7,68.52,8
+4283,2.25,70,4,21,Moderate,Bachelor,Healthcare Informatics,Online,0.29,Design,Full-time,2,Advanced,Ongoing,10,55.17,15
+4284,3.55,96,5,7,Hard,Master,Software Engineering,Hybrid,0.03,Business,Full-time,5,Advanced,Ongoing,9,55.14,24
+4285,2.09,86,6,23,Easy,Bachelor,Healthcare Informatics,Hybrid,0.04,Business,Part-time,5,Intermediate,Completed,8,77.57,5
+4286,3.42,88,6,24,Hard,Bachelor,Finance,Hybrid,0.01,CS,Part-time,8,Basic,Completed,8,79.26,17
+4287,3.94,70,6,5,Hard,Master,AI & Robotics,Hybrid,0.3,Design,Full-time,1,None,Ongoing,14,55.46,9
+4288,3.74,61,5,18,Hard,Bachelor,Finance,In-person,0.27,Business,Part-time,1,Advanced,Dropped,5,56.3,5
+4289,3.42,71,5,13,Easy,Diploma,Healthcare Informatics,Hybrid,0.25,Finance,Part-time,7,Basic,Ongoing,9,81.95,6
+4290,3.92,83,6,6,Hard,Diploma,AI & Robotics,Online,0.15,Design,Full-time,9,Intermediate,Ongoing,12,92.28,7
+4291,2.86,83,5,22,Hard,Diploma,Software Engineering,Online,0.27,CS,Part-time,4,Basic,Dropped,14,70.53,21
+4292,3.75,92,6,12,Moderate,Bachelor,Software Engineering,Hybrid,0.24,Business,Full-time,7,Basic,Ongoing,11,59.6,20
+4293,2.71,77,6,23,Moderate,Diploma,UI/UX Design,In-person,0.33,CS,Part-time,3,Basic,Completed,11,77.14,16
+4294,3.86,99,4,19,Moderate,Master,Finance,In-person,0.16,Business,Full-time,5,Intermediate,Ongoing,17,53.46,16
+4295,2.3,80,3,9,Easy,Master,AI & Robotics,In-person,0.12,CS,Part-time,8,Basic,Ongoing,13,65.41,6
+4296,3.88,81,4,16,Moderate,Master,Finance,Hybrid,0.36,Finance,Part-time,3,Advanced,Completed,10,59.8,8
+4297,3.67,78,6,19,Easy,Master,Software Engineering,Hybrid,0.35,Business,Part-time,6,Intermediate,Ongoing,5,61.38,12
+4298,3.69,61,5,20,Hard,Master,Cybersecurity,Hybrid,0.08,Finance,Full-time,8,Advanced,Ongoing,7,75.37,12
+4299,2.25,76,3,9,Easy,Diploma,Finance,Hybrid,0.36,Design,Part-time,6,Basic,Completed,18,70.49,20
+4300,3.19,99,5,16,Easy,Master,Healthcare Informatics,Online,0.33,Design,Full-time,2,None,Dropped,16,87.21,18
+4301,2.03,63,3,15,Moderate,Master,Software Engineering,Online,0.45,Business,Full-time,7,Intermediate,Ongoing,6,71.89,10
+4302,3.44,69,4,19,Moderate,Master,Software Engineering,In-person,0.35,Design,Part-time,6,Advanced,Completed,15,68.61,17
+4303,2.02,73,3,12,Hard,Master,Cybersecurity,In-person,0.47,CS,Full-time,3,Basic,Completed,10,72.74,24
+4304,2.17,73,6,15,Hard,Bachelor,Cybersecurity,Hybrid,0.38,Finance,Full-time,8,None,Dropped,18,79.88,24
+4305,2.45,85,3,8,Moderate,Diploma,AI & Robotics,Hybrid,0.04,Business,Part-time,6,Basic,Completed,18,73.93,5
+4306,3.75,70,3,12,Easy,Bachelor,UI/UX Design,In-person,0.41,CS,Full-time,4,None,Ongoing,18,51.4,5
+4307,2.73,84,6,21,Easy,Diploma,Software Engineering,Hybrid,0.12,Business,Part-time,2,Intermediate,Dropped,11,72.12,20
+4308,3.08,90,6,14,Easy,Diploma,AI & Robotics,Online,0.35,CS,Part-time,1,Intermediate,Ongoing,18,50.18,19
+4309,3.14,90,6,12,Moderate,Bachelor,Cybersecurity,In-person,0.26,CS,Full-time,7,Basic,Dropped,19,83.67,12
+4310,2.45,90,4,8,Easy,Bachelor,Finance,In-person,0.42,Design,Full-time,9,Advanced,Completed,18,62.51,12
+4311,3.14,95,6,22,Easy,Bachelor,Finance,Online,0.05,Design,Full-time,1,Intermediate,Ongoing,10,53.99,21
+4312,3.32,84,4,7,Moderate,Diploma,UI/UX Design,Hybrid,0.34,CS,Full-time,3,None,Ongoing,8,68.17,24
+4313,2.6,90,4,16,Moderate,Master,AI & Robotics,In-person,0.17,CS,Full-time,8,Basic,Dropped,11,84.48,8
+4314,2.84,82,4,7,Hard,Diploma,Finance,Hybrid,0.15,Design,Full-time,2,None,Dropped,8,51.52,6
+4315,2.91,73,6,11,Hard,Master,Cybersecurity,Online,0.09,Business,Full-time,9,None,Dropped,15,61.47,23
+4316,3.86,76,3,14,Moderate,Master,AI & Robotics,Hybrid,0.18,Finance,Part-time,7,None,Completed,10,78.03,20
+4317,3.17,65,5,5,Hard,Master,Software Engineering,In-person,0.0,Business,Part-time,4,None,Completed,13,59.08,11
+4318,3.9,64,4,7,Moderate,Diploma,Cybersecurity,Online,0.39,Finance,Part-time,3,Advanced,Completed,19,67.46,7
+4319,3.11,78,4,22,Moderate,Master,AI & Robotics,Hybrid,0.24,CS,Part-time,7,Intermediate,Completed,16,78.9,24
+4320,3.0,97,6,13,Easy,Diploma,Cybersecurity,Online,0.37,Finance,Full-time,4,Basic,Ongoing,8,71.59,12
+4321,2.01,71,6,17,Hard,Bachelor,Cybersecurity,Online,0.15,Design,Full-time,4,None,Completed,9,77.53,24
+4322,2.96,94,4,23,Easy,Diploma,Cybersecurity,In-person,0.35,Finance,Full-time,8,None,Completed,14,74.83,15
+4323,3.85,74,4,18,Hard,Diploma,Healthcare Informatics,Hybrid,0.33,Design,Full-time,5,Intermediate,Dropped,15,85.03,17
+4324,2.4,95,4,19,Easy,Master,AI & Robotics,Hybrid,0.4,CS,Part-time,2,None,Completed,5,79.64,8
+4325,2.1,81,5,13,Hard,Bachelor,AI & Robotics,Online,0.14,Design,Full-time,2,None,Completed,12,88.92,17
+4326,2.81,72,4,13,Moderate,Bachelor,Software Engineering,Hybrid,0.49,Business,Full-time,3,Intermediate,Ongoing,13,65.93,11
+4327,2.74,73,4,7,Moderate,Master,Finance,Online,0.26,CS,Part-time,3,Intermediate,Dropped,14,72.13,16
+4328,3.71,65,3,16,Moderate,Bachelor,UI/UX Design,Online,0.16,Finance,Full-time,5,Advanced,Completed,5,53.47,14
+4329,2.05,70,5,21,Hard,Master,AI & Robotics,In-person,0.23,Finance,Part-time,6,None,Ongoing,12,54.42,23
+4330,3.84,89,3,8,Moderate,Master,UI/UX Design,Online,0.45,CS,Full-time,1,Basic,Dropped,12,72.67,13
+4331,3.36,62,6,16,Hard,Diploma,Software Engineering,In-person,0.3,Business,Full-time,4,None,Ongoing,13,69.81,14
+4332,3.81,68,4,14,Hard,Master,Healthcare Informatics,Hybrid,0.32,Design,Part-time,7,Intermediate,Dropped,6,91.5,19
+4333,3.22,74,6,5,Easy,Diploma,UI/UX Design,Hybrid,0.43,CS,Part-time,7,Intermediate,Dropped,15,65.5,8
+4334,3.62,66,5,22,Moderate,Master,Cybersecurity,In-person,0.06,Business,Full-time,4,Advanced,Ongoing,19,68.98,22
+4335,2.67,63,3,24,Hard,Master,Healthcare Informatics,Online,0.16,CS,Full-time,5,Intermediate,Dropped,5,63.89,6
+4336,2.7,91,3,12,Moderate,Master,UI/UX Design,Online,0.38,Design,Part-time,1,Basic,Ongoing,14,88.41,11
+4337,2.78,71,5,15,Moderate,Master,Software Engineering,In-person,0.37,Finance,Full-time,5,Intermediate,Completed,7,69.56,15
+4338,3.51,84,4,8,Moderate,Master,Finance,Hybrid,0.49,Business,Part-time,4,Advanced,Ongoing,5,79.86,22
+4339,2.74,91,6,24,Hard,Master,AI & Robotics,Hybrid,0.21,Business,Full-time,3,Advanced,Ongoing,11,50.49,18
+4340,2.48,74,5,5,Moderate,Bachelor,AI & Robotics,Online,0.03,Business,Part-time,1,Basic,Dropped,12,94.35,5
+4341,3.88,89,3,24,Easy,Master,UI/UX Design,In-person,0.33,Finance,Full-time,9,Advanced,Ongoing,5,83.08,20
+4342,3.82,86,4,14,Moderate,Master,Finance,In-person,0.35,CS,Full-time,2,Advanced,Completed,9,63.6,21
+4343,2.7,67,3,19,Moderate,Master,UI/UX Design,In-person,0.31,Finance,Full-time,5,None,Dropped,19,78.39,13
+4344,3.27,86,4,6,Moderate,Diploma,UI/UX Design,Online,0.29,Finance,Full-time,8,Intermediate,Dropped,18,79.28,19
+4345,2.55,74,6,6,Moderate,Master,Healthcare Informatics,Hybrid,0.14,Design,Part-time,9,Basic,Ongoing,8,56.85,5
+4346,2.41,65,4,12,Moderate,Bachelor,Finance,Online,0.16,Business,Full-time,9,None,Completed,9,51.34,12
+4347,2.67,92,6,10,Easy,Master,Cybersecurity,Hybrid,0.47,Finance,Part-time,8,Intermediate,Dropped,18,92.04,14
+4348,2.65,80,6,19,Moderate,Master,UI/UX Design,In-person,0.33,CS,Full-time,1,Advanced,Dropped,13,87.61,23
+4349,3.76,83,3,5,Easy,Diploma,Healthcare Informatics,In-person,0.21,Business,Full-time,6,Advanced,Ongoing,11,88.04,23
+4350,3.64,82,5,7,Easy,Bachelor,Software Engineering,Hybrid,0.37,Business,Full-time,8,None,Ongoing,8,76.23,21
+4351,3.42,99,5,11,Easy,Bachelor,Finance,In-person,0.24,CS,Full-time,6,None,Ongoing,6,84.22,17
+4352,3.92,73,6,11,Hard,Diploma,Software Engineering,Online,0.26,Business,Part-time,5,None,Dropped,7,53.77,17
+4353,2.85,98,5,17,Moderate,Bachelor,Finance,Online,0.46,CS,Part-time,4,None,Dropped,16,54.92,17
+4354,2.49,83,5,6,Hard,Bachelor,Finance,In-person,0.43,Business,Full-time,3,None,Ongoing,8,92.87,24
+4355,2.23,90,3,21,Hard,Master,Finance,Online,0.08,Business,Part-time,4,Intermediate,Ongoing,9,89.51,8
+4356,2.6,62,4,7,Easy,Master,Software Engineering,Online,0.33,Finance,Part-time,4,Intermediate,Completed,19,84.35,14
+4357,2.29,80,4,16,Moderate,Diploma,AI & Robotics,In-person,0.47,CS,Part-time,7,Advanced,Ongoing,13,82.95,11
+4358,2.18,79,5,22,Easy,Diploma,Cybersecurity,Online,0.42,CS,Part-time,2,None,Dropped,7,59.7,11
+4359,3.21,87,5,10,Easy,Bachelor,Healthcare Informatics,Online,0.19,Finance,Full-time,1,None,Ongoing,17,68.72,7
+4360,2.73,96,3,9,Hard,Bachelor,Software Engineering,Online,0.25,Finance,Full-time,1,Advanced,Completed,15,73.42,9
+4361,3.13,64,3,6,Hard,Bachelor,UI/UX Design,Hybrid,0.38,CS,Full-time,2,Advanced,Completed,15,80.73,8
+4362,2.38,75,6,14,Hard,Bachelor,Healthcare Informatics,Online,0.46,Finance,Part-time,3,None,Ongoing,15,60.35,23
+4363,3.35,86,4,21,Hard,Diploma,Software Engineering,Online,0.29,Finance,Full-time,9,Intermediate,Ongoing,8,61.75,21
+4364,2.43,82,6,8,Easy,Bachelor,AI & Robotics,In-person,0.17,CS,Full-time,9,None,Dropped,10,63.35,7
+4365,2.56,91,3,13,Easy,Bachelor,AI & Robotics,In-person,0.24,Finance,Full-time,9,Basic,Dropped,16,76.82,9
+4366,3.48,89,3,13,Easy,Diploma,UI/UX Design,In-person,0.43,Finance,Part-time,5,Advanced,Completed,8,69.57,13
+4367,3.12,65,3,16,Moderate,Master,Healthcare Informatics,In-person,0.28,Finance,Full-time,3,Intermediate,Ongoing,5,66.78,23
+4368,2.67,66,6,23,Easy,Diploma,Finance,In-person,0.21,Business,Part-time,2,Intermediate,Ongoing,14,74.38,18
+4369,3.09,74,6,13,Easy,Bachelor,Cybersecurity,In-person,0.22,Design,Full-time,2,Advanced,Ongoing,18,77.2,8
+4370,3.39,77,3,16,Easy,Master,AI & Robotics,In-person,0.1,CS,Full-time,6,Advanced,Dropped,16,68.16,14
+4371,3.82,74,4,10,Easy,Master,Cybersecurity,In-person,0.34,Finance,Full-time,9,Basic,Ongoing,9,88.38,18
+4372,3.16,62,3,20,Hard,Diploma,AI & Robotics,Online,0.18,Finance,Part-time,7,Basic,Ongoing,19,84.43,20
+4373,2.47,66,5,7,Hard,Diploma,Cybersecurity,Online,0.17,Finance,Part-time,5,Advanced,Ongoing,7,89.7,19
+4374,3.49,93,6,23,Hard,Master,UI/UX Design,Online,0.4,Design,Full-time,1,Advanced,Ongoing,17,90.63,14
+4375,3.56,90,3,13,Hard,Diploma,Cybersecurity,Online,0.29,Design,Full-time,7,Intermediate,Dropped,19,87.88,18
+4376,2.4,60,3,23,Easy,Master,Finance,Hybrid,0.27,CS,Full-time,3,Intermediate,Completed,6,65.6,23
+4377,3.64,65,6,8,Hard,Master,AI & Robotics,Online,0.1,CS,Part-time,2,Intermediate,Ongoing,16,51.24,17
+4378,2.93,89,6,19,Easy,Bachelor,Healthcare Informatics,Hybrid,0.39,CS,Part-time,3,None,Ongoing,17,52.87,18
+4379,3.56,62,6,13,Easy,Bachelor,Software Engineering,Hybrid,0.45,Business,Part-time,8,Intermediate,Ongoing,13,64.56,12
+4380,2.47,73,3,23,Hard,Bachelor,Healthcare Informatics,Online,0.24,Design,Part-time,1,Advanced,Ongoing,14,51.71,9
+4381,2.67,64,6,5,Easy,Diploma,Healthcare Informatics,In-person,0.48,CS,Part-time,2,Advanced,Dropped,13,73.06,23
+4382,3.91,82,6,22,Hard,Diploma,Finance,Online,0.27,Design,Part-time,8,Advanced,Ongoing,15,53.78,15
+4383,3.32,86,4,24,Easy,Bachelor,UI/UX Design,Hybrid,0.1,Design,Full-time,5,Basic,Dropped,15,63.61,23
+4384,3.55,63,4,11,Hard,Master,Cybersecurity,Hybrid,0.02,Finance,Part-time,5,Basic,Ongoing,12,89.32,14
+4385,3.38,64,4,5,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.36,Business,Part-time,1,Intermediate,Dropped,9,61.38,24
+4386,2.41,71,5,18,Easy,Master,Finance,Online,0.2,Business,Full-time,3,Basic,Ongoing,18,68.08,16
+4387,2.94,74,6,24,Easy,Master,Software Engineering,Online,0.43,Business,Full-time,3,Advanced,Dropped,12,89.28,5
+4388,3.62,92,6,6,Hard,Master,Healthcare Informatics,Hybrid,0.38,Finance,Full-time,2,None,Completed,14,83.12,14
+4389,3.35,85,3,11,Hard,Diploma,Cybersecurity,Online,0.12,CS,Part-time,6,Basic,Ongoing,10,90.63,23
+4390,2.01,66,5,11,Moderate,Master,Healthcare Informatics,Hybrid,0.15,CS,Part-time,7,Basic,Ongoing,11,89.4,20
+4391,2.17,83,4,16,Hard,Master,Cybersecurity,Hybrid,0.04,CS,Part-time,1,Advanced,Ongoing,14,57.24,11
+4392,2.69,79,6,10,Easy,Diploma,Healthcare Informatics,Online,0.36,Design,Part-time,7,Advanced,Ongoing,10,73.36,17
+4393,3.89,84,5,9,Moderate,Master,UI/UX Design,Hybrid,0.41,Design,Full-time,4,None,Ongoing,15,93.77,18
+4394,2.98,79,4,7,Moderate,Diploma,Software Engineering,In-person,0.24,Design,Full-time,7,Intermediate,Ongoing,8,54.55,5
+4395,2.54,76,3,12,Moderate,Bachelor,UI/UX Design,Hybrid,0.31,CS,Part-time,7,None,Completed,13,60.83,24
+4396,2.72,86,4,11,Moderate,Bachelor,AI & Robotics,Online,0.1,Design,Part-time,8,Basic,Ongoing,15,72.18,16
+4397,2.42,95,5,6,Hard,Master,UI/UX Design,Online,0.48,CS,Full-time,4,Intermediate,Ongoing,8,50.07,8
+4398,2.84,94,5,9,Easy,Diploma,UI/UX Design,In-person,0.16,CS,Part-time,9,None,Completed,18,65.81,18
+4399,2.44,68,3,22,Easy,Master,Healthcare Informatics,Hybrid,0.37,Finance,Part-time,2,Basic,Completed,15,61.09,10
+4400,3.69,88,6,23,Moderate,Master,AI & Robotics,In-person,0.28,CS,Part-time,1,None,Ongoing,15,67.64,16
+4401,2.91,76,3,11,Easy,Master,Cybersecurity,In-person,0.29,Design,Full-time,1,Advanced,Ongoing,9,63.95,12
+4402,2.56,66,6,14,Easy,Master,AI & Robotics,In-person,0.49,Finance,Part-time,2,None,Completed,9,93.25,15
+4403,3.87,72,5,6,Hard,Master,UI/UX Design,In-person,0.48,Design,Full-time,1,Intermediate,Dropped,11,77.46,9
+4404,2.63,77,3,5,Hard,Diploma,Finance,Online,0.13,CS,Part-time,7,Basic,Dropped,18,75.83,14
+4405,3.82,99,4,19,Moderate,Master,Cybersecurity,Hybrid,0.32,Finance,Part-time,9,Advanced,Completed,9,64.96,8
+4406,2.09,93,6,11,Moderate,Master,UI/UX Design,In-person,0.09,Design,Part-time,3,Basic,Dropped,5,84.7,12
+4407,3.41,70,6,24,Moderate,Diploma,Healthcare Informatics,In-person,0.38,Business,Full-time,5,Advanced,Dropped,12,93.93,8
+4408,2.97,73,3,20,Moderate,Diploma,Cybersecurity,Online,0.3,Design,Full-time,4,Intermediate,Dropped,18,76.32,10
+4409,2.89,75,3,6,Moderate,Bachelor,Cybersecurity,Hybrid,0.46,Finance,Part-time,6,Intermediate,Ongoing,14,73.29,5
+4410,2.07,78,3,22,Hard,Diploma,Finance,Hybrid,0.34,Finance,Part-time,3,Intermediate,Completed,16,66.13,8
+4411,2.08,68,6,23,Easy,Diploma,Finance,Hybrid,0.24,Design,Part-time,3,None,Dropped,9,77.93,5
+4412,2.67,88,5,24,Moderate,Bachelor,AI & Robotics,In-person,0.15,CS,Full-time,4,Advanced,Dropped,13,77.07,9
+4413,3.89,68,5,8,Hard,Bachelor,Finance,Online,0.08,Finance,Full-time,9,Basic,Completed,13,71.51,19
+4414,3.24,61,4,22,Moderate,Diploma,Cybersecurity,In-person,0.13,Business,Full-time,3,Basic,Ongoing,13,73.7,18
+4415,2.74,99,4,6,Moderate,Bachelor,AI & Robotics,Hybrid,0.41,CS,Full-time,3,None,Ongoing,14,67.46,23
+4416,3.22,66,5,13,Moderate,Bachelor,UI/UX Design,In-person,0.47,Finance,Part-time,5,Intermediate,Ongoing,15,77.2,14
+4417,2.41,95,3,13,Moderate,Diploma,Finance,In-person,0.42,Business,Part-time,8,Advanced,Dropped,8,81.16,5
+4418,2.33,80,3,9,Hard,Diploma,UI/UX Design,In-person,0.41,Design,Full-time,2,Basic,Completed,10,90.64,9
+4419,2.72,82,6,12,Easy,Diploma,UI/UX Design,Online,0.16,Design,Full-time,8,Intermediate,Completed,9,68.0,13
+4420,3.73,95,6,9,Moderate,Diploma,Cybersecurity,Hybrid,0.32,Finance,Full-time,6,Advanced,Completed,8,63.58,8
+4421,3.02,90,4,13,Hard,Master,Healthcare Informatics,Hybrid,0.28,Business,Full-time,9,Advanced,Dropped,6,91.16,24
+4422,2.59,87,6,10,Hard,Diploma,Software Engineering,In-person,0.4,Finance,Full-time,5,Basic,Dropped,15,64.83,10
+4423,3.9,75,6,14,Easy,Master,UI/UX Design,In-person,0.33,Design,Part-time,2,Advanced,Dropped,5,91.16,20
+4424,3.63,84,4,11,Hard,Bachelor,Cybersecurity,In-person,0.01,Business,Full-time,8,Basic,Ongoing,10,78.09,17
+4425,2.65,95,6,19,Moderate,Master,Cybersecurity,In-person,0.31,CS,Full-time,7,None,Dropped,7,86.0,6
+4426,3.94,68,5,17,Easy,Master,UI/UX Design,In-person,0.03,Business,Part-time,4,Advanced,Dropped,19,87.41,5
+4427,3.97,62,6,9,Easy,Master,AI & Robotics,In-person,0.33,Business,Full-time,4,Advanced,Completed,11,63.23,23
+4428,2.82,69,5,11,Hard,Master,Healthcare Informatics,Hybrid,0.16,Business,Full-time,2,Advanced,Ongoing,9,69.66,19
+4429,3.31,95,3,10,Moderate,Master,Finance,Online,0.38,Business,Full-time,1,Intermediate,Dropped,12,60.82,9
+4430,2.81,68,5,23,Easy,Diploma,Cybersecurity,Hybrid,0.32,Finance,Full-time,7,Advanced,Ongoing,17,88.16,5
+4431,2.51,60,4,19,Moderate,Diploma,Cybersecurity,In-person,0.28,Design,Part-time,2,Basic,Ongoing,14,89.23,23
+4432,2.17,60,6,14,Hard,Bachelor,Cybersecurity,In-person,0.41,Business,Full-time,9,None,Ongoing,10,72.91,5
+4433,2.53,68,6,11,Easy,Bachelor,Cybersecurity,Hybrid,0.24,Business,Part-time,7,Intermediate,Dropped,13,78.18,19
+4434,2.54,86,3,22,Moderate,Diploma,AI & Robotics,Hybrid,0.45,CS,Part-time,4,Intermediate,Completed,6,82.82,8
+4435,2.8,90,3,22,Easy,Master,Healthcare Informatics,Hybrid,0.42,CS,Part-time,6,Advanced,Ongoing,7,90.17,23
+4436,2.37,62,4,18,Easy,Bachelor,Cybersecurity,Hybrid,0.03,Design,Full-time,3,Advanced,Ongoing,11,55.29,10
+4437,3.91,78,3,6,Easy,Master,UI/UX Design,In-person,0.45,CS,Full-time,9,Intermediate,Completed,19,60.63,13
+4438,2.21,92,6,14,Hard,Master,AI & Robotics,Online,0.31,CS,Part-time,7,Basic,Completed,6,85.46,21
+4439,3.25,65,4,14,Easy,Bachelor,Finance,Online,0.48,Design,Full-time,6,Advanced,Ongoing,8,60.91,17
+4440,2.88,85,6,22,Hard,Bachelor,AI & Robotics,In-person,0.37,Finance,Full-time,3,Advanced,Ongoing,19,88.58,12
+4441,2.85,83,3,5,Easy,Bachelor,Software Engineering,Online,0.39,Design,Part-time,3,Basic,Dropped,16,62.33,17
+4442,2.74,79,5,8,Hard,Master,UI/UX Design,In-person,0.27,Finance,Full-time,3,None,Completed,19,73.51,5
+4443,3.74,72,4,22,Easy,Master,Healthcare Informatics,In-person,0.48,Design,Part-time,7,Intermediate,Completed,14,85.23,12
+4444,2.56,77,5,15,Easy,Diploma,Cybersecurity,Online,0.35,Business,Full-time,1,Intermediate,Completed,19,55.91,17
+4445,2.04,88,6,5,Hard,Bachelor,Finance,Online,0.21,Design,Part-time,3,None,Completed,6,57.54,22
+4446,3.84,88,6,18,Moderate,Diploma,Cybersecurity,In-person,0.03,Finance,Full-time,5,None,Ongoing,7,61.62,9
+4447,3.73,75,6,24,Hard,Master,UI/UX Design,In-person,0.49,Finance,Part-time,8,None,Dropped,6,52.61,14
+4448,2.55,63,6,12,Easy,Diploma,Finance,Hybrid,0.44,Business,Part-time,9,Advanced,Ongoing,14,58.92,14
+4449,3.05,89,3,16,Easy,Master,Cybersecurity,Online,0.32,CS,Full-time,2,Advanced,Dropped,19,57.33,7
+4450,2.22,70,4,5,Moderate,Diploma,Healthcare Informatics,Online,0.28,CS,Part-time,1,Advanced,Completed,10,59.06,22
+4451,2.19,60,4,11,Easy,Diploma,Software Engineering,Online,0.3,Business,Full-time,4,None,Dropped,15,80.88,10
+4452,3.67,87,6,20,Moderate,Bachelor,AI & Robotics,Hybrid,0.44,CS,Part-time,7,None,Completed,16,51.51,10
+4453,2.82,67,4,21,Hard,Diploma,Cybersecurity,Hybrid,0.46,CS,Part-time,6,Intermediate,Dropped,6,89.84,12
+4454,3.32,69,3,7,Easy,Diploma,Software Engineering,In-person,0.15,Finance,Full-time,6,Intermediate,Dropped,18,58.17,10
+4455,3.89,65,4,7,Moderate,Bachelor,Cybersecurity,Hybrid,0.15,Design,Full-time,2,Advanced,Completed,10,81.8,11
+4456,2.49,98,6,9,Hard,Bachelor,AI & Robotics,Online,0.02,CS,Full-time,1,None,Completed,5,65.64,23
+4457,2.03,87,4,13,Hard,Master,UI/UX Design,Online,0.5,Business,Full-time,1,Intermediate,Dropped,7,72.73,19
+4458,2.05,97,5,19,Moderate,Diploma,AI & Robotics,Hybrid,0.48,Finance,Full-time,4,None,Completed,16,80.39,15
+4459,3.42,74,6,23,Moderate,Bachelor,Cybersecurity,Hybrid,0.39,CS,Part-time,1,Basic,Completed,10,76.11,19
+4460,3.85,85,3,9,Moderate,Diploma,UI/UX Design,Hybrid,0.22,CS,Part-time,7,Advanced,Ongoing,12,63.2,8
+4461,2.93,98,6,10,Hard,Master,AI & Robotics,Hybrid,0.28,CS,Full-time,2,Advanced,Completed,14,54.49,16
+4462,2.75,64,5,21,Easy,Diploma,Cybersecurity,Hybrid,0.39,Business,Full-time,4,Advanced,Completed,9,83.17,18
+4463,3.09,62,5,11,Moderate,Diploma,AI & Robotics,In-person,0.11,Design,Full-time,3,Basic,Ongoing,6,75.47,16
+4464,3.72,99,6,20,Moderate,Master,Healthcare Informatics,Online,0.11,Business,Part-time,5,Advanced,Ongoing,8,62.26,23
+4465,3.3,72,5,20,Easy,Master,Healthcare Informatics,In-person,0.28,Finance,Part-time,7,None,Dropped,5,78.21,7
+4466,2.47,77,6,10,Easy,Diploma,Healthcare Informatics,Online,0.34,CS,Full-time,6,None,Dropped,8,87.27,5
+4467,3.55,88,4,12,Easy,Master,UI/UX Design,In-person,0.26,CS,Part-time,8,Basic,Completed,18,72.33,23
+4468,2.27,83,5,22,Hard,Master,UI/UX Design,In-person,0.15,Business,Part-time,7,None,Completed,13,74.28,19
+4469,2.33,77,5,15,Easy,Master,Cybersecurity,Online,0.19,Finance,Part-time,6,Advanced,Completed,19,83.9,23
+4470,3.23,76,3,16,Hard,Master,UI/UX Design,Online,0.29,Business,Full-time,4,None,Ongoing,9,83.46,13
+4471,2.48,99,6,21,Moderate,Master,UI/UX Design,In-person,0.03,Design,Part-time,8,Intermediate,Completed,14,52.98,8
+4472,3.41,91,4,9,Hard,Master,AI & Robotics,Hybrid,0.49,CS,Full-time,4,None,Completed,18,50.15,6
+4473,2.7,95,5,12,Hard,Bachelor,Healthcare Informatics,In-person,0.49,Design,Full-time,8,Intermediate,Ongoing,7,76.94,22
+4474,2.55,65,4,19,Moderate,Master,UI/UX Design,In-person,0.42,CS,Part-time,6,None,Ongoing,13,88.65,8
+4475,4.0,81,4,11,Hard,Bachelor,AI & Robotics,Online,0.18,Finance,Full-time,3,Basic,Ongoing,6,87.19,10
+4476,2.08,75,4,22,Easy,Master,Finance,In-person,0.33,CS,Part-time,7,None,Dropped,7,94.38,16
+4477,3.29,96,5,10,Easy,Bachelor,Healthcare Informatics,Online,0.32,Business,Full-time,6,None,Dropped,15,52.21,9
+4478,2.08,69,5,7,Hard,Diploma,Software Engineering,Hybrid,0.2,CS,Part-time,7,Advanced,Dropped,17,59.54,24
+4479,3.52,87,4,21,Easy,Master,Finance,Hybrid,0.44,Design,Part-time,8,Intermediate,Ongoing,18,59.46,8
+4480,2.46,67,3,22,Hard,Bachelor,Cybersecurity,Online,0.28,Design,Full-time,1,Advanced,Completed,7,67.21,19
+4481,2.18,86,4,12,Hard,Diploma,Cybersecurity,Online,0.02,Design,Full-time,5,Intermediate,Dropped,13,79.36,20
+4482,3.3,96,3,24,Easy,Master,AI & Robotics,In-person,0.15,Business,Part-time,1,Intermediate,Ongoing,7,84.66,9
+4483,3.47,84,5,20,Moderate,Diploma,UI/UX Design,Online,0.37,CS,Full-time,5,Basic,Completed,14,65.19,14
+4484,3.36,86,4,24,Easy,Diploma,Finance,Hybrid,0.43,Finance,Part-time,9,None,Ongoing,16,63.78,19
+4485,2.1,77,4,14,Hard,Master,UI/UX Design,Online,0.31,Finance,Full-time,1,Basic,Dropped,13,57.95,21
+4486,2.59,62,3,10,Hard,Diploma,UI/UX Design,Online,0.33,Business,Part-time,8,None,Dropped,12,58.85,14
+4487,2.9,93,4,9,Hard,Diploma,Software Engineering,Online,0.39,Finance,Full-time,4,Advanced,Ongoing,8,72.68,8
+4488,2.57,72,6,12,Moderate,Master,Cybersecurity,Hybrid,0.21,CS,Part-time,9,Advanced,Completed,14,72.3,12
+4489,3.62,90,5,7,Hard,Diploma,Cybersecurity,Hybrid,0.07,CS,Part-time,1,Advanced,Ongoing,8,72.93,18
+4490,2.26,73,6,23,Moderate,Master,Finance,In-person,0.15,CS,Full-time,2,Advanced,Ongoing,19,80.15,8
+4491,3.22,94,3,15,Easy,Master,Software Engineering,In-person,0.25,Design,Part-time,1,None,Completed,6,77.67,23
+4492,3.98,88,6,9,Easy,Diploma,UI/UX Design,Online,0.35,Finance,Part-time,8,Intermediate,Dropped,9,64.43,12
+4493,3.81,74,5,24,Moderate,Master,UI/UX Design,Hybrid,0.18,Design,Full-time,3,None,Ongoing,5,53.94,6
+4494,2.44,89,3,20,Moderate,Diploma,AI & Robotics,Online,0.12,Business,Part-time,2,None,Ongoing,18,60.98,9
+4495,2.0,72,3,12,Easy,Master,Software Engineering,Online,0.21,Business,Full-time,3,Intermediate,Completed,7,61.52,10
+4496,3.96,71,3,12,Hard,Master,AI & Robotics,Hybrid,0.4,Business,Part-time,9,Basic,Ongoing,8,62.09,24
+4497,3.77,81,4,24,Hard,Bachelor,Cybersecurity,Online,0.31,Business,Full-time,7,None,Dropped,6,85.33,15
+4498,3.84,65,3,18,Moderate,Master,Cybersecurity,Hybrid,0.24,CS,Full-time,8,Advanced,Ongoing,19,55.44,7
+4499,2.83,66,6,23,Moderate,Diploma,Software Engineering,Online,0.14,Design,Full-time,5,Intermediate,Dropped,11,52.39,5
+4500,3.49,89,3,17,Hard,Master,Software Engineering,Online,0.13,CS,Part-time,3,Intermediate,Ongoing,18,73.37,16
+4501,2.43,91,5,15,Hard,Master,Cybersecurity,Online,0.12,Finance,Part-time,3,Advanced,Dropped,13,62.14,15
+4502,2.78,97,5,17,Hard,Bachelor,Healthcare Informatics,Online,0.3,Business,Part-time,3,Intermediate,Ongoing,19,91.61,21
+4503,3.7,60,6,23,Hard,Bachelor,Cybersecurity,Hybrid,0.06,Finance,Full-time,9,Basic,Ongoing,5,82.67,9
+4504,2.26,95,3,18,Hard,Master,Cybersecurity,Online,0.4,Business,Full-time,6,None,Ongoing,11,94.42,23
+4505,3.79,86,6,18,Hard,Bachelor,Cybersecurity,Hybrid,0.24,Business,Full-time,4,None,Dropped,15,94.0,22
+4506,2.99,98,4,11,Moderate,Bachelor,Finance,In-person,0.48,Finance,Part-time,1,Advanced,Dropped,16,74.1,22
+4507,2.85,71,6,19,Hard,Master,Cybersecurity,Online,0.12,Finance,Part-time,8,Intermediate,Ongoing,13,71.24,21
+4508,2.61,98,6,21,Easy,Diploma,Cybersecurity,In-person,0.34,Business,Full-time,8,None,Dropped,16,61.54,9
+4509,3.83,65,3,22,Moderate,Bachelor,UI/UX Design,Online,0.19,Design,Full-time,5,Advanced,Ongoing,6,82.39,19
+4510,3.04,98,3,23,Moderate,Bachelor,Finance,Hybrid,0.49,Business,Part-time,3,Intermediate,Completed,16,91.73,11
+4511,3.61,83,5,21,Hard,Bachelor,UI/UX Design,Hybrid,0.31,Finance,Full-time,4,None,Completed,11,85.25,18
+4512,3.72,63,4,22,Easy,Master,Finance,In-person,0.34,Design,Full-time,1,Advanced,Ongoing,10,68.46,11
+4513,3.84,63,4,13,Moderate,Bachelor,Healthcare Informatics,Online,0.07,Design,Part-time,9,None,Ongoing,9,57.12,20
+4514,2.61,99,6,9,Moderate,Diploma,AI & Robotics,Hybrid,0.18,Design,Full-time,6,None,Ongoing,6,79.2,15
+4515,2.68,63,3,15,Moderate,Bachelor,Healthcare Informatics,Online,0.36,Business,Part-time,1,Intermediate,Completed,18,83.12,19
+4516,3.19,76,4,11,Moderate,Bachelor,Finance,Hybrid,0.17,Business,Part-time,5,Intermediate,Completed,6,78.28,15
+4517,2.88,81,4,13,Hard,Master,Healthcare Informatics,Hybrid,0.39,Design,Full-time,4,Basic,Completed,13,53.58,10
+4518,3.87,86,6,12,Hard,Diploma,Software Engineering,Hybrid,0.37,CS,Part-time,4,Advanced,Ongoing,17,73.03,16
+4519,2.8,68,5,16,Easy,Bachelor,Finance,Online,0.05,Business,Part-time,1,Basic,Completed,11,85.04,8
+4520,2.96,84,3,10,Hard,Bachelor,AI & Robotics,Online,0.06,Business,Part-time,7,None,Dropped,16,68.21,9
+4521,3.23,95,4,5,Moderate,Master,Finance,In-person,0.06,Finance,Part-time,5,Intermediate,Completed,9,62.08,7
+4522,2.81,97,5,17,Hard,Diploma,Finance,Online,0.02,Finance,Part-time,6,Advanced,Dropped,11,63.9,13
+4523,3.98,97,3,14,Hard,Master,Healthcare Informatics,In-person,0.16,Business,Full-time,3,Intermediate,Ongoing,10,60.43,19
+4524,2.2,88,6,16,Hard,Master,Software Engineering,Online,0.34,Design,Full-time,5,None,Ongoing,9,88.52,14
+4525,2.44,63,5,23,Easy,Bachelor,Healthcare Informatics,In-person,0.25,Finance,Full-time,9,None,Completed,18,76.68,17
+4526,2.65,77,5,8,Easy,Diploma,Finance,In-person,0.07,Design,Full-time,2,Advanced,Ongoing,7,84.72,6
+4527,2.3,74,6,12,Moderate,Master,Cybersecurity,Hybrid,0.28,Business,Full-time,5,Advanced,Dropped,12,57.01,5
+4528,2.57,86,3,11,Easy,Master,Finance,Hybrid,0.45,Design,Full-time,9,Basic,Completed,18,70.0,23
+4529,3.56,94,3,13,Moderate,Diploma,Healthcare Informatics,In-person,0.02,CS,Part-time,6,Advanced,Ongoing,13,89.75,22
+4530,3.05,70,4,20,Easy,Master,Cybersecurity,Online,0.21,Finance,Full-time,7,None,Completed,12,68.46,19
+4531,2.07,95,5,18,Moderate,Diploma,Healthcare Informatics,Online,0.09,CS,Part-time,3,Basic,Completed,7,66.22,14
+4532,3.97,67,3,15,Moderate,Diploma,UI/UX Design,Online,0.02,Finance,Full-time,3,Advanced,Dropped,8,55.92,23
+4533,3.23,87,5,15,Easy,Master,AI & Robotics,Hybrid,0.02,Finance,Full-time,1,Basic,Completed,17,78.1,13
+4534,2.12,97,6,24,Easy,Master,Cybersecurity,Hybrid,0.27,Business,Part-time,6,Intermediate,Completed,8,68.97,5
+4535,3.32,60,3,13,Moderate,Master,Cybersecurity,In-person,0.26,Finance,Full-time,7,Intermediate,Completed,5,69.82,7
+4536,2.76,87,4,23,Moderate,Master,AI & Robotics,Online,0.14,CS,Part-time,6,Basic,Dropped,17,70.09,23
+4537,2.27,64,6,15,Hard,Bachelor,UI/UX Design,Hybrid,0.33,Finance,Full-time,3,Basic,Dropped,18,75.55,19
+4538,3.13,72,3,14,Moderate,Diploma,UI/UX Design,Online,0.14,Design,Part-time,7,Basic,Ongoing,10,82.75,12
+4539,3.45,64,3,17,Moderate,Master,Cybersecurity,Hybrid,0.16,CS,Part-time,8,Advanced,Completed,6,75.89,12
+4540,3.34,77,3,19,Hard,Master,Software Engineering,Hybrid,0.0,CS,Full-time,7,Intermediate,Dropped,15,50.33,15
+4541,2.5,92,3,16,Hard,Bachelor,AI & Robotics,In-person,0.06,Business,Part-time,8,None,Ongoing,12,53.81,6
+4542,3.05,61,5,18,Moderate,Bachelor,UI/UX Design,Online,0.2,Design,Full-time,6,Advanced,Completed,14,84.54,7
+4543,3.08,82,4,13,Hard,Master,UI/UX Design,Hybrid,0.23,Business,Full-time,7,Advanced,Completed,7,85.61,11
+4544,3.43,62,5,8,Easy,Bachelor,Cybersecurity,Hybrid,0.1,Finance,Part-time,1,None,Completed,7,60.6,15
+4545,2.72,76,3,14,Easy,Bachelor,Software Engineering,In-person,0.39,Finance,Full-time,3,None,Completed,12,65.07,6
+4546,3.6,89,6,21,Hard,Diploma,Healthcare Informatics,Online,0.27,CS,Part-time,5,Intermediate,Completed,19,74.28,20
+4547,3.26,90,5,21,Moderate,Bachelor,Software Engineering,Hybrid,0.35,CS,Full-time,7,Intermediate,Completed,8,89.73,11
+4548,2.08,68,4,8,Hard,Master,Finance,In-person,0.16,Finance,Part-time,5,Advanced,Completed,9,59.12,12
+4549,3.09,69,4,7,Easy,Diploma,Software Engineering,Online,0.29,CS,Full-time,8,Advanced,Ongoing,17,88.58,20
+4550,3.72,68,3,6,Hard,Master,Healthcare Informatics,Hybrid,0.1,Business,Part-time,1,Basic,Completed,17,59.55,19
+4551,3.14,89,5,15,Easy,Diploma,Finance,In-person,0.19,Finance,Full-time,1,Basic,Dropped,9,50.98,12
+4552,2.35,79,3,14,Moderate,Master,Finance,In-person,0.29,Finance,Full-time,6,None,Completed,15,84.16,14
+4553,3.02,65,3,14,Easy,Master,Cybersecurity,Hybrid,0.14,Finance,Part-time,8,Advanced,Ongoing,9,73.31,15
+4554,3.51,97,4,19,Moderate,Bachelor,Finance,Hybrid,0.11,Design,Part-time,2,Basic,Completed,11,77.07,22
+4555,2.22,91,4,15,Moderate,Diploma,Software Engineering,Hybrid,0.26,CS,Part-time,9,None,Completed,17,66.4,6
+4556,3.63,80,5,14,Hard,Bachelor,Cybersecurity,Hybrid,0.31,CS,Part-time,2,Intermediate,Ongoing,9,84.99,7
+4557,2.33,85,6,11,Moderate,Master,Software Engineering,Hybrid,0.38,Business,Full-time,4,Advanced,Ongoing,16,72.88,21
+4558,3.07,79,4,7,Hard,Master,Healthcare Informatics,Online,0.39,Business,Part-time,5,Intermediate,Completed,15,63.05,14
+4559,2.77,94,3,23,Hard,Master,Cybersecurity,Hybrid,0.09,CS,Full-time,9,Intermediate,Completed,7,87.13,6
+4560,2.5,71,3,19,Hard,Master,Software Engineering,In-person,0.03,Business,Part-time,5,None,Ongoing,9,56.38,22
+4561,3.29,95,6,19,Hard,Bachelor,UI/UX Design,In-person,0.31,CS,Full-time,4,Basic,Ongoing,18,94.37,22
+4562,2.07,90,5,17,Hard,Bachelor,Software Engineering,Hybrid,0.47,Business,Part-time,1,None,Ongoing,6,78.99,18
+4563,3.52,62,3,23,Hard,Master,UI/UX Design,Hybrid,0.46,Business,Full-time,2,Basic,Ongoing,9,80.64,17
+4564,3.05,67,5,5,Moderate,Diploma,AI & Robotics,Hybrid,0.38,Finance,Full-time,2,Basic,Completed,5,57.21,11
+4565,3.75,79,4,12,Moderate,Diploma,UI/UX Design,Online,0.11,Finance,Part-time,8,None,Completed,14,69.87,8
+4566,3.04,78,4,11,Easy,Master,Cybersecurity,Online,0.11,CS,Part-time,1,Advanced,Ongoing,8,78.26,5
+4567,2.07,65,5,11,Hard,Diploma,AI & Robotics,Hybrid,0.28,CS,Full-time,3,None,Completed,12,52.55,6
+4568,2.29,62,3,12,Hard,Diploma,UI/UX Design,In-person,0.13,Finance,Part-time,2,Basic,Ongoing,18,85.78,9
+4569,3.59,90,3,18,Moderate,Bachelor,Cybersecurity,Hybrid,0.33,CS,Full-time,1,Advanced,Completed,19,66.94,8
+4570,2.98,89,3,5,Easy,Bachelor,UI/UX Design,In-person,0.41,Finance,Full-time,7,Intermediate,Ongoing,8,80.11,16
+4571,2.88,68,4,6,Hard,Bachelor,Cybersecurity,Hybrid,0.15,Business,Full-time,4,Intermediate,Ongoing,18,71.4,24
+4572,2.64,89,3,7,Moderate,Master,UI/UX Design,Hybrid,0.45,CS,Full-time,9,Intermediate,Completed,13,77.75,24
+4573,2.57,63,4,16,Easy,Master,Finance,Hybrid,0.21,CS,Part-time,1,None,Ongoing,13,77.72,5
+4574,3.93,77,3,8,Moderate,Master,UI/UX Design,Online,0.22,CS,Full-time,5,Basic,Ongoing,16,88.57,15
+4575,2.87,78,4,23,Hard,Master,Software Engineering,Hybrid,0.33,Finance,Part-time,2,Basic,Dropped,18,80.89,20
+4576,3.77,73,6,9,Hard,Master,UI/UX Design,In-person,0.4,Design,Full-time,5,Advanced,Completed,8,50.27,14
+4577,3.3,97,5,22,Easy,Master,UI/UX Design,Online,0.36,Finance,Part-time,8,Intermediate,Completed,7,61.99,21
+4578,3.72,61,5,11,Hard,Master,UI/UX Design,Hybrid,0.27,Design,Part-time,1,Advanced,Ongoing,10,55.26,17
+4579,3.7,70,5,18,Easy,Bachelor,UI/UX Design,In-person,0.42,Finance,Full-time,9,Basic,Dropped,8,54.91,15
+4580,3.91,88,6,19,Easy,Bachelor,UI/UX Design,Online,0.47,Finance,Part-time,3,Basic,Ongoing,10,64.74,24
+4581,3.4,96,6,5,Moderate,Bachelor,AI & Robotics,In-person,0.47,Design,Part-time,5,Intermediate,Ongoing,19,93.86,21
+4582,3.61,87,3,20,Moderate,Bachelor,Software Engineering,Hybrid,0.15,CS,Part-time,6,Advanced,Dropped,9,60.27,24
+4583,3.47,80,3,16,Hard,Master,Healthcare Informatics,In-person,0.19,Business,Part-time,3,Advanced,Ongoing,8,85.1,16
+4584,3.21,84,3,6,Hard,Diploma,Cybersecurity,Hybrid,0.39,Finance,Part-time,5,Basic,Dropped,18,80.82,18
+4585,3.43,72,3,13,Easy,Master,Healthcare Informatics,In-person,0.35,Finance,Part-time,2,Basic,Ongoing,7,80.99,19
+4586,3.43,79,4,14,Hard,Diploma,Healthcare Informatics,In-person,0.35,Finance,Part-time,1,Basic,Completed,13,73.67,12
+4587,2.08,98,5,11,Hard,Master,AI & Robotics,In-person,0.4,Design,Part-time,3,None,Completed,10,77.87,20
+4588,3.03,93,6,5,Moderate,Master,Healthcare Informatics,In-person,0.35,Finance,Full-time,8,Advanced,Ongoing,17,87.72,11
+4589,3.59,98,5,5,Hard,Bachelor,Finance,In-person,0.14,Design,Part-time,6,Intermediate,Completed,7,82.46,18
+4590,2.49,67,5,5,Hard,Diploma,Finance,Online,0.28,Business,Part-time,7,None,Ongoing,10,74.33,9
+4591,2.93,78,6,7,Hard,Master,Finance,In-person,0.17,Finance,Full-time,1,Basic,Ongoing,19,64.87,22
+4592,2.87,64,4,11,Hard,Diploma,AI & Robotics,In-person,0.15,Business,Full-time,7,Advanced,Ongoing,18,56.09,5
+4593,2.81,98,5,13,Hard,Master,AI & Robotics,In-person,0.16,Design,Part-time,5,None,Dropped,12,84.8,8
+4594,2.24,83,5,9,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.2,Design,Full-time,5,Basic,Completed,5,60.89,5
+4595,3.05,90,3,24,Hard,Diploma,Finance,In-person,0.21,CS,Part-time,2,Basic,Ongoing,7,70.58,11
+4596,2.89,81,6,13,Hard,Bachelor,Cybersecurity,Online,0.14,Design,Part-time,3,Advanced,Ongoing,5,71.97,15
+4597,3.33,98,4,15,Moderate,Diploma,Software Engineering,Online,0.32,Design,Part-time,1,None,Dropped,8,64.62,20
+4598,3.1,95,6,18,Moderate,Master,Finance,Online,0.38,Finance,Part-time,6,Basic,Ongoing,19,66.99,18
+4599,2.06,79,3,15,Moderate,Bachelor,Cybersecurity,In-person,0.28,Finance,Full-time,5,Basic,Completed,13,80.81,23
+4600,2.06,97,5,5,Easy,Bachelor,Finance,Hybrid,0.33,Business,Full-time,2,None,Completed,8,69.1,10
+4601,3.4,74,4,7,Easy,Bachelor,UI/UX Design,Online,0.11,Business,Part-time,1,Intermediate,Dropped,17,89.95,13
+4602,3.42,60,4,5,Hard,Diploma,UI/UX Design,Hybrid,0.34,Finance,Full-time,4,Basic,Ongoing,14,91.88,15
+4603,3.92,60,6,19,Easy,Master,Cybersecurity,Hybrid,0.5,Business,Part-time,9,None,Ongoing,13,73.37,21
+4604,3.75,63,4,8,Hard,Diploma,Finance,In-person,0.18,Finance,Part-time,7,Intermediate,Completed,9,60.94,11
+4605,2.94,89,3,16,Moderate,Master,Cybersecurity,Hybrid,0.1,CS,Full-time,2,Advanced,Dropped,13,54.2,24
+4606,3.25,76,3,5,Easy,Bachelor,AI & Robotics,In-person,0.15,Business,Part-time,6,Advanced,Completed,13,52.11,21
+4607,2.91,66,4,21,Moderate,Bachelor,Cybersecurity,Hybrid,0.11,Design,Full-time,6,Basic,Completed,7,84.91,16
+4608,2.45,86,3,19,Hard,Bachelor,Healthcare Informatics,In-person,0.29,Design,Full-time,7,None,Completed,15,84.07,7
+4609,2.75,82,6,13,Moderate,Master,Finance,In-person,0.47,CS,Full-time,9,Basic,Completed,11,94.28,10
+4610,2.21,89,5,19,Moderate,Diploma,UI/UX Design,In-person,0.03,CS,Full-time,9,None,Dropped,13,81.94,22
+4611,3.33,60,4,16,Easy,Master,Software Engineering,Online,0.42,CS,Full-time,7,Basic,Completed,12,61.53,12
+4612,2.38,85,5,21,Hard,Diploma,Healthcare Informatics,Hybrid,0.18,Business,Full-time,3,Basic,Ongoing,13,87.05,16
+4613,2.95,77,5,14,Hard,Diploma,Healthcare Informatics,Hybrid,0.18,Business,Full-time,2,Advanced,Completed,19,50.63,15
+4614,3.93,88,3,17,Hard,Bachelor,Cybersecurity,Hybrid,0.19,CS,Part-time,2,Intermediate,Completed,17,83.32,14
+4615,2.06,78,6,15,Easy,Diploma,Cybersecurity,Hybrid,0.3,Finance,Part-time,7,Advanced,Dropped,6,74.95,15
+4616,2.3,68,6,12,Easy,Bachelor,UI/UX Design,Online,0.08,Finance,Full-time,2,None,Ongoing,11,87.26,13
+4617,2.6,68,6,18,Easy,Bachelor,Healthcare Informatics,In-person,0.46,Finance,Full-time,4,Intermediate,Ongoing,10,67.91,23
+4618,3.88,79,4,12,Moderate,Bachelor,Cybersecurity,Online,0.19,Design,Full-time,7,Basic,Completed,11,51.51,23
+4619,3.82,69,5,23,Easy,Bachelor,UI/UX Design,Hybrid,0.36,Business,Full-time,8,None,Completed,8,90.7,9
+4620,2.32,87,3,7,Hard,Master,Finance,Hybrid,0.49,Design,Full-time,1,Basic,Dropped,5,79.24,14
+4621,3.96,82,6,23,Easy,Master,Healthcare Informatics,Online,0.3,Business,Full-time,1,Basic,Dropped,13,94.01,15
+4622,3.5,77,4,18,Hard,Master,UI/UX Design,Hybrid,0.42,Design,Full-time,9,Basic,Completed,19,78.88,15
+4623,3.08,68,3,23,Hard,Bachelor,AI & Robotics,Online,0.11,Business,Part-time,2,None,Completed,16,70.31,22
+4624,3.86,78,6,8,Moderate,Master,AI & Robotics,Hybrid,0.05,Business,Part-time,1,Intermediate,Ongoing,12,59.59,19
+4625,3.76,85,5,16,Hard,Bachelor,AI & Robotics,Online,0.2,CS,Part-time,1,Basic,Completed,15,54.21,20
+4626,2.78,92,6,13,Moderate,Master,Healthcare Informatics,Online,0.17,Finance,Part-time,1,None,Dropped,5,80.9,14
+4627,3.31,64,5,6,Easy,Diploma,Finance,In-person,0.06,Design,Part-time,9,Basic,Dropped,10,74.07,18
+4628,3.29,65,4,21,Moderate,Bachelor,Finance,Online,0.25,Design,Part-time,9,Basic,Dropped,7,81.71,11
+4629,2.65,63,6,14,Moderate,Bachelor,Healthcare Informatics,Online,0.38,CS,Part-time,7,Advanced,Completed,5,79.12,24
+4630,2.36,84,5,14,Moderate,Master,Cybersecurity,Online,0.11,Design,Part-time,4,Basic,Dropped,15,50.04,13
+4631,2.93,72,5,5,Moderate,Bachelor,UI/UX Design,Online,0.18,Business,Full-time,5,Intermediate,Dropped,14,82.34,9
+4632,2.53,87,5,20,Easy,Diploma,UI/UX Design,In-person,0.02,Finance,Part-time,2,Basic,Ongoing,8,82.19,23
+4633,2.71,66,4,20,Easy,Bachelor,AI & Robotics,Online,0.23,Finance,Full-time,3,Basic,Completed,6,83.49,23
+4634,3.91,63,6,18,Hard,Bachelor,Healthcare Informatics,Online,0.47,Business,Full-time,9,Basic,Ongoing,18,53.0,7
+4635,2.92,64,6,23,Moderate,Master,UI/UX Design,Hybrid,0.08,CS,Part-time,8,Advanced,Dropped,14,77.69,8
+4636,3.37,71,5,19,Easy,Bachelor,UI/UX Design,Online,0.06,Design,Full-time,2,None,Dropped,18,78.19,22
+4637,2.67,76,5,8,Hard,Diploma,Software Engineering,Online,0.06,CS,Full-time,2,Advanced,Dropped,5,82.92,5
+4638,3.99,99,6,6,Hard,Diploma,AI & Robotics,Online,0.27,Business,Full-time,3,None,Completed,15,54.36,17
+4639,3.32,97,3,8,Moderate,Diploma,Healthcare Informatics,In-person,0.18,Finance,Part-time,3,Advanced,Dropped,6,69.16,10
+4640,2.39,86,3,11,Easy,Bachelor,UI/UX Design,In-person,0.36,Design,Full-time,2,None,Ongoing,19,68.86,10
+4641,2.2,83,5,22,Moderate,Bachelor,Cybersecurity,Online,0.42,Finance,Full-time,7,Advanced,Completed,8,66.15,23
+4642,3.89,96,5,11,Hard,Bachelor,Finance,Online,0.03,Finance,Part-time,9,Advanced,Dropped,12,73.55,10
+4643,3.89,71,3,23,Moderate,Diploma,UI/UX Design,Hybrid,0.49,Design,Part-time,7,None,Dropped,10,54.29,7
+4644,3.24,78,6,20,Moderate,Diploma,Finance,In-person,0.27,CS,Part-time,4,Advanced,Ongoing,13,61.31,16
+4645,2.03,75,6,18,Easy,Bachelor,AI & Robotics,Online,0.35,Finance,Full-time,2,Intermediate,Dropped,8,93.58,10
+4646,2.45,97,4,18,Hard,Diploma,Cybersecurity,In-person,0.45,Finance,Part-time,7,Basic,Ongoing,12,51.19,7
+4647,3.6,82,6,21,Easy,Master,UI/UX Design,Hybrid,0.14,Design,Full-time,5,Intermediate,Ongoing,17,59.68,9
+4648,3.75,93,3,12,Moderate,Master,Software Engineering,Online,0.23,Finance,Part-time,7,None,Ongoing,18,65.47,23
+4649,2.91,93,5,8,Hard,Diploma,Software Engineering,Hybrid,0.46,Design,Part-time,2,Basic,Ongoing,5,63.15,20
+4650,2.73,70,6,16,Easy,Diploma,AI & Robotics,In-person,0.16,Design,Full-time,4,Basic,Dropped,17,92.04,12
+4651,2.55,73,6,16,Moderate,Diploma,Software Engineering,In-person,0.48,Design,Part-time,7,Advanced,Completed,9,75.74,10
+4652,2.23,84,4,19,Easy,Diploma,Finance,In-person,0.32,CS,Full-time,9,Advanced,Completed,6,70.33,11
+4653,2.23,63,4,17,Hard,Diploma,Software Engineering,In-person,0.33,Finance,Full-time,1,Intermediate,Ongoing,11,66.41,8
+4654,3.91,96,3,24,Easy,Bachelor,Cybersecurity,In-person,0.05,CS,Full-time,5,Advanced,Completed,12,72.13,13
+4655,3.62,77,5,16,Hard,Diploma,Finance,Hybrid,0.19,Finance,Full-time,4,None,Completed,8,54.3,9
+4656,2.33,70,6,5,Moderate,Bachelor,Finance,Hybrid,0.12,Business,Full-time,4,Basic,Ongoing,15,71.05,17
+4657,2.41,91,4,20,Easy,Diploma,Cybersecurity,Hybrid,0.24,Business,Part-time,5,Advanced,Dropped,19,86.83,15
+4658,3.31,69,6,9,Moderate,Bachelor,Cybersecurity,Online,0.38,Business,Part-time,4,Basic,Dropped,16,71.38,7
+4659,3.53,76,6,15,Moderate,Diploma,Cybersecurity,Online,0.37,Business,Full-time,7,Basic,Dropped,15,57.11,12
+4660,3.62,73,3,24,Easy,Diploma,Healthcare Informatics,Online,0.35,Business,Full-time,8,None,Completed,11,62.72,5
+4661,2.33,76,5,15,Moderate,Diploma,Cybersecurity,Hybrid,0.13,Business,Full-time,9,Advanced,Completed,11,50.97,11
+4662,3.97,65,5,7,Moderate,Master,Cybersecurity,In-person,0.35,Finance,Part-time,6,Basic,Completed,12,82.91,18
+4663,2.46,63,4,5,Easy,Diploma,Healthcare Informatics,In-person,0.24,Design,Full-time,1,Basic,Ongoing,8,67.9,17
+4664,3.18,60,5,21,Easy,Bachelor,Healthcare Informatics,In-person,0.24,Finance,Full-time,3,Intermediate,Dropped,19,57.45,10
+4665,3.18,95,3,13,Hard,Diploma,Cybersecurity,Hybrid,0.31,Finance,Part-time,6,None,Dropped,11,92.02,11
+4666,3.93,88,5,20,Hard,Master,UI/UX Design,Hybrid,0.07,Business,Full-time,1,Basic,Completed,15,86.64,19
+4667,3.32,96,3,7,Hard,Master,UI/UX Design,Hybrid,0.47,Design,Part-time,4,Advanced,Ongoing,6,56.49,20
+4668,3.17,90,6,22,Moderate,Master,Finance,In-person,0.31,Design,Full-time,7,Intermediate,Ongoing,17,66.74,10
+4669,3.04,68,4,12,Easy,Diploma,AI & Robotics,Hybrid,0.18,CS,Part-time,2,Advanced,Completed,16,67.77,24
+4670,3.53,85,3,23,Hard,Master,Software Engineering,In-person,0.29,CS,Full-time,1,Basic,Dropped,6,91.36,12
+4671,2.21,75,4,16,Moderate,Bachelor,Finance,In-person,0.34,Business,Full-time,9,Intermediate,Ongoing,17,87.44,9
+4672,2.0,99,5,17,Hard,Master,UI/UX Design,Hybrid,0.43,Finance,Part-time,2,Basic,Dropped,13,71.82,23
+4673,3.9,90,3,16,Hard,Master,Cybersecurity,In-person,0.26,Business,Part-time,6,Basic,Dropped,9,63.22,11
+4674,3.0,86,3,20,Easy,Bachelor,Cybersecurity,In-person,0.34,Finance,Part-time,1,Intermediate,Ongoing,5,78.73,17
+4675,2.66,81,4,13,Easy,Bachelor,AI & Robotics,Hybrid,0.15,Finance,Part-time,3,Intermediate,Ongoing,15,68.84,23
+4676,2.74,69,6,9,Moderate,Diploma,Healthcare Informatics,Online,0.19,CS,Part-time,1,Basic,Ongoing,5,52.17,21
+4677,3.61,82,4,23,Hard,Diploma,AI & Robotics,In-person,0.04,Finance,Full-time,8,Advanced,Dropped,8,55.6,24
+4678,2.76,64,4,10,Hard,Master,Software Engineering,Hybrid,0.33,CS,Full-time,4,None,Dropped,6,87.43,13
+4679,3.54,96,6,9,Hard,Diploma,Cybersecurity,In-person,0.33,CS,Part-time,3,None,Completed,18,92.93,6
+4680,2.88,69,5,8,Easy,Master,UI/UX Design,Hybrid,0.03,CS,Part-time,7,Basic,Ongoing,9,85.17,11
+4681,3.69,72,3,13,Easy,Bachelor,Software Engineering,Hybrid,0.2,Business,Part-time,2,Intermediate,Ongoing,8,57.09,19
+4682,2.15,92,6,22,Hard,Master,UI/UX Design,In-person,0.05,Design,Part-time,4,Intermediate,Completed,11,86.58,5
+4683,2.96,96,4,5,Moderate,Bachelor,Software Engineering,Online,0.28,Design,Part-time,6,Intermediate,Completed,15,58.01,11
+4684,2.93,65,6,18,Moderate,Bachelor,Healthcare Informatics,Online,0.18,Business,Full-time,9,Intermediate,Dropped,19,57.62,15
+4685,2.53,94,5,15,Moderate,Diploma,Healthcare Informatics,In-person,0.39,Design,Part-time,8,Basic,Completed,19,69.97,22
+4686,3.89,93,6,11,Moderate,Diploma,Cybersecurity,Online,0.21,Business,Part-time,9,Advanced,Dropped,18,55.3,22
+4687,3.81,79,5,21,Hard,Diploma,UI/UX Design,Hybrid,0.5,Business,Part-time,6,Advanced,Dropped,15,93.28,17
+4688,2.89,61,5,12,Easy,Master,Healthcare Informatics,In-person,0.35,Finance,Full-time,7,Advanced,Completed,11,70.48,17
+4689,2.19,83,3,22,Moderate,Master,Finance,Online,0.13,Finance,Full-time,8,None,Ongoing,13,54.06,12
+4690,2.41,77,5,20,Hard,Bachelor,Healthcare Informatics,In-person,0.06,Design,Part-time,6,Advanced,Dropped,18,66.43,21
+4691,2.54,69,5,23,Hard,Master,Healthcare Informatics,Hybrid,0.36,CS,Part-time,6,None,Dropped,18,58.74,8
+4692,2.97,91,3,15,Hard,Bachelor,Software Engineering,Hybrid,0.16,Business,Part-time,3,None,Ongoing,16,64.78,7
+4693,2.68,71,6,24,Easy,Master,Healthcare Informatics,Online,0.04,Finance,Full-time,4,None,Completed,11,88.99,23
+4694,3.55,61,3,5,Moderate,Bachelor,Finance,Online,0.29,Finance,Full-time,8,Basic,Ongoing,16,51.24,10
+4695,2.95,64,4,24,Easy,Bachelor,Software Engineering,In-person,0.05,CS,Part-time,4,Advanced,Ongoing,13,78.71,11
+4696,3.74,91,4,15,Hard,Diploma,Software Engineering,In-person,0.12,CS,Part-time,6,None,Dropped,8,64.21,21
+4697,3.99,86,3,22,Easy,Master,UI/UX Design,Online,0.23,CS,Full-time,5,Advanced,Dropped,7,65.92,21
+4698,2.44,73,3,17,Easy,Diploma,UI/UX Design,Online,0.39,CS,Part-time,7,Basic,Completed,16,87.22,16
+4699,3.22,70,6,16,Easy,Master,Healthcare Informatics,In-person,0.21,Business,Full-time,4,Basic,Completed,18,90.16,9
+4700,3.7,87,5,9,Easy,Bachelor,AI & Robotics,Online,0.15,CS,Full-time,3,Advanced,Dropped,10,83.72,23
+4701,3.89,91,4,13,Easy,Bachelor,Software Engineering,Online,0.09,Design,Part-time,2,Intermediate,Completed,6,82.09,5
+4702,2.58,78,6,16,Easy,Master,Finance,Online,0.19,CS,Part-time,1,Basic,Ongoing,6,79.83,5
+4703,3.45,72,6,24,Hard,Diploma,AI & Robotics,In-person,0.02,Finance,Part-time,2,Intermediate,Completed,9,62.18,13
+4704,2.03,76,5,24,Easy,Diploma,Software Engineering,Hybrid,0.18,CS,Part-time,2,None,Ongoing,15,93.49,11
+4705,3.76,88,5,9,Easy,Bachelor,Finance,Hybrid,0.13,CS,Full-time,2,Intermediate,Ongoing,5,75.77,19
+4706,2.13,78,6,9,Easy,Diploma,Healthcare Informatics,In-person,0.06,Finance,Full-time,6,None,Ongoing,8,70.54,24
+4707,3.47,84,4,19,Easy,Bachelor,AI & Robotics,Hybrid,0.08,CS,Full-time,8,None,Dropped,18,74.42,15
+4708,3.99,76,6,9,Moderate,Master,Cybersecurity,Online,0.46,Design,Full-time,3,Basic,Dropped,11,83.76,5
+4709,3.0,73,4,15,Hard,Bachelor,Healthcare Informatics,Online,0.18,Design,Part-time,5,Intermediate,Completed,15,54.97,5
+4710,2.42,79,5,24,Easy,Bachelor,Healthcare Informatics,Online,0.35,Design,Full-time,3,Basic,Completed,5,61.49,7
+4711,3.19,96,3,6,Easy,Master,Healthcare Informatics,Online,0.46,Business,Part-time,8,None,Dropped,14,81.13,5
+4712,3.25,90,4,7,Easy,Diploma,UI/UX Design,Online,0.06,CS,Part-time,7,None,Ongoing,15,52.07,16
+4713,3.34,65,6,5,Moderate,Diploma,Healthcare Informatics,Hybrid,0.3,Business,Full-time,3,Intermediate,Ongoing,17,88.48,7
+4714,2.35,71,6,10,Moderate,Diploma,Cybersecurity,Online,0.45,Business,Part-time,1,Intermediate,Dropped,17,77.34,21
+4715,3.8,85,4,19,Easy,Diploma,Software Engineering,Hybrid,0.47,Business,Part-time,6,None,Completed,12,91.97,5
+4716,3.24,86,6,23,Moderate,Diploma,Finance,In-person,0.21,Business,Part-time,7,Intermediate,Dropped,13,68.4,17
+4717,2.09,74,3,16,Easy,Master,Finance,Online,0.2,Design,Full-time,2,None,Dropped,15,83.59,13
+4718,3.37,70,3,5,Hard,Master,Cybersecurity,Hybrid,0.48,Finance,Full-time,2,Advanced,Dropped,17,71.8,12
+4719,2.39,85,5,23,Moderate,Bachelor,UI/UX Design,Hybrid,0.37,Design,Part-time,7,None,Ongoing,9,92.47,21
+4720,2.05,66,3,14,Moderate,Master,Finance,Online,0.43,Finance,Part-time,4,None,Completed,17,89.59,15
+4721,3.1,97,3,10,Easy,Bachelor,Finance,Hybrid,0.39,Business,Part-time,4,Advanced,Ongoing,18,57.5,21
+4722,3.63,83,5,7,Hard,Master,UI/UX Design,In-person,0.33,Design,Full-time,7,None,Completed,7,62.22,8
+4723,3.72,86,5,13,Easy,Bachelor,AI & Robotics,In-person,0.2,Design,Part-time,8,Basic,Ongoing,18,59.43,22
+4724,2.21,82,6,9,Hard,Bachelor,Cybersecurity,Hybrid,0.2,Design,Part-time,7,Advanced,Dropped,9,69.02,8
+4725,3.33,62,4,17,Moderate,Bachelor,UI/UX Design,In-person,0.34,Finance,Full-time,3,Advanced,Ongoing,19,52.86,23
+4726,3.42,77,6,16,Moderate,Bachelor,Finance,In-person,0.42,Design,Full-time,8,Advanced,Dropped,17,53.05,8
+4727,2.59,71,3,16,Hard,Diploma,Cybersecurity,In-person,0.03,Design,Full-time,9,Intermediate,Dropped,12,79.38,8
+4728,3.94,63,4,14,Moderate,Diploma,Cybersecurity,In-person,0.44,Business,Full-time,2,Intermediate,Dropped,11,66.62,18
+4729,2.56,77,3,10,Easy,Master,Healthcare Informatics,Online,0.27,Finance,Full-time,6,Basic,Dropped,12,89.48,23
+4730,2.14,80,3,20,Moderate,Bachelor,AI & Robotics,Hybrid,0.27,Finance,Full-time,4,Advanced,Ongoing,12,75.26,21
+4731,3.04,82,3,18,Moderate,Diploma,Healthcare Informatics,Hybrid,0.39,Finance,Full-time,8,Advanced,Ongoing,7,87.61,23
+4732,3.39,74,3,22,Easy,Diploma,Healthcare Informatics,Online,0.42,CS,Full-time,6,Advanced,Completed,19,52.29,14
+4733,2.49,82,6,14,Hard,Diploma,Cybersecurity,Hybrid,0.11,CS,Full-time,2,Basic,Dropped,18,79.77,8
+4734,2.68,84,3,14,Moderate,Bachelor,Healthcare Informatics,Online,0.4,CS,Full-time,5,None,Completed,12,51.58,18
+4735,3.13,73,3,18,Easy,Master,UI/UX Design,Online,0.02,CS,Full-time,5,Basic,Dropped,16,89.66,15
+4736,3.77,62,5,9,Easy,Diploma,AI & Robotics,Online,0.36,Business,Full-time,7,Advanced,Dropped,16,65.89,10
+4737,3.49,82,6,8,Hard,Diploma,Cybersecurity,In-person,0.28,Finance,Part-time,9,Basic,Completed,13,75.72,22
+4738,2.42,74,6,15,Easy,Diploma,Finance,Hybrid,0.36,Design,Full-time,5,Intermediate,Completed,14,87.52,12
+4739,2.5,96,6,24,Easy,Diploma,UI/UX Design,In-person,0.42,CS,Full-time,8,Advanced,Ongoing,19,83.12,19
+4740,3.05,65,3,7,Moderate,Diploma,Cybersecurity,Online,0.48,Design,Part-time,8,Advanced,Dropped,16,83.46,11
+4741,3.54,98,6,6,Hard,Bachelor,Software Engineering,In-person,0.23,Finance,Part-time,8,Intermediate,Completed,17,50.4,21
+4742,3.24,67,4,16,Easy,Bachelor,Finance,In-person,0.26,CS,Full-time,9,Advanced,Completed,17,76.39,23
+4743,3.0,70,3,18,Moderate,Master,Cybersecurity,In-person,0.17,CS,Full-time,2,None,Completed,7,90.58,7
+4744,3.19,82,4,19,Hard,Bachelor,Software Engineering,Online,0.14,Finance,Full-time,6,Intermediate,Dropped,17,72.63,8
+4745,3.51,76,6,13,Moderate,Diploma,UI/UX Design,Hybrid,0.29,CS,Full-time,4,Advanced,Dropped,12,74.81,15
+4746,3.07,87,3,22,Easy,Master,Cybersecurity,Hybrid,0.18,Design,Full-time,4,Intermediate,Completed,16,52.16,7
+4747,3.8,82,6,21,Hard,Diploma,Healthcare Informatics,Online,0.21,Finance,Part-time,4,Basic,Ongoing,15,53.23,12
+4748,3.89,76,3,16,Easy,Diploma,Software Engineering,Online,0.05,Business,Full-time,8,Intermediate,Completed,15,72.5,14
+4749,3.83,64,6,18,Hard,Master,UI/UX Design,In-person,0.05,Business,Full-time,2,Intermediate,Ongoing,13,63.92,20
+4750,3.51,69,4,19,Easy,Bachelor,Software Engineering,Hybrid,0.46,Design,Full-time,4,Basic,Ongoing,12,53.5,12
+4751,2.49,77,6,22,Moderate,Bachelor,UI/UX Design,Online,0.09,Finance,Full-time,9,Basic,Completed,19,56.02,12
+4752,2.77,82,5,9,Easy,Master,AI & Robotics,Online,0.41,CS,Part-time,9,Advanced,Dropped,16,54.12,13
+4753,2.56,87,5,16,Hard,Master,UI/UX Design,Online,0.36,Design,Full-time,8,None,Completed,5,77.36,18
+4754,3.32,80,3,5,Moderate,Master,AI & Robotics,In-person,0.22,Business,Full-time,4,None,Completed,14,70.63,9
+4755,2.65,71,5,10,Hard,Master,Software Engineering,In-person,0.11,Business,Part-time,7,None,Dropped,5,83.72,11
+4756,3.51,61,5,9,Easy,Bachelor,UI/UX Design,Hybrid,0.03,Business,Part-time,4,Intermediate,Dropped,5,75.32,9
+4757,2.23,98,5,7,Hard,Bachelor,Healthcare Informatics,In-person,0.44,CS,Full-time,3,Basic,Dropped,14,55.66,5
+4758,3.55,83,3,24,Easy,Diploma,Healthcare Informatics,Hybrid,0.34,Design,Full-time,1,Basic,Ongoing,14,92.54,8
+4759,3.17,68,3,8,Easy,Diploma,UI/UX Design,Online,0.09,Design,Full-time,1,None,Dropped,8,79.07,11
+4760,3.67,84,6,19,Hard,Master,Cybersecurity,In-person,0.03,Business,Part-time,8,Intermediate,Dropped,15,71.51,5
+4761,2.86,68,3,24,Moderate,Bachelor,Finance,In-person,0.46,CS,Part-time,3,Basic,Completed,15,69.32,14
+4762,3.25,83,6,16,Moderate,Master,Finance,In-person,0.14,CS,Part-time,6,Intermediate,Completed,14,85.32,23
+4763,3.11,74,4,17,Moderate,Bachelor,UI/UX Design,Online,0.13,Business,Part-time,2,Advanced,Completed,14,52.94,14
+4764,3.95,82,6,24,Easy,Master,Finance,Online,0.31,CS,Part-time,4,Intermediate,Completed,7,87.17,13
+4765,3.51,77,6,14,Moderate,Master,AI & Robotics,In-person,0.26,Business,Part-time,3,Intermediate,Ongoing,19,77.38,21
+4766,3.09,89,4,21,Moderate,Diploma,AI & Robotics,Online,0.13,Business,Full-time,9,Advanced,Dropped,10,54.93,17
+4767,2.35,68,3,12,Hard,Diploma,Finance,Online,0.1,Finance,Full-time,7,Basic,Ongoing,14,79.04,6
+4768,3.81,87,5,21,Moderate,Diploma,Finance,Online,0.45,Finance,Full-time,5,Intermediate,Dropped,18,90.07,16
+4769,2.41,85,4,12,Hard,Bachelor,Healthcare Informatics,Hybrid,0.15,CS,Part-time,3,Intermediate,Completed,9,69.85,15
+4770,3.3,70,5,18,Moderate,Master,Cybersecurity,In-person,0.04,Finance,Full-time,6,None,Ongoing,5,84.23,14
+4771,3.87,86,5,8,Moderate,Master,AI & Robotics,In-person,0.31,Business,Part-time,1,None,Ongoing,17,84.74,10
+4772,2.45,71,3,5,Hard,Bachelor,AI & Robotics,Hybrid,0.43,Finance,Part-time,4,Advanced,Dropped,16,78.56,22
+4773,2.45,88,6,18,Moderate,Diploma,AI & Robotics,In-person,0.02,Design,Part-time,5,Intermediate,Dropped,16,77.71,9
+4774,3.7,98,6,15,Hard,Diploma,AI & Robotics,Online,0.08,Design,Full-time,1,None,Completed,11,65.11,11
+4775,3.66,69,3,20,Hard,Diploma,Software Engineering,Hybrid,0.11,Business,Full-time,4,None,Dropped,16,59.89,23
+4776,2.7,97,4,14,Moderate,Bachelor,Finance,In-person,0.35,Design,Part-time,9,Advanced,Ongoing,17,66.18,8
+4777,2.53,95,4,15,Moderate,Master,Finance,Online,0.14,Design,Full-time,5,None,Completed,14,77.73,17
+4778,2.25,80,5,21,Moderate,Bachelor,Healthcare Informatics,In-person,0.43,CS,Full-time,2,Intermediate,Dropped,12,81.19,19
+4779,3.98,65,6,21,Easy,Diploma,Healthcare Informatics,Online,0.12,Business,Full-time,1,Advanced,Completed,10,50.46,7
+4780,3.67,80,6,21,Hard,Master,Healthcare Informatics,Online,0.29,CS,Full-time,4,Intermediate,Completed,5,64.1,6
+4781,3.8,92,3,12,Hard,Diploma,UI/UX Design,Online,0.03,Finance,Full-time,1,Basic,Ongoing,14,78.06,13
+4782,3.03,70,3,19,Hard,Master,Cybersecurity,Online,0.39,CS,Full-time,4,None,Completed,17,74.21,6
+4783,2.23,96,3,19,Hard,Master,Software Engineering,Online,0.5,Finance,Part-time,2,None,Ongoing,14,88.67,11
+4784,2.11,82,6,7,Hard,Diploma,Software Engineering,In-person,0.34,Business,Full-time,2,Intermediate,Ongoing,8,92.27,24
+4785,2.66,89,6,11,Moderate,Diploma,Software Engineering,Online,0.31,CS,Part-time,9,Intermediate,Ongoing,7,81.1,10
+4786,3.84,78,6,18,Moderate,Diploma,Software Engineering,Hybrid,0.14,Design,Part-time,5,Advanced,Ongoing,11,82.06,9
+4787,3.9,64,6,11,Easy,Diploma,Cybersecurity,Online,0.37,Finance,Part-time,6,Advanced,Dropped,15,65.84,11
+4788,3.68,74,3,16,Hard,Bachelor,AI & Robotics,In-person,0.25,CS,Full-time,5,Intermediate,Dropped,16,52.47,20
+4789,2.32,85,6,6,Easy,Diploma,Software Engineering,Online,0.1,Finance,Full-time,4,None,Dropped,11,88.33,15
+4790,2.84,94,6,9,Easy,Master,Software Engineering,Hybrid,0.36,Design,Part-time,3,Advanced,Dropped,7,55.02,15
+4791,2.49,93,6,5,Moderate,Bachelor,AI & Robotics,In-person,0.28,Finance,Full-time,4,Intermediate,Completed,12,54.45,14
+4792,2.41,75,6,17,Moderate,Bachelor,Cybersecurity,Hybrid,0.46,Finance,Part-time,3,None,Dropped,17,92.84,21
+4793,3.37,75,6,11,Moderate,Bachelor,Software Engineering,In-person,0.23,Design,Part-time,2,Advanced,Ongoing,9,88.02,13
+4794,2.97,94,5,23,Moderate,Bachelor,Cybersecurity,Hybrid,0.46,Design,Part-time,4,Intermediate,Dropped,12,67.44,24
+4795,2.65,73,4,24,Moderate,Bachelor,UI/UX Design,In-person,0.4,Design,Part-time,7,None,Completed,16,75.54,14
+4796,2.2,87,4,6,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.09,Finance,Full-time,1,Intermediate,Dropped,12,69.24,6
+4797,3.09,93,4,12,Easy,Master,AI & Robotics,Online,0.29,Finance,Part-time,4,None,Ongoing,8,79.15,11
+4798,2.69,76,4,18,Hard,Master,AI & Robotics,In-person,0.37,Finance,Part-time,4,Intermediate,Completed,8,66.1,13
+4799,2.78,67,5,7,Hard,Master,Cybersecurity,Hybrid,0.02,Design,Full-time,9,Intermediate,Ongoing,6,65.41,19
+4800,2.62,85,5,24,Moderate,Diploma,Healthcare Informatics,In-person,0.06,Business,Full-time,3,Advanced,Dropped,7,71.26,24
+4801,2.77,82,4,24,Moderate,Diploma,Healthcare Informatics,In-person,0.45,Business,Full-time,4,Basic,Completed,13,72.76,20
+4802,3.11,67,6,6,Easy,Bachelor,Finance,Hybrid,0.21,Business,Part-time,6,Intermediate,Dropped,8,58.13,22
+4803,2.03,60,5,22,Moderate,Diploma,Healthcare Informatics,In-person,0.47,CS,Part-time,1,Intermediate,Completed,11,59.7,5
+4804,3.7,78,4,17,Easy,Master,Finance,Online,0.14,Finance,Part-time,7,Intermediate,Dropped,19,60.38,6
+4805,3.84,63,4,10,Moderate,Bachelor,UI/UX Design,Hybrid,0.32,Finance,Full-time,8,None,Ongoing,14,68.89,9
+4806,3.1,86,3,22,Hard,Diploma,Cybersecurity,Hybrid,0.22,Business,Part-time,1,None,Ongoing,12,92.08,20
+4807,2.54,72,3,15,Hard,Bachelor,Cybersecurity,In-person,0.46,CS,Full-time,7,None,Ongoing,18,61.5,14
+4808,3.98,77,5,20,Easy,Master,AI & Robotics,In-person,0.37,Finance,Full-time,3,Basic,Dropped,13,86.87,8
+4809,2.77,64,3,12,Moderate,Bachelor,Healthcare Informatics,In-person,0.21,Finance,Full-time,7,Advanced,Dropped,7,66.16,13
+4810,3.39,77,3,14,Moderate,Diploma,Finance,Hybrid,0.38,Business,Part-time,5,None,Dropped,10,68.55,9
+4811,3.38,80,5,21,Easy,Master,AI & Robotics,In-person,0.38,Business,Part-time,6,Advanced,Dropped,7,55.6,24
+4812,2.87,60,5,15,Moderate,Bachelor,Cybersecurity,Online,0.01,Design,Full-time,4,None,Dropped,14,61.42,14
+4813,2.4,80,4,16,Hard,Bachelor,Finance,Hybrid,0.31,Design,Part-time,5,Advanced,Completed,15,75.16,17
+4814,3.93,86,4,24,Hard,Bachelor,Healthcare Informatics,Hybrid,0.03,Design,Part-time,9,Advanced,Ongoing,8,73.17,13
+4815,2.13,91,5,24,Hard,Master,UI/UX Design,In-person,0.39,Design,Full-time,7,None,Dropped,5,65.49,9
+4816,2.97,79,5,6,Easy,Diploma,UI/UX Design,Online,0.01,CS,Part-time,6,Advanced,Dropped,6,75.12,16
+4817,2.44,60,4,6,Moderate,Master,Cybersecurity,Online,0.41,Business,Part-time,1,None,Ongoing,18,94.89,12
+4818,2.59,79,5,9,Moderate,Bachelor,UI/UX Design,Online,0.34,CS,Part-time,5,Advanced,Completed,14,88.35,24
+4819,3.66,89,6,6,Hard,Diploma,Cybersecurity,In-person,0.49,Business,Full-time,1,Basic,Dropped,11,51.98,22
+4820,2.73,63,6,5,Easy,Diploma,Finance,In-person,0.07,Finance,Part-time,6,None,Dropped,8,80.05,18
+4821,2.17,77,5,19,Easy,Master,Software Engineering,Hybrid,0.23,Business,Part-time,9,None,Completed,19,76.19,6
+4822,2.39,66,3,17,Easy,Diploma,Finance,Hybrid,0.21,Finance,Full-time,1,Basic,Ongoing,12,81.76,19
+4823,3.72,75,5,9,Hard,Bachelor,UI/UX Design,Hybrid,0.09,Business,Full-time,7,Advanced,Completed,18,52.04,12
+4824,3.95,77,6,14,Easy,Diploma,UI/UX Design,In-person,0.2,Design,Part-time,7,None,Completed,7,61.02,19
+4825,2.54,92,6,8,Hard,Diploma,Healthcare Informatics,Hybrid,0.11,Business,Part-time,5,Intermediate,Dropped,18,52.67,14
+4826,3.35,87,4,7,Moderate,Diploma,Cybersecurity,Hybrid,0.01,Finance,Part-time,9,None,Ongoing,18,80.79,16
+4827,2.16,95,5,8,Moderate,Diploma,Finance,Online,0.22,Design,Part-time,3,Advanced,Completed,15,55.21,16
+4828,3.45,77,4,24,Moderate,Diploma,UI/UX Design,Online,0.18,Business,Part-time,3,Intermediate,Ongoing,9,94.37,12
+4829,2.83,86,3,12,Easy,Bachelor,Software Engineering,In-person,0.26,Business,Part-time,5,Advanced,Dropped,7,85.33,19
+4830,3.84,82,3,6,Hard,Bachelor,Healthcare Informatics,Hybrid,0.22,Business,Full-time,8,None,Completed,8,78.25,23
+4831,2.62,93,6,13,Hard,Diploma,AI & Robotics,Online,0.46,Finance,Full-time,7,Basic,Dropped,7,59.85,20
+4832,3.88,70,5,9,Hard,Diploma,Healthcare Informatics,In-person,0.13,Finance,Part-time,5,Basic,Completed,14,53.77,15
+4833,3.01,96,6,19,Easy,Diploma,Cybersecurity,In-person,0.44,CS,Part-time,4,Basic,Ongoing,10,69.86,11
+4834,2.7,65,4,7,Hard,Master,UI/UX Design,Online,0.07,Design,Full-time,7,None,Ongoing,6,88.17,23
+4835,3.29,81,5,8,Hard,Master,Cybersecurity,In-person,0.23,Finance,Part-time,8,None,Dropped,16,83.13,6
+4836,2.5,93,4,16,Moderate,Bachelor,AI & Robotics,In-person,0.04,CS,Full-time,3,None,Completed,18,72.96,23
+4837,2.46,92,5,8,Hard,Master,AI & Robotics,In-person,0.32,CS,Part-time,4,Basic,Completed,6,78.71,10
+4838,2.39,90,3,9,Moderate,Diploma,Software Engineering,In-person,0.45,CS,Part-time,7,Basic,Ongoing,19,89.08,9
+4839,3.92,93,5,15,Hard,Diploma,Healthcare Informatics,Online,0.31,Finance,Full-time,6,Advanced,Completed,9,58.63,13
+4840,2.99,70,4,16,Easy,Diploma,Software Engineering,Hybrid,0.34,Design,Full-time,6,None,Ongoing,17,58.51,16
+4841,3.5,91,5,20,Easy,Bachelor,UI/UX Design,Hybrid,0.26,Design,Full-time,5,Advanced,Ongoing,19,93.05,17
+4842,2.95,69,6,5,Moderate,Bachelor,Finance,In-person,0.22,Design,Full-time,8,Basic,Completed,11,75.16,24
+4843,3.18,65,4,21,Hard,Bachelor,AI & Robotics,Online,0.49,Finance,Full-time,3,None,Ongoing,8,94.27,12
+4844,3.17,79,5,21,Easy,Diploma,UI/UX Design,In-person,0.49,Business,Full-time,5,None,Dropped,14,80.47,19
+4845,3.96,86,5,24,Easy,Master,AI & Robotics,Online,0.33,CS,Part-time,9,None,Completed,6,93.76,6
+4846,3.34,72,4,9,Easy,Diploma,Cybersecurity,In-person,0.41,Business,Full-time,7,Advanced,Dropped,7,54.54,15
+4847,2.48,64,3,15,Moderate,Master,UI/UX Design,In-person,0.44,CS,Full-time,8,Advanced,Completed,18,58.01,23
+4848,2.03,61,3,14,Hard,Bachelor,Cybersecurity,Hybrid,0.11,CS,Full-time,1,Basic,Completed,16,73.88,9
+4849,2.44,86,3,9,Hard,Bachelor,UI/UX Design,Online,0.4,CS,Part-time,6,Advanced,Completed,15,75.12,12
+4850,2.91,98,5,6,Moderate,Diploma,Finance,Online,0.07,Design,Part-time,8,Basic,Dropped,19,77.16,23
+4851,2.79,61,4,22,Easy,Master,AI & Robotics,Hybrid,0.32,Business,Full-time,3,Advanced,Ongoing,6,94.7,16
+4852,3.62,76,5,11,Easy,Master,Cybersecurity,Hybrid,0.47,Design,Full-time,1,Basic,Completed,19,75.62,21
+4853,3.57,82,4,23,Moderate,Master,Healthcare Informatics,Online,0.3,Design,Part-time,6,Intermediate,Ongoing,10,89.78,15
+4854,2.18,70,3,14,Easy,Master,UI/UX Design,Online,0.17,Design,Full-time,2,None,Ongoing,11,94.17,12
+4855,3.9,94,5,7,Moderate,Diploma,Healthcare Informatics,Hybrid,0.43,Design,Part-time,6,Basic,Completed,17,92.78,22
+4856,3.05,83,5,21,Easy,Master,Finance,In-person,0.22,Business,Full-time,7,None,Ongoing,7,53.2,15
+4857,3.19,75,3,8,Easy,Bachelor,Finance,Online,0.42,Finance,Full-time,5,Advanced,Dropped,18,58.04,23
+4858,2.81,66,4,14,Moderate,Master,Healthcare Informatics,In-person,0.27,Business,Part-time,2,Intermediate,Completed,8,52.73,6
+4859,3.3,70,5,8,Moderate,Master,Cybersecurity,Online,0.08,Business,Full-time,4,Intermediate,Completed,9,79.36,12
+4860,3.74,95,3,13,Easy,Master,Software Engineering,In-person,0.12,Business,Part-time,6,None,Ongoing,12,72.12,23
+4861,3.35,67,4,9,Moderate,Bachelor,Software Engineering,Hybrid,0.39,Business,Full-time,7,None,Ongoing,18,60.34,18
+4862,3.94,86,6,15,Easy,Diploma,Cybersecurity,Hybrid,0.49,CS,Part-time,3,Intermediate,Ongoing,8,50.96,20
+4863,3.4,86,5,6,Easy,Bachelor,Finance,Online,0.47,Finance,Full-time,4,Intermediate,Ongoing,5,72.58,5
+4864,3.64,66,3,18,Hard,Diploma,Cybersecurity,In-person,0.25,Finance,Part-time,5,Intermediate,Dropped,13,77.87,18
+4865,2.09,62,6,6,Hard,Bachelor,AI & Robotics,Online,0.09,CS,Part-time,2,Basic,Completed,9,87.53,10
+4866,3.35,65,5,12,Hard,Diploma,Cybersecurity,Hybrid,0.04,Business,Full-time,7,Basic,Ongoing,18,92.13,19
+4867,3.31,77,4,12,Moderate,Master,Healthcare Informatics,Hybrid,0.22,CS,Full-time,7,Intermediate,Dropped,9,80.32,22
+4868,2.2,60,3,20,Hard,Master,Finance,In-person,0.01,CS,Part-time,4,None,Dropped,14,68.83,17
+4869,3.68,62,6,7,Hard,Diploma,Software Engineering,Online,0.45,Business,Part-time,9,None,Completed,12,57.57,10
+4870,3.23,62,6,7,Easy,Bachelor,Software Engineering,Hybrid,0.32,Design,Part-time,5,None,Ongoing,9,82.06,8
+4871,2.2,80,5,13,Moderate,Bachelor,Healthcare Informatics,In-person,0.37,Design,Part-time,5,Intermediate,Dropped,9,62.86,22
+4872,3.19,61,6,20,Moderate,Bachelor,Software Engineering,Online,0.15,Business,Full-time,3,Advanced,Ongoing,18,60.6,14
+4873,2.96,98,3,19,Easy,Master,AI & Robotics,Hybrid,0.33,Business,Part-time,1,Intermediate,Dropped,19,66.74,22
+4874,2.47,68,3,14,Hard,Bachelor,AI & Robotics,In-person,0.05,Design,Part-time,5,Intermediate,Ongoing,17,87.03,8
+4875,2.04,70,3,17,Moderate,Bachelor,UI/UX Design,In-person,0.13,Business,Full-time,3,Basic,Completed,8,75.94,23
+4876,2.73,99,6,20,Easy,Bachelor,UI/UX Design,In-person,0.42,Finance,Part-time,6,None,Dropped,11,79.29,21
+4877,3.24,70,4,14,Hard,Bachelor,Cybersecurity,Hybrid,0.19,CS,Part-time,5,None,Ongoing,7,64.0,12
+4878,2.66,73,3,12,Easy,Master,Software Engineering,Online,0.09,CS,Part-time,7,Advanced,Dropped,12,53.21,9
+4879,2.61,90,4,5,Hard,Diploma,Healthcare Informatics,Hybrid,0.11,Finance,Full-time,2,Intermediate,Dropped,6,67.48,7
+4880,3.5,60,3,9,Easy,Bachelor,Cybersecurity,Online,0.32,Design,Part-time,6,Intermediate,Ongoing,17,78.33,8
+4881,3.52,80,3,11,Moderate,Diploma,Software Engineering,In-person,0.29,Business,Full-time,8,Intermediate,Ongoing,12,79.56,24
+4882,3.44,77,5,7,Moderate,Bachelor,Software Engineering,In-person,0.05,Design,Full-time,5,Basic,Completed,8,80.31,14
+4883,2.2,78,4,21,Hard,Master,Software Engineering,Hybrid,0.43,Business,Full-time,1,None,Completed,18,64.87,20
+4884,3.03,67,4,16,Hard,Diploma,Finance,In-person,0.45,Business,Part-time,4,None,Dropped,5,88.89,19
+4885,3.12,64,4,15,Easy,Bachelor,AI & Robotics,Hybrid,0.07,Finance,Full-time,1,Intermediate,Dropped,13,86.55,10
+4886,3.49,70,3,13,Moderate,Bachelor,AI & Robotics,Online,0.17,Design,Part-time,9,None,Dropped,15,64.7,14
+4887,3.81,78,6,14,Hard,Bachelor,UI/UX Design,Online,0.36,Design,Full-time,5,Basic,Ongoing,13,55.77,12
+4888,2.74,60,6,9,Easy,Diploma,Finance,In-person,0.22,Design,Full-time,5,Intermediate,Dropped,19,68.56,24
+4889,2.86,60,6,13,Hard,Bachelor,Healthcare Informatics,Hybrid,0.18,Design,Full-time,6,None,Dropped,15,82.35,13
+4890,3.47,78,4,12,Easy,Bachelor,Cybersecurity,In-person,0.48,CS,Part-time,4,None,Ongoing,19,74.25,22
+4891,3.33,71,5,9,Hard,Diploma,Finance,In-person,0.16,Design,Part-time,6,Intermediate,Completed,9,73.41,24
+4892,3.12,92,4,14,Hard,Diploma,Cybersecurity,Hybrid,0.4,Business,Full-time,9,Intermediate,Dropped,12,84.03,21
+4893,2.7,85,5,8,Hard,Master,Finance,Online,0.18,Design,Full-time,1,Intermediate,Dropped,13,58.23,15
+4894,2.39,99,4,17,Hard,Diploma,Cybersecurity,Online,0.25,Business,Part-time,8,None,Completed,10,75.31,19
+4895,2.37,72,5,13,Easy,Master,Software Engineering,In-person,0.48,Finance,Full-time,6,Basic,Completed,18,89.0,7
+4896,2.16,80,3,24,Hard,Bachelor,Healthcare Informatics,In-person,0.32,CS,Full-time,9,Basic,Dropped,14,73.36,10
+4897,2.16,60,6,16,Moderate,Bachelor,Finance,Hybrid,0.17,Design,Part-time,8,Advanced,Dropped,17,60.81,8
+4898,3.69,71,6,13,Hard,Bachelor,Software Engineering,Online,0.14,CS,Part-time,8,None,Ongoing,11,85.54,19
+4899,2.77,91,3,10,Hard,Diploma,Software Engineering,Hybrid,0.25,CS,Part-time,9,Basic,Completed,17,82.41,13
+4900,2.12,76,4,17,Moderate,Master,Software Engineering,Hybrid,0.31,Design,Part-time,3,Basic,Completed,5,78.84,20
+4901,3.79,84,6,10,Hard,Master,AI & Robotics,In-person,0.29,Business,Full-time,6,None,Ongoing,18,56.7,17
+4902,2.45,94,3,17,Easy,Bachelor,Healthcare Informatics,In-person,0.06,CS,Full-time,9,Advanced,Completed,6,86.35,6
+4903,2.54,96,6,23,Easy,Master,Software Engineering,Hybrid,0.21,CS,Part-time,4,Advanced,Dropped,6,53.09,10
+4904,2.39,85,5,19,Hard,Bachelor,Healthcare Informatics,Hybrid,0.34,Business,Part-time,1,Intermediate,Completed,9,83.35,13
+4905,3.94,71,4,20,Easy,Diploma,UI/UX Design,Hybrid,0.32,Business,Part-time,2,None,Dropped,13,75.0,18
+4906,2.23,99,3,18,Hard,Bachelor,UI/UX Design,Hybrid,0.18,Design,Part-time,5,None,Completed,15,77.84,21
+4907,3.44,72,4,12,Moderate,Diploma,AI & Robotics,In-person,0.27,Finance,Part-time,9,Advanced,Dropped,17,87.46,21
+4908,3.86,79,5,5,Easy,Master,Healthcare Informatics,Hybrid,0.08,Finance,Full-time,4,Intermediate,Completed,5,77.1,23
+4909,3.34,89,4,10,Hard,Bachelor,Finance,In-person,0.06,Design,Full-time,9,None,Ongoing,13,82.45,10
+4910,3.72,88,6,11,Easy,Bachelor,UI/UX Design,Hybrid,0.1,Design,Full-time,9,Advanced,Dropped,16,87.64,23
+4911,2.48,91,4,23,Hard,Diploma,Healthcare Informatics,In-person,0.14,CS,Part-time,7,Advanced,Dropped,15,59.31,14
+4912,3.35,92,3,18,Moderate,Master,AI & Robotics,Online,0.38,Business,Part-time,9,Intermediate,Ongoing,12,93.25,14
+4913,3.4,65,5,17,Hard,Diploma,UI/UX Design,Online,0.3,CS,Full-time,4,Advanced,Completed,16,73.95,20
+4914,2.92,74,5,9,Easy,Diploma,Healthcare Informatics,Online,0.0,CS,Full-time,2,Intermediate,Completed,14,71.01,21
+4915,3.74,63,3,14,Easy,Diploma,Healthcare Informatics,Hybrid,0.27,CS,Part-time,3,Advanced,Dropped,15,78.89,17
+4916,3.39,90,5,10,Moderate,Diploma,Software Engineering,Hybrid,0.19,Design,Part-time,7,None,Ongoing,16,93.82,23
+4917,3.79,74,6,23,Moderate,Master,Healthcare Informatics,Online,0.18,CS,Full-time,4,Advanced,Dropped,7,55.21,16
+4918,3.51,92,6,5,Hard,Master,Healthcare Informatics,Online,0.4,Finance,Full-time,1,Basic,Ongoing,14,81.65,18
+4919,3.04,79,4,11,Hard,Bachelor,AI & Robotics,In-person,0.25,CS,Full-time,3,Basic,Completed,7,77.13,24
+4920,3.0,92,6,18,Hard,Bachelor,Finance,Online,0.09,Finance,Full-time,7,Basic,Completed,12,74.46,18
+4921,2.91,77,3,5,Hard,Bachelor,AI & Robotics,Hybrid,0.11,CS,Full-time,4,Basic,Completed,5,76.6,12
+4922,2.04,98,4,20,Easy,Bachelor,Healthcare Informatics,In-person,0.16,CS,Part-time,3,None,Completed,16,55.69,22
+4923,3.07,69,6,12,Hard,Diploma,AI & Robotics,Hybrid,0.17,Finance,Part-time,3,Advanced,Completed,8,66.69,15
+4924,2.85,62,3,16,Moderate,Diploma,Healthcare Informatics,Hybrid,0.2,CS,Part-time,6,Advanced,Completed,10,52.14,8
+4925,2.32,93,6,17,Easy,Master,Healthcare Informatics,In-person,0.44,Design,Part-time,9,Advanced,Completed,7,62.45,21
+4926,2.24,84,3,9,Moderate,Diploma,UI/UX Design,Online,0.17,Design,Part-time,8,None,Dropped,12,68.38,7
+4927,2.9,87,4,11,Easy,Master,UI/UX Design,Hybrid,0.29,CS,Part-time,9,None,Ongoing,5,71.04,9
+4928,2.08,80,3,20,Hard,Master,Software Engineering,In-person,0.0,Business,Full-time,3,Basic,Completed,17,62.08,15
+4929,3.97,74,3,23,Easy,Bachelor,Software Engineering,In-person,0.09,Business,Full-time,3,Basic,Completed,11,90.93,15
+4930,2.76,63,6,6,Hard,Bachelor,Cybersecurity,In-person,0.38,CS,Full-time,6,Advanced,Dropped,16,51.2,14
+4931,2.76,86,4,10,Easy,Master,Cybersecurity,Hybrid,0.22,Design,Part-time,8,Advanced,Ongoing,8,68.54,22
+4932,2.1,95,3,24,Moderate,Master,Cybersecurity,In-person,0.16,CS,Part-time,1,Basic,Ongoing,13,51.28,15
+4933,2.85,89,6,9,Hard,Diploma,Healthcare Informatics,In-person,0.15,Business,Full-time,1,Intermediate,Completed,15,75.39,6
+4934,2.03,70,6,16,Moderate,Bachelor,Software Engineering,In-person,0.23,Design,Full-time,3,Basic,Ongoing,15,53.09,24
+4935,2.06,84,6,9,Easy,Master,Software Engineering,Online,0.0,Design,Full-time,6,None,Ongoing,10,90.55,24
+4936,2.68,89,6,13,Moderate,Master,Healthcare Informatics,Hybrid,0.16,CS,Part-time,3,Advanced,Completed,18,94.65,8
+4937,3.64,94,6,12,Moderate,Diploma,Software Engineering,In-person,0.48,Design,Full-time,6,None,Ongoing,8,93.56,7
+4938,2.92,87,4,10,Hard,Master,Healthcare Informatics,In-person,0.07,Finance,Full-time,4,Advanced,Dropped,13,52.4,9
+4939,2.03,89,6,12,Hard,Master,Cybersecurity,In-person,0.0,Business,Part-time,5,None,Dropped,5,62.8,21
+4940,2.33,72,5,7,Easy,Bachelor,Healthcare Informatics,Hybrid,0.0,CS,Full-time,1,Basic,Dropped,10,83.72,5
+4941,3.48,84,6,16,Moderate,Diploma,Software Engineering,Hybrid,0.36,Business,Part-time,3,None,Dropped,7,74.83,5
+4942,3.48,65,5,9,Easy,Bachelor,Software Engineering,Hybrid,0.28,Finance,Full-time,1,Basic,Completed,8,79.03,23
+4943,3.51,91,4,16,Hard,Master,Finance,In-person,0.5,Design,Part-time,1,Intermediate,Completed,8,91.74,8
+4944,2.7,69,3,11,Hard,Master,Healthcare Informatics,Hybrid,0.17,Finance,Part-time,8,Advanced,Completed,18,70.33,22
+4945,2.7,94,6,12,Moderate,Diploma,AI & Robotics,Hybrid,0.08,CS,Full-time,2,None,Ongoing,5,56.89,19
+4946,3.6,98,6,12,Hard,Diploma,Cybersecurity,Hybrid,0.27,Design,Full-time,8,Basic,Completed,15,71.21,23
+4947,2.8,79,6,6,Easy,Bachelor,Cybersecurity,Online,0.09,CS,Part-time,9,Advanced,Dropped,13,85.81,7
+4948,3.45,75,4,24,Moderate,Bachelor,Healthcare Informatics,In-person,0.35,Design,Full-time,4,None,Dropped,6,51.07,13
+4949,3.16,66,5,7,Moderate,Bachelor,Software Engineering,Online,0.09,Finance,Full-time,6,Basic,Ongoing,13,91.86,14
+4950,2.73,62,6,15,Moderate,Master,UI/UX Design,Online,0.18,Finance,Part-time,4,Advanced,Completed,7,75.55,13
+4951,2.16,99,4,15,Moderate,Master,UI/UX Design,In-person,0.27,Design,Part-time,1,Basic,Completed,11,78.2,8
+4952,2.23,87,4,20,Moderate,Bachelor,UI/UX Design,In-person,0.37,Business,Part-time,8,Advanced,Completed,14,69.04,12
+4953,3.78,91,5,9,Moderate,Bachelor,AI & Robotics,Hybrid,0.4,Finance,Part-time,3,Intermediate,Completed,17,56.57,10
+4954,2.9,99,6,23,Moderate,Master,Finance,Hybrid,0.18,Business,Full-time,8,Advanced,Ongoing,19,86.86,24
+4955,3.99,63,4,21,Moderate,Bachelor,Cybersecurity,Online,0.25,CS,Full-time,6,Intermediate,Ongoing,6,80.43,7
+4956,2.73,98,6,17,Easy,Diploma,Software Engineering,In-person,0.28,Business,Part-time,5,Advanced,Dropped,16,53.0,8
+4957,2.5,74,4,15,Hard,Diploma,UI/UX Design,In-person,0.17,Finance,Part-time,1,Advanced,Completed,18,64.23,22
+4958,2.7,78,4,17,Hard,Master,UI/UX Design,Online,0.36,Design,Part-time,6,Advanced,Completed,16,50.03,16
+4959,2.69,64,4,21,Hard,Master,Cybersecurity,Online,0.05,Business,Full-time,9,Intermediate,Dropped,13,88.32,12
+4960,3.27,89,4,16,Hard,Master,Software Engineering,Online,0.26,Business,Full-time,3,Intermediate,Dropped,17,80.02,5
+4961,2.03,63,5,21,Moderate,Master,UI/UX Design,In-person,0.22,Finance,Full-time,3,None,Dropped,15,83.74,20
+4962,3.53,90,3,14,Easy,Diploma,Healthcare Informatics,In-person,0.11,Finance,Full-time,1,None,Completed,16,69.5,14
+4963,2.83,87,4,11,Moderate,Bachelor,Cybersecurity,Hybrid,0.12,CS,Full-time,3,Intermediate,Ongoing,11,82.31,21
+4964,2.86,82,5,23,Easy,Master,Software Engineering,Hybrid,0.18,CS,Part-time,2,Intermediate,Ongoing,6,93.49,15
+4965,2.96,88,6,18,Easy,Diploma,Healthcare Informatics,Hybrid,0.43,CS,Part-time,9,Basic,Dropped,7,94.08,15
+4966,2.9,89,4,10,Easy,Diploma,AI & Robotics,Online,0.06,Design,Part-time,6,Basic,Dropped,14,79.27,16
+4967,2.99,83,5,14,Easy,Bachelor,UI/UX Design,Hybrid,0.33,Business,Part-time,9,Intermediate,Completed,9,64.56,17
+4968,2.69,69,4,5,Hard,Diploma,Software Engineering,Online,0.22,Design,Full-time,4,Intermediate,Completed,15,54.49,15
+4969,2.91,89,3,21,Hard,Bachelor,Healthcare Informatics,Hybrid,0.33,CS,Part-time,5,Intermediate,Completed,16,90.31,5
+4970,2.81,82,4,9,Easy,Diploma,Cybersecurity,Hybrid,0.14,Finance,Part-time,1,Intermediate,Dropped,17,54.89,6
+4971,3.04,98,3,9,Easy,Bachelor,UI/UX Design,Online,0.42,Finance,Full-time,1,Basic,Completed,6,56.13,12
+4972,3.25,80,6,22,Moderate,Bachelor,Cybersecurity,In-person,0.05,CS,Full-time,2,Intermediate,Dropped,13,65.18,11
+4973,2.48,60,4,24,Easy,Diploma,Cybersecurity,Hybrid,0.4,Business,Part-time,1,Basic,Completed,6,91.25,9
+4974,3.02,99,3,17,Moderate,Master,UI/UX Design,Hybrid,0.07,Design,Part-time,2,Advanced,Ongoing,14,62.94,9
+4975,3.19,69,5,8,Hard,Master,Healthcare Informatics,Hybrid,0.1,Finance,Part-time,5,None,Ongoing,16,61.46,24
+4976,2.03,88,5,11,Easy,Bachelor,Finance,Online,0.06,Design,Part-time,6,Advanced,Completed,14,56.09,7
+4977,3.04,90,4,20,Hard,Bachelor,UI/UX Design,Hybrid,0.42,CS,Full-time,7,None,Completed,15,55.19,17
+4978,2.48,89,3,12,Hard,Diploma,AI & Robotics,In-person,0.37,CS,Part-time,9,Intermediate,Dropped,6,59.04,6
+4979,2.81,98,4,15,Easy,Bachelor,Finance,Online,0.03,CS,Full-time,8,Intermediate,Dropped,19,50.95,17
+4980,3.65,70,4,6,Easy,Master,UI/UX Design,In-person,0.45,Design,Full-time,4,Advanced,Ongoing,10,64.11,17
+4981,2.65,81,4,22,Hard,Master,UI/UX Design,Online,0.48,Finance,Part-time,5,None,Completed,14,69.96,22
+4982,2.97,84,5,19,Easy,Bachelor,Finance,In-person,0.47,Finance,Full-time,7,Advanced,Ongoing,19,53.57,6
+4983,2.05,84,4,22,Moderate,Bachelor,UI/UX Design,Online,0.09,CS,Part-time,2,Intermediate,Dropped,12,93.0,23
+4984,2.62,84,5,24,Easy,Master,Healthcare Informatics,Hybrid,0.33,Business,Full-time,1,Basic,Completed,18,80.48,19
+4985,3.28,94,6,19,Easy,Master,AI & Robotics,In-person,0.07,Design,Full-time,9,Basic,Ongoing,16,84.74,13
+4986,2.63,94,4,5,Hard,Master,Software Engineering,In-person,0.18,Design,Full-time,9,Basic,Dropped,5,57.46,15
+4987,2.41,94,5,7,Hard,Diploma,AI & Robotics,Online,0.49,Business,Full-time,8,None,Ongoing,11,63.03,15
+4988,2.58,76,4,19,Hard,Diploma,Finance,Hybrid,0.32,Design,Part-time,1,Basic,Dropped,9,76.16,20
+4989,3.91,68,4,21,Easy,Bachelor,Healthcare Informatics,In-person,0.37,Finance,Part-time,1,Advanced,Completed,6,72.44,5
+4990,2.17,70,5,9,Moderate,Master,Healthcare Informatics,In-person,0.49,CS,Full-time,1,None,Completed,5,84.31,16
+4991,2.93,98,5,19,Hard,Master,Software Engineering,Online,0.09,Design,Part-time,8,Intermediate,Ongoing,17,90.38,6
+4992,2.12,71,3,20,Easy,Diploma,UI/UX Design,In-person,0.29,CS,Part-time,2,Basic,Dropped,19,62.25,8
+4993,3.08,83,4,22,Easy,Diploma,Healthcare Informatics,Online,0.03,CS,Full-time,5,Intermediate,Completed,15,61.37,18
+4994,2.29,86,4,8,Easy,Bachelor,UI/UX Design,Hybrid,0.23,Design,Full-time,3,Intermediate,Completed,19,69.41,8
+4995,3.27,81,3,24,Easy,Bachelor,Software Engineering,In-person,0.44,Business,Full-time,7,Intermediate,Ongoing,6,83.14,14
+4996,2.53,65,6,14,Hard,Master,UI/UX Design,Online,0.01,Design,Full-time,9,Advanced,Ongoing,8,65.12,19
+4997,3.38,64,5,23,Moderate,Bachelor,Healthcare Informatics,Hybrid,0.26,Design,Part-time,9,Advanced,Dropped,10,92.88,14
+4998,2.69,91,6,16,Hard,Bachelor,Software Engineering,In-person,0.42,Business,Full-time,8,None,Completed,8,54.63,7
+4999,2.01,68,5,13,Moderate,Master,AI & Robotics,Hybrid,0.16,Finance,Full-time,3,Intermediate,Dropped,16,61.59,18
+5000,2.59,90,3,11,Easy,Bachelor,Healthcare Informatics,In-person,0.46,Finance,Part-time,6,None,Dropped,7,60.77,13
