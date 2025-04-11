@@ -1,0 +1,501 @@
+course_id,major,course_name,credits,prerequisite_level,course_difficulty_rating,average_grade,fail_rate,drop_rate,weekly_study_hours_required,exam_weight,delivery_mode,course_tags,student_feedback_summary,student_difficulty_experience_rating,popularity_score
+COURSE0001,Engineering,CAD Fundamentals,3,Advanced,3.3,61,0.08,0.07,7,40,Hybrid,CAD,Conceptually rich,4.7,0.4
+COURSE0002,Engineering,CAD Fundamentals,4,Advanced,3.9,69,0.08,0.07,10,71,In-person,CAD,Very engaging,3.1,0.32
+COURSE0003,Business,Marketing Fundamentals,4,None,3.9,73,0.11,0.02,6,49,Hybrid,Marketing,Conceptually rich,3.9,0.9
+COURSE0004,Engineering,CAD Fundamentals,3,None,3.5,61,0.18,0.04,12,44,Hybrid,CAD,Very engaging,4.2,0.55
+COURSE0005,Engineering,CAD Fundamentals,4,Basic,3.6,75,0.13,0.05,13,78,Hybrid,CAD,Tough but rewarding,3.8,0.82
+COURSE0006,Business,Finance Fundamentals,3,Advanced,3.9,60,0.22,0.13,9,46,Online,Finance,Tough but rewarding,2.9,0.56
+COURSE0007,Computer Science,Networks Fundamentals,3,None,3.9,69,0.08,0.2,13,47,In-person,Networks,Tough but rewarding,2.9,0.52
+COURSE0008,Business,Ethics Fundamentals,3,None,3.7,70,0.22,0.19,7,50,Online,Ethics,Very engaging,3.8,0.66
+COURSE0009,Engineering,CAD Fundamentals,3,Basic,2.9,75,0.22,0.09,13,68,Online,CAD,Very engaging,4.3,0.52
+COURSE0010,Computer Science,AI Fundamentals,3,None,4.5,65,0.1,0.06,11,75,In-person,AI,Tough but rewarding,3.8,0.42
+COURSE0011,Healthcare,Pharmacology Fundamentals,4,Advanced,4.9,85,0.2,0.08,7,45,In-person,Pharmacology,Tough but rewarding,3.0,0.73
+COURSE0012,Computer Science,Networks Fundamentals,3,None,3.5,65,0.27,0.07,10,67,Hybrid,Networks,Tough but rewarding,4.4,0.94
+COURSE0013,Business,Finance Fundamentals,3,Advanced,4.7,68,0.07,0.16,12,52,Hybrid,Finance,Project-heavy,3.8,0.83
+COURSE0014,Engineering,CAD Fundamentals,3,Advanced,3.2,66,0.21,0.17,14,70,Hybrid,CAD,Conceptually rich,3.1,0.92
+COURSE0015,Business,Ethics Fundamentals,3,None,2.7,85,0.08,0.15,13,50,Hybrid,Ethics,Project-heavy,2.8,0.69
+COURSE0016,Computer Science,AI Fundamentals,4,None,4.4,77,0.17,0.12,9,78,Online,AI,Project-heavy,3.9,0.3
+COURSE0017,Business,Ethics Fundamentals,3,Advanced,2.7,75,0.22,0.1,12,54,Hybrid,Ethics,Conceptually rich,2.7,0.68
+COURSE0018,Business,Ethics Fundamentals,3,Basic,3.6,60,0.06,0.04,7,79,Online,Ethics,Project-heavy,3.0,0.76
+COURSE0019,Business,Marketing Fundamentals,3,Basic,3.9,81,0.27,0.15,6,70,Online,Marketing,Very engaging,3.5,0.52
+COURSE0020,Healthcare,Pharmacology Fundamentals,3,Advanced,4.4,84,0.21,0.13,7,59,In-person,Pharmacology,Very engaging,3.7,0.45
+COURSE0021,Business,Finance Fundamentals,3,Advanced,4.2,85,0.1,0.04,8,65,In-person,Finance,Conceptually rich,3.0,0.65
+COURSE0022,Computer Science,AI Fundamentals,3,Basic,4.4,66,0.16,0.17,9,41,Hybrid,AI,Project-heavy,2.7,0.78
+COURSE0023,Business,Marketing Fundamentals,4,Advanced,3.2,73,0.22,0.14,10,77,In-person,Marketing,Tough but rewarding,4.0,0.62
+COURSE0024,Healthcare,Pharmacology Fundamentals,3,None,3.8,73,0.11,0.16,8,76,Online,Pharmacology,Conceptually rich,2.5,0.43
+COURSE0025,Business,Finance Fundamentals,3,Basic,3.2,75,0.28,0.18,9,54,Online,Finance,Very engaging,3.5,0.59
+COURSE0026,Business,Finance Fundamentals,4,None,3.1,68,0.25,0.18,10,60,In-person,Finance,Very engaging,2.7,0.6
+COURSE0027,Business,Finance Fundamentals,4,Basic,4.8,64,0.22,0.12,10,72,In-person,Finance,Project-heavy,3.0,0.3
+COURSE0028,Business,Finance Fundamentals,3,Basic,2.9,79,0.12,0.15,9,66,In-person,Finance,Project-heavy,2.8,0.54
+COURSE0029,Business,Marketing Fundamentals,4,Advanced,4.5,71,0.22,0.07,13,43,In-person,Marketing,Tough but rewarding,3.9,0.93
+COURSE0030,Business,Marketing Fundamentals,4,None,3.9,73,0.15,0.02,12,63,Online,Marketing,Very engaging,2.7,0.44
+COURSE0031,Computer Science,AI Fundamentals,3,Advanced,4.3,62,0.09,0.15,8,71,Online,AI,Tough but rewarding,3.8,0.81
+COURSE0032,Business,Finance Fundamentals,4,None,4.3,70,0.15,0.05,7,64,Online,Finance,Conceptually rich,4.0,0.8
+COURSE0033,Healthcare,Pharmacology Fundamentals,4,Advanced,4.9,71,0.08,0.03,11,54,Hybrid,Pharmacology,Project-heavy,3.7,0.38
+COURSE0034,Healthcare,Pharmacology Fundamentals,4,Basic,4.2,65,0.11,0.04,14,61,Online,Pharmacology,Project-heavy,3.1,0.92
+COURSE0035,Healthcare,Pharmacology Fundamentals,4,Advanced,3.1,76,0.23,0.05,9,73,Hybrid,Pharmacology,Very engaging,3.2,0.71
+COURSE0036,Business,Ethics Fundamentals,4,None,2.6,65,0.19,0.15,12,66,Hybrid,Ethics,Conceptually rich,4.2,0.61
+COURSE0037,Engineering,CAD Fundamentals,4,None,2.6,63,0.15,0.19,14,59,Online,CAD,Conceptually rich,4.3,0.77
+COURSE0038,Business,Marketing Fundamentals,3,Advanced,4.1,82,0.08,0.11,8,48,In-person,Marketing,Project-heavy,4.6,0.49
+COURSE0039,Healthcare,Pharmacology Fundamentals,3,None,4.3,78,0.05,0.16,12,63,Hybrid,Pharmacology,Tough but rewarding,3.9,0.32
+COURSE0040,Business,Marketing Fundamentals,4,Advanced,4.7,73,0.19,0.13,11,40,In-person,Marketing,Very engaging,3.0,0.53
+COURSE0041,Business,Marketing Fundamentals,4,Basic,4.4,84,0.08,0.1,10,64,Online,Marketing,Tough but rewarding,3.2,0.65
+COURSE0042,Engineering,CAD Fundamentals,4,None,3.9,65,0.07,0.1,12,76,In-person,CAD,Project-heavy,4.7,0.78
+COURSE0043,Healthcare,Pharmacology Fundamentals,4,None,4.6,73,0.28,0.17,11,53,Hybrid,Pharmacology,Tough but rewarding,4.1,0.65
+COURSE0044,Computer Science,AI Fundamentals,3,Basic,4.1,80,0.28,0.12,11,47,Online,AI,Tough but rewarding,2.6,0.6
+COURSE0045,Computer Science,Networks Fundamentals,3,None,2.7,83,0.07,0.09,6,53,Online,Networks,Project-heavy,4.0,0.53
+COURSE0046,Business,Finance Fundamentals,3,None,4.3,78,0.09,0.04,7,40,In-person,Finance,Tough but rewarding,3.6,0.55
+COURSE0047,Business,Marketing Fundamentals,4,None,3.3,79,0.22,0.08,10,66,In-person,Marketing,Tough but rewarding,3.9,0.45
+COURSE0048,Engineering,CAD Fundamentals,4,Advanced,4.1,70,0.09,0.17,7,46,In-person,CAD,Very engaging,4.9,0.39
+COURSE0049,Business,Marketing Fundamentals,4,None,2.6,60,0.12,0.11,13,54,Online,Marketing,Project-heavy,4.8,0.75
+COURSE0050,Healthcare,Pharmacology Fundamentals,4,Advanced,3.3,65,0.09,0.13,6,50,In-person,Pharmacology,Tough but rewarding,2.8,0.62
+COURSE0051,Business,Ethics Fundamentals,4,Basic,3.4,74,0.13,0.13,9,72,In-person,Ethics,Conceptually rich,3.5,0.6
+COURSE0052,Computer Science,AI Fundamentals,4,Basic,4.2,73,0.07,0.2,7,58,In-person,AI,Conceptually rich,3.1,0.61
+COURSE0053,Healthcare,Pharmacology Fundamentals,4,Basic,4.2,72,0.08,0.2,6,70,Online,Pharmacology,Very engaging,3.0,0.67
+COURSE0054,Engineering,CAD Fundamentals,4,None,3.4,81,0.13,0.05,7,67,Hybrid,CAD,Conceptually rich,4.3,0.79
+COURSE0055,Business,Finance Fundamentals,3,Basic,3.9,79,0.16,0.06,12,74,Hybrid,Finance,Project-heavy,4.9,0.49
+COURSE0056,Business,Ethics Fundamentals,4,None,4.2,63,0.18,0.05,9,80,In-person,Ethics,Tough but rewarding,4.4,0.45
+COURSE0057,Business,Finance Fundamentals,4,Advanced,2.9,66,0.07,0.1,10,65,Hybrid,Finance,Project-heavy,3.6,0.67
+COURSE0058,Engineering,CAD Fundamentals,4,Advanced,3.5,84,0.18,0.06,10,49,Online,CAD,Very engaging,4.3,0.43
+COURSE0059,Engineering,CAD Fundamentals,3,Basic,2.9,62,0.18,0.09,12,78,In-person,CAD,Tough but rewarding,3.5,0.85
+COURSE0060,Business,Marketing Fundamentals,3,None,4.3,75,0.07,0.09,11,80,In-person,Marketing,Tough but rewarding,4.7,0.72
+COURSE0061,Computer Science,AI Fundamentals,3,None,2.6,73,0.28,0.19,6,42,Online,AI,Very engaging,4.3,0.63
+COURSE0062,Business,Marketing Fundamentals,3,None,2.7,79,0.2,0.19,12,69,Hybrid,Marketing,Tough but rewarding,2.7,0.8
+COURSE0063,Engineering,CAD Fundamentals,3,Basic,4.7,62,0.26,0.1,6,64,Online,CAD,Conceptually rich,3.6,0.9
+COURSE0064,Computer Science,AI Fundamentals,4,Basic,5.0,73,0.07,0.07,10,70,Online,AI,Project-heavy,4.4,0.38
+COURSE0065,Business,Ethics Fundamentals,3,Advanced,3.2,70,0.13,0.05,13,55,Hybrid,Ethics,Tough but rewarding,3.7,0.5
+COURSE0066,Business,Marketing Fundamentals,4,Advanced,4.8,76,0.19,0.11,6,56,Online,Marketing,Tough but rewarding,2.6,0.83
+COURSE0067,Computer Science,AI Fundamentals,3,Advanced,2.5,70,0.15,0.09,13,80,Online,AI,Project-heavy,4.7,0.47
+COURSE0068,Engineering,CAD Fundamentals,3,Basic,3.2,71,0.2,0.02,10,51,Hybrid,CAD,Project-heavy,2.9,0.62
+COURSE0069,Business,Ethics Fundamentals,4,Basic,4.3,63,0.23,0.17,10,44,In-person,Ethics,Very engaging,4.6,0.32
+COURSE0070,Healthcare,Pharmacology Fundamentals,4,None,4.5,62,0.25,0.15,12,73,Online,Pharmacology,Very engaging,4.0,0.4
+COURSE0071,Computer Science,Networks Fundamentals,4,Advanced,4.9,80,0.2,0.08,12,66,Online,Networks,Project-heavy,4.1,0.44
+COURSE0072,Engineering,CAD Fundamentals,3,None,2.7,79,0.07,0.19,10,61,In-person,CAD,Tough but rewarding,4.1,0.75
+COURSE0073,Computer Science,AI Fundamentals,3,None,4.3,68,0.16,0.18,12,71,Online,AI,Very engaging,3.4,0.61
+COURSE0074,Healthcare,Pharmacology Fundamentals,4,Advanced,4.6,69,0.29,0.12,7,74,Hybrid,Pharmacology,Conceptually rich,3.8,0.48
+COURSE0075,Computer Science,AI Fundamentals,3,None,3.9,80,0.2,0.08,14,64,Online,AI,Project-heavy,4.1,0.5
+COURSE0076,Healthcare,Pharmacology Fundamentals,3,Advanced,3.8,60,0.09,0.03,6,55,Online,Pharmacology,Project-heavy,2.8,0.86
+COURSE0077,Business,Marketing Fundamentals,4,Advanced,2.8,68,0.07,0.02,13,70,In-person,Marketing,Tough but rewarding,3.9,0.64
+COURSE0078,Engineering,CAD Fundamentals,3,None,4.7,80,0.3,0.08,14,66,Hybrid,CAD,Very engaging,3.2,0.42
+COURSE0079,Business,Marketing Fundamentals,3,Basic,4.7,79,0.21,0.15,10,68,In-person,Marketing,Tough but rewarding,2.9,0.76
+COURSE0080,Business,Ethics Fundamentals,4,Advanced,4.6,81,0.1,0.05,10,80,Online,Ethics,Project-heavy,2.9,0.84
+COURSE0081,Computer Science,Networks Fundamentals,3,Basic,4.1,68,0.23,0.11,6,68,Online,Networks,Conceptually rich,4.5,0.38
+COURSE0082,Healthcare,Pharmacology Fundamentals,4,Advanced,3.9,81,0.29,0.09,10,59,In-person,Pharmacology,Very engaging,2.6,0.47
+COURSE0083,Engineering,CAD Fundamentals,4,Advanced,4.9,80,0.13,0.18,8,70,Hybrid,CAD,Very engaging,3.5,0.75
+COURSE0084,Engineering,CAD Fundamentals,4,Basic,3.8,66,0.13,0.06,8,75,Online,CAD,Very engaging,2.6,0.94
+COURSE0085,Business,Marketing Fundamentals,3,Basic,4.0,74,0.23,0.09,14,50,Online,Marketing,Project-heavy,3.0,0.9
+COURSE0086,Computer Science,AI Fundamentals,4,Basic,2.8,67,0.09,0.17,12,58,Online,AI,Conceptually rich,3.0,0.9
+COURSE0087,Business,Marketing Fundamentals,3,Advanced,4.2,74,0.21,0.08,6,73,Online,Marketing,Tough but rewarding,3.7,0.93
+COURSE0088,Business,Finance Fundamentals,4,Basic,2.9,69,0.25,0.06,14,41,Hybrid,Finance,Project-heavy,3.3,0.49
+COURSE0089,Business,Finance Fundamentals,3,Basic,3.8,84,0.07,0.14,14,63,Online,Finance,Tough but rewarding,4.1,0.45
+COURSE0090,Computer Science,Networks Fundamentals,4,Advanced,3.8,70,0.27,0.1,13,51,In-person,Networks,Conceptually rich,3.4,0.74
+COURSE0091,Computer Science,Networks Fundamentals,3,Advanced,2.9,70,0.25,0.12,13,74,Online,Networks,Conceptually rich,3.7,0.43
+COURSE0092,Engineering,CAD Fundamentals,4,Basic,4.0,80,0.07,0.17,11,64,Hybrid,CAD,Very engaging,4.2,0.41
+COURSE0093,Healthcare,Pharmacology Fundamentals,3,Advanced,2.8,81,0.05,0.19,12,52,Online,Pharmacology,Tough but rewarding,3.6,0.72
+COURSE0094,Computer Science,AI Fundamentals,4,Basic,4.2,71,0.12,0.09,8,56,In-person,AI,Tough but rewarding,3.0,0.61
+COURSE0095,Business,Finance Fundamentals,4,None,4.7,75,0.28,0.16,9,51,Online,Finance,Conceptually rich,3.6,0.79
+COURSE0096,Engineering,CAD Fundamentals,3,Advanced,3.9,66,0.21,0.05,14,55,Online,CAD,Very engaging,2.9,0.48
+COURSE0097,Healthcare,Pharmacology Fundamentals,4,None,3.3,71,0.29,0.16,13,70,Hybrid,Pharmacology,Conceptually rich,4.3,0.37
+COURSE0098,Computer Science,Networks Fundamentals,3,None,2.9,77,0.08,0.09,13,61,Online,Networks,Conceptually rich,2.7,0.34
+COURSE0099,Computer Science,AI Fundamentals,4,Advanced,4.7,62,0.25,0.19,7,52,Online,AI,Very engaging,4.1,0.39
+COURSE0100,Computer Science,Networks Fundamentals,4,None,3.7,67,0.08,0.08,7,61,Online,Networks,Conceptually rich,3.3,0.91
+COURSE0101,Computer Science,Networks Fundamentals,3,Basic,2.9,64,0.26,0.07,11,43,In-person,Networks,Project-heavy,2.9,0.3
+COURSE0102,Computer Science,AI Fundamentals,4,Basic,4.7,72,0.13,0.18,14,47,In-person,AI,Very engaging,2.6,0.45
+COURSE0103,Engineering,CAD Fundamentals,4,Basic,2.5,66,0.12,0.15,11,48,Online,CAD,Very engaging,4.9,0.5
+COURSE0104,Business,Finance Fundamentals,3,Advanced,3.7,67,0.21,0.07,14,72,In-person,Finance,Very engaging,4.6,0.33
+COURSE0105,Business,Finance Fundamentals,3,None,4.5,83,0.19,0.18,10,51,In-person,Finance,Conceptually rich,4.6,0.79
+COURSE0106,Engineering,CAD Fundamentals,4,Basic,3.0,66,0.09,0.2,9,59,In-person,CAD,Very engaging,2.8,0.44
+COURSE0107,Business,Marketing Fundamentals,4,Basic,3.7,77,0.22,0.07,10,41,Online,Marketing,Project-heavy,4.0,0.55
+COURSE0108,Business,Finance Fundamentals,4,None,4.5,68,0.11,0.12,14,44,Online,Finance,Conceptually rich,3.4,0.71
+COURSE0109,Computer Science,AI Fundamentals,3,Basic,3.0,63,0.09,0.11,10,71,In-person,AI,Conceptually rich,3.5,0.39
+COURSE0110,Healthcare,Pharmacology Fundamentals,3,Basic,3.7,63,0.24,0.18,8,66,Online,Pharmacology,Project-heavy,3.9,0.84
+COURSE0111,Business,Marketing Fundamentals,4,Basic,3.9,68,0.17,0.18,14,41,Hybrid,Marketing,Project-heavy,3.7,0.32
+COURSE0112,Computer Science,Networks Fundamentals,3,Advanced,3.8,81,0.2,0.12,9,69,Hybrid,Networks,Tough but rewarding,3.1,0.61
+COURSE0113,Business,Ethics Fundamentals,4,None,4.3,81,0.26,0.11,9,71,In-person,Ethics,Conceptually rich,2.9,0.61
+COURSE0114,Business,Finance Fundamentals,3,Basic,4.4,84,0.11,0.17,9,75,Hybrid,Finance,Project-heavy,3.4,0.62
+COURSE0115,Healthcare,Pharmacology Fundamentals,4,Basic,3.8,67,0.24,0.16,8,59,In-person,Pharmacology,Conceptually rich,4.2,0.53
+COURSE0116,Business,Ethics Fundamentals,4,None,3.3,74,0.08,0.19,14,66,In-person,Ethics,Conceptually rich,3.7,0.5
+COURSE0117,Business,Ethics Fundamentals,3,None,4.7,74,0.07,0.16,11,41,In-person,Ethics,Project-heavy,3.6,0.94
+COURSE0118,Business,Marketing Fundamentals,4,Advanced,3.5,82,0.14,0.19,13,48,Online,Marketing,Project-heavy,5.0,0.37
+COURSE0119,Business,Ethics Fundamentals,4,None,4.2,81,0.14,0.08,14,47,In-person,Ethics,Project-heavy,3.3,0.62
+COURSE0120,Computer Science,AI Fundamentals,4,Basic,4.7,65,0.12,0.11,14,55,Online,AI,Very engaging,2.7,0.61
+COURSE0121,Business,Finance Fundamentals,4,Advanced,4.9,67,0.14,0.07,14,69,In-person,Finance,Project-heavy,4.6,0.32
+COURSE0122,Computer Science,AI Fundamentals,4,Basic,3.5,70,0.27,0.17,8,40,Hybrid,AI,Tough but rewarding,3.3,0.33
+COURSE0123,Business,Finance Fundamentals,4,Basic,3.7,69,0.29,0.13,11,59,Hybrid,Finance,Tough but rewarding,3.5,0.31
+COURSE0124,Business,Marketing Fundamentals,3,Basic,5.0,73,0.16,0.11,12,50,Hybrid,Marketing,Tough but rewarding,3.9,0.87
+COURSE0125,Engineering,CAD Fundamentals,4,None,3.2,64,0.26,0.12,10,75,Online,CAD,Tough but rewarding,3.0,0.89
+COURSE0126,Computer Science,Networks Fundamentals,4,None,2.6,75,0.1,0.12,12,60,In-person,Networks,Conceptually rich,4.4,0.3
+COURSE0127,Business,Finance Fundamentals,4,None,3.6,62,0.22,0.1,6,57,Online,Finance,Project-heavy,4.5,0.61
+COURSE0128,Business,Ethics Fundamentals,4,Advanced,3.6,84,0.22,0.1,13,54,In-person,Ethics,Tough but rewarding,2.8,0.59
+COURSE0129,Business,Finance Fundamentals,3,Advanced,4.1,74,0.16,0.14,10,68,In-person,Finance,Conceptually rich,2.7,0.5
+COURSE0130,Computer Science,Networks Fundamentals,4,Basic,3.0,76,0.14,0.2,13,73,Hybrid,Networks,Conceptually rich,3.3,0.39
+COURSE0131,Healthcare,Pharmacology Fundamentals,3,Advanced,4.0,75,0.23,0.17,6,55,In-person,Pharmacology,Tough but rewarding,4.6,0.92
+COURSE0132,Healthcare,Pharmacology Fundamentals,3,Basic,3.7,76,0.28,0.13,13,67,Online,Pharmacology,Very engaging,2.6,0.58
+COURSE0133,Business,Finance Fundamentals,4,Advanced,3.8,70,0.18,0.14,6,44,In-person,Finance,Conceptually rich,4.7,0.82
+COURSE0134,Healthcare,Pharmacology Fundamentals,3,Advanced,2.8,66,0.21,0.15,12,63,Hybrid,Pharmacology,Very engaging,3.1,0.56
+COURSE0135,Computer Science,AI Fundamentals,3,None,2.9,85,0.16,0.13,10,55,In-person,AI,Conceptually rich,2.9,0.84
+COURSE0136,Business,Ethics Fundamentals,4,Advanced,5.0,81,0.23,0.15,9,52,Hybrid,Ethics,Conceptually rich,4.8,0.83
+COURSE0137,Healthcare,Pharmacology Fundamentals,3,Advanced,4.6,61,0.1,0.09,10,41,Online,Pharmacology,Tough but rewarding,4.6,0.58
+COURSE0138,Engineering,CAD Fundamentals,3,Basic,3.3,60,0.29,0.17,11,52,Hybrid,CAD,Tough but rewarding,3.1,0.84
+COURSE0139,Business,Marketing Fundamentals,3,None,4.4,76,0.09,0.03,14,51,Online,Marketing,Project-heavy,3.2,0.44
+COURSE0140,Computer Science,AI Fundamentals,3,None,3.5,74,0.3,0.06,11,56,Online,AI,Conceptually rich,3.8,0.55
+COURSE0141,Computer Science,Networks Fundamentals,3,None,4.9,75,0.16,0.07,8,47,In-person,Networks,Tough but rewarding,4.2,0.86
+COURSE0142,Healthcare,Pharmacology Fundamentals,4,None,4.4,63,0.3,0.06,12,65,Hybrid,Pharmacology,Tough but rewarding,4.8,0.44
+COURSE0143,Engineering,CAD Fundamentals,4,Basic,3.2,71,0.05,0.16,11,42,Online,CAD,Tough but rewarding,5.0,0.85
+COURSE0144,Healthcare,Pharmacology Fundamentals,4,None,2.8,74,0.2,0.07,14,63,In-person,Pharmacology,Very engaging,3.9,0.74
+COURSE0145,Computer Science,AI Fundamentals,3,None,3.4,79,0.09,0.15,9,69,In-person,AI,Very engaging,3.9,0.73
+COURSE0146,Computer Science,AI Fundamentals,4,Basic,4.0,80,0.22,0.05,9,69,Hybrid,AI,Tough but rewarding,3.9,0.89
+COURSE0147,Computer Science,Networks Fundamentals,4,Basic,4.3,63,0.12,0.13,11,58,In-person,Networks,Tough but rewarding,5.0,0.66
+COURSE0148,Computer Science,Networks Fundamentals,3,None,3.3,62,0.23,0.19,9,79,In-person,Networks,Conceptually rich,3.7,0.86
+COURSE0149,Business,Marketing Fundamentals,3,Advanced,5.0,79,0.18,0.08,11,44,Online,Marketing,Project-heavy,3.4,0.51
+COURSE0150,Business,Finance Fundamentals,3,Basic,4.4,70,0.15,0.19,11,62,Hybrid,Finance,Very engaging,3.8,0.46
+COURSE0151,Engineering,CAD Fundamentals,3,Advanced,2.9,66,0.16,0.16,8,40,In-person,CAD,Conceptually rich,3.7,0.71
+COURSE0152,Computer Science,Networks Fundamentals,3,Basic,4.9,64,0.16,0.2,12,46,Online,Networks,Project-heavy,4.8,0.62
+COURSE0153,Engineering,CAD Fundamentals,4,Basic,3.2,79,0.07,0.1,7,70,In-person,CAD,Project-heavy,4.8,0.71
+COURSE0154,Business,Ethics Fundamentals,3,Advanced,4.1,85,0.26,0.04,13,73,In-person,Ethics,Conceptually rich,4.4,0.85
+COURSE0155,Engineering,CAD Fundamentals,3,None,2.5,63,0.18,0.05,14,62,Online,CAD,Project-heavy,3.1,0.53
+COURSE0156,Computer Science,AI Fundamentals,3,Advanced,3.7,62,0.23,0.14,7,77,Online,AI,Tough but rewarding,3.6,0.52
+COURSE0157,Computer Science,Networks Fundamentals,4,Advanced,4.2,64,0.09,0.02,7,56,Online,Networks,Project-heavy,4.1,0.3
+COURSE0158,Healthcare,Pharmacology Fundamentals,3,Basic,4.4,81,0.25,0.17,7,58,Online,Pharmacology,Very engaging,2.7,0.44
+COURSE0159,Healthcare,Pharmacology Fundamentals,4,Basic,3.3,67,0.25,0.07,10,61,In-person,Pharmacology,Very engaging,4.0,0.62
+COURSE0160,Business,Ethics Fundamentals,4,Advanced,4.9,74,0.15,0.17,10,46,Hybrid,Ethics,Project-heavy,5.0,0.48
+COURSE0161,Healthcare,Pharmacology Fundamentals,4,Advanced,4.2,83,0.29,0.14,14,64,In-person,Pharmacology,Conceptually rich,3.3,0.82
+COURSE0162,Healthcare,Pharmacology Fundamentals,3,Basic,3.9,83,0.19,0.04,8,60,Online,Pharmacology,Project-heavy,4.6,0.52
+COURSE0163,Engineering,CAD Fundamentals,3,None,3.6,66,0.26,0.09,11,53,Hybrid,CAD,Very engaging,3.4,0.82
+COURSE0164,Healthcare,Pharmacology Fundamentals,4,Advanced,3.1,66,0.19,0.11,11,72,Online,Pharmacology,Project-heavy,2.5,0.34
+COURSE0165,Business,Ethics Fundamentals,4,Basic,4.3,72,0.22,0.16,10,40,Hybrid,Ethics,Very engaging,3.3,0.89
+COURSE0166,Business,Finance Fundamentals,4,None,4.3,75,0.19,0.18,13,64,Hybrid,Finance,Conceptually rich,2.8,0.36
+COURSE0167,Healthcare,Pharmacology Fundamentals,4,None,4.5,72,0.29,0.13,8,61,Hybrid,Pharmacology,Project-heavy,2.9,0.89
+COURSE0168,Healthcare,Pharmacology Fundamentals,3,Basic,3.3,70,0.3,0.13,9,68,In-person,Pharmacology,Very engaging,3.5,0.92
+COURSE0169,Business,Finance Fundamentals,4,Advanced,4.4,82,0.06,0.04,9,45,In-person,Finance,Conceptually rich,3.2,0.95
+COURSE0170,Business,Finance Fundamentals,4,Basic,5.0,61,0.08,0.04,13,43,In-person,Finance,Tough but rewarding,3.6,0.9
+COURSE0171,Engineering,CAD Fundamentals,3,None,2.9,79,0.17,0.16,14,80,Hybrid,CAD,Tough but rewarding,4.7,0.56
+COURSE0172,Business,Finance Fundamentals,4,None,5.0,82,0.15,0.02,13,80,In-person,Finance,Project-heavy,4.1,0.5
+COURSE0173,Business,Ethics Fundamentals,4,Basic,4.4,69,0.14,0.09,10,56,Online,Ethics,Very engaging,2.7,0.36
+COURSE0174,Computer Science,AI Fundamentals,3,Advanced,4.8,77,0.14,0.08,11,76,Online,AI,Very engaging,3.1,0.3
+COURSE0175,Business,Finance Fundamentals,3,Advanced,3.8,68,0.21,0.16,13,56,Online,Finance,Project-heavy,4.6,0.54
+COURSE0176,Business,Finance Fundamentals,4,Basic,3.3,85,0.29,0.17,6,57,In-person,Finance,Very engaging,2.8,0.45
+COURSE0177,Computer Science,AI Fundamentals,4,Basic,3.9,74,0.12,0.15,14,66,In-person,AI,Very engaging,3.4,0.39
+COURSE0178,Computer Science,Networks Fundamentals,3,None,3.7,74,0.16,0.04,8,68,Online,Networks,Project-heavy,3.1,0.8
+COURSE0179,Computer Science,AI Fundamentals,3,Advanced,3.2,67,0.2,0.08,13,60,Online,AI,Very engaging,3.1,0.69
+COURSE0180,Computer Science,AI Fundamentals,4,None,4.3,66,0.17,0.14,14,54,In-person,AI,Project-heavy,4.5,0.43
+COURSE0181,Business,Ethics Fundamentals,4,Basic,3.4,72,0.1,0.05,11,80,Online,Ethics,Project-heavy,3.6,0.55
+COURSE0182,Engineering,CAD Fundamentals,3,None,4.4,85,0.11,0.17,8,74,Online,CAD,Very engaging,3.1,0.34
+COURSE0183,Business,Finance Fundamentals,3,Basic,3.3,65,0.26,0.09,10,77,Online,Finance,Tough but rewarding,3.6,0.88
+COURSE0184,Business,Marketing Fundamentals,4,Advanced,2.8,60,0.29,0.11,12,54,Hybrid,Marketing,Very engaging,4.6,0.66
+COURSE0185,Computer Science,AI Fundamentals,3,None,4.5,63,0.1,0.05,14,50,In-person,AI,Tough but rewarding,4.6,0.88
+COURSE0186,Healthcare,Pharmacology Fundamentals,4,None,4.6,70,0.06,0.19,6,45,Hybrid,Pharmacology,Very engaging,2.6,0.63
+COURSE0187,Computer Science,Networks Fundamentals,4,None,2.8,77,0.25,0.08,12,63,Hybrid,Networks,Very engaging,3.4,0.86
+COURSE0188,Business,Ethics Fundamentals,3,Advanced,3.6,73,0.27,0.17,14,45,Online,Ethics,Very engaging,2.6,0.81
+COURSE0189,Computer Science,Networks Fundamentals,4,Basic,4.8,68,0.2,0.05,7,79,Hybrid,Networks,Very engaging,4.8,0.95
+COURSE0190,Business,Marketing Fundamentals,3,Basic,2.7,69,0.28,0.05,9,76,Hybrid,Marketing,Project-heavy,2.8,0.93
+COURSE0191,Computer Science,Networks Fundamentals,4,Advanced,2.8,66,0.12,0.19,10,63,Online,Networks,Tough but rewarding,4.6,0.46
+COURSE0192,Healthcare,Pharmacology Fundamentals,4,None,4.4,60,0.1,0.13,11,44,In-person,Pharmacology,Tough but rewarding,3.7,0.63
+COURSE0193,Computer Science,Networks Fundamentals,3,Advanced,2.6,64,0.18,0.16,7,68,Online,Networks,Conceptually rich,2.8,0.79
+COURSE0194,Business,Ethics Fundamentals,3,Basic,4.4,76,0.19,0.11,14,48,In-person,Ethics,Tough but rewarding,4.4,0.71
+COURSE0195,Business,Marketing Fundamentals,3,Advanced,3.6,84,0.28,0.15,7,75,Online,Marketing,Tough but rewarding,4.9,0.81
+COURSE0196,Engineering,CAD Fundamentals,3,Advanced,3.2,77,0.06,0.1,11,45,Online,CAD,Very engaging,3.0,0.58
+COURSE0197,Healthcare,Pharmacology Fundamentals,3,Basic,3.4,70,0.06,0.18,7,55,Hybrid,Pharmacology,Conceptually rich,3.0,0.83
+COURSE0198,Healthcare,Pharmacology Fundamentals,4,None,3.2,78,0.18,0.09,14,59,Online,Pharmacology,Very engaging,3.0,0.61
+COURSE0199,Engineering,CAD Fundamentals,4,None,2.8,85,0.23,0.13,6,55,Hybrid,CAD,Very engaging,2.9,0.72
+COURSE0200,Business,Finance Fundamentals,3,Basic,3.1,83,0.29,0.2,8,59,In-person,Finance,Conceptually rich,4.0,0.49
+COURSE0201,Business,Ethics Fundamentals,4,Basic,4.2,82,0.16,0.06,8,52,Online,Ethics,Project-heavy,4.8,0.91
+COURSE0202,Business,Finance Fundamentals,4,Advanced,2.8,78,0.21,0.05,7,40,Online,Finance,Conceptually rich,4.6,0.8
+COURSE0203,Business,Marketing Fundamentals,3,None,3.3,61,0.05,0.16,11,73,In-person,Marketing,Very engaging,2.8,0.34
+COURSE0204,Business,Ethics Fundamentals,3,None,3.0,79,0.2,0.02,12,51,In-person,Ethics,Tough but rewarding,3.7,0.38
+COURSE0205,Computer Science,Networks Fundamentals,4,Basic,3.6,67,0.21,0.03,7,71,Online,Networks,Project-heavy,4.7,0.38
+COURSE0206,Healthcare,Pharmacology Fundamentals,3,Basic,3.7,85,0.14,0.08,10,56,Hybrid,Pharmacology,Conceptually rich,3.9,0.5
+COURSE0207,Computer Science,Networks Fundamentals,4,Advanced,4.3,71,0.25,0.18,9,77,In-person,Networks,Very engaging,3.8,0.32
+COURSE0208,Business,Ethics Fundamentals,4,Advanced,3.3,78,0.22,0.13,9,50,In-person,Ethics,Tough but rewarding,2.9,0.35
+COURSE0209,Business,Marketing Fundamentals,4,Advanced,2.6,71,0.05,0.15,14,44,Online,Marketing,Project-heavy,3.2,0.87
+COURSE0210,Healthcare,Pharmacology Fundamentals,4,Basic,3.3,65,0.21,0.12,6,72,In-person,Pharmacology,Project-heavy,4.2,0.92
+COURSE0211,Business,Ethics Fundamentals,4,Advanced,4.6,68,0.25,0.05,12,42,Online,Ethics,Conceptually rich,3.4,0.93
+COURSE0212,Business,Marketing Fundamentals,4,Basic,2.8,67,0.08,0.02,6,75,Online,Marketing,Tough but rewarding,3.6,0.53
+COURSE0213,Business,Marketing Fundamentals,4,Advanced,4.5,73,0.26,0.02,6,71,Hybrid,Marketing,Tough but rewarding,4.8,0.7
+COURSE0214,Business,Finance Fundamentals,3,Advanced,5.0,69,0.2,0.1,13,62,Hybrid,Finance,Project-heavy,3.0,0.53
+COURSE0215,Engineering,CAD Fundamentals,4,Advanced,4.6,71,0.11,0.11,12,64,Online,CAD,Very engaging,2.9,0.38
+COURSE0216,Computer Science,Networks Fundamentals,4,Basic,4.4,62,0.14,0.13,8,72,Online,Networks,Conceptually rich,4.3,0.6
+COURSE0217,Computer Science,Networks Fundamentals,3,None,3.4,71,0.1,0.11,12,62,In-person,Networks,Very engaging,3.4,0.78
+COURSE0218,Business,Finance Fundamentals,4,None,3.5,72,0.28,0.12,6,70,Hybrid,Finance,Tough but rewarding,3.3,0.45
+COURSE0219,Business,Finance Fundamentals,4,Advanced,3.7,64,0.15,0.13,9,74,In-person,Finance,Very engaging,3.1,0.33
+COURSE0220,Business,Finance Fundamentals,4,None,2.9,79,0.22,0.1,13,60,Hybrid,Finance,Conceptually rich,3.4,0.67
+COURSE0221,Business,Marketing Fundamentals,4,Advanced,3.8,83,0.22,0.09,9,72,Online,Marketing,Tough but rewarding,4.7,0.85
+COURSE0222,Business,Ethics Fundamentals,3,Basic,4.7,74,0.19,0.09,13,58,Online,Ethics,Project-heavy,4.3,0.55
+COURSE0223,Healthcare,Pharmacology Fundamentals,4,None,4.2,63,0.27,0.1,14,42,Hybrid,Pharmacology,Conceptually rich,2.9,0.34
+COURSE0224,Computer Science,Networks Fundamentals,4,Advanced,4.6,61,0.27,0.11,6,69,Hybrid,Networks,Conceptually rich,4.9,0.52
+COURSE0225,Computer Science,AI Fundamentals,4,Basic,2.6,82,0.07,0.1,12,68,Hybrid,AI,Project-heavy,2.6,0.87
+COURSE0226,Business,Ethics Fundamentals,4,Basic,5.0,65,0.2,0.12,12,46,Online,Ethics,Project-heavy,4.6,0.83
+COURSE0227,Business,Ethics Fundamentals,4,Advanced,2.8,75,0.07,0.05,6,64,Hybrid,Ethics,Tough but rewarding,3.6,0.31
+COURSE0228,Business,Finance Fundamentals,3,Advanced,4.8,77,0.15,0.05,10,71,In-person,Finance,Very engaging,3.1,0.88
+COURSE0229,Business,Marketing Fundamentals,4,None,4.7,72,0.28,0.19,14,52,In-person,Marketing,Project-heavy,4.4,0.68
+COURSE0230,Engineering,CAD Fundamentals,3,Basic,3.8,74,0.25,0.2,10,65,In-person,CAD,Very engaging,4.3,0.36
+COURSE0231,Healthcare,Pharmacology Fundamentals,4,Basic,2.7,83,0.26,0.13,11,77,Hybrid,Pharmacology,Conceptually rich,5.0,0.36
+COURSE0232,Computer Science,Networks Fundamentals,3,None,4.8,62,0.15,0.12,6,41,Online,Networks,Tough but rewarding,4.5,0.79
+COURSE0233,Business,Marketing Fundamentals,4,Advanced,2.7,61,0.11,0.03,14,62,Online,Marketing,Conceptually rich,4.3,0.76
+COURSE0234,Business,Ethics Fundamentals,4,Basic,4.4,82,0.11,0.04,12,49,Hybrid,Ethics,Conceptually rich,3.5,0.35
+COURSE0235,Business,Finance Fundamentals,3,None,5.0,70,0.2,0.08,10,63,Hybrid,Finance,Tough but rewarding,4.4,0.67
+COURSE0236,Healthcare,Pharmacology Fundamentals,3,Advanced,3.3,69,0.22,0.16,13,41,Online,Pharmacology,Project-heavy,2.7,0.89
+COURSE0237,Business,Marketing Fundamentals,4,Advanced,4.3,76,0.08,0.08,12,67,Hybrid,Marketing,Tough but rewarding,3.4,0.59
+COURSE0238,Computer Science,AI Fundamentals,4,Advanced,2.8,66,0.17,0.13,7,71,Online,AI,Conceptually rich,2.7,0.83
+COURSE0239,Computer Science,Networks Fundamentals,4,Basic,4.0,67,0.3,0.14,12,49,Hybrid,Networks,Very engaging,2.9,0.73
+COURSE0240,Business,Marketing Fundamentals,4,None,5.0,85,0.15,0.09,8,51,In-person,Marketing,Conceptually rich,2.8,0.36
+COURSE0241,Business,Finance Fundamentals,3,Basic,4.3,82,0.24,0.17,11,54,Online,Finance,Conceptually rich,3.1,0.38
+COURSE0242,Healthcare,Pharmacology Fundamentals,4,Advanced,3.7,61,0.27,0.05,13,49,In-person,Pharmacology,Very engaging,2.7,0.75
+COURSE0243,Healthcare,Pharmacology Fundamentals,3,Basic,3.7,76,0.16,0.15,13,40,In-person,Pharmacology,Very engaging,2.8,0.58
+COURSE0244,Business,Ethics Fundamentals,3,Advanced,4.1,79,0.17,0.12,9,72,Online,Ethics,Project-heavy,3.0,0.94
+COURSE0245,Computer Science,AI Fundamentals,3,Basic,3.9,74,0.23,0.05,9,52,Hybrid,AI,Very engaging,4.9,0.65
+COURSE0246,Computer Science,Networks Fundamentals,4,None,3.3,67,0.06,0.09,9,58,Online,Networks,Project-heavy,2.8,0.6
+COURSE0247,Computer Science,AI Fundamentals,3,None,3.9,60,0.2,0.05,8,60,Hybrid,AI,Tough but rewarding,4.2,0.95
+COURSE0248,Computer Science,Networks Fundamentals,3,Advanced,3.7,80,0.17,0.07,10,52,In-person,Networks,Project-heavy,4.6,0.31
+COURSE0249,Computer Science,AI Fundamentals,4,None,4.0,81,0.15,0.07,7,66,Hybrid,AI,Conceptually rich,4.6,0.77
+COURSE0250,Engineering,CAD Fundamentals,4,None,3.3,62,0.1,0.17,13,53,In-person,CAD,Conceptually rich,5.0,0.48
+COURSE0251,Healthcare,Pharmacology Fundamentals,3,Advanced,3.4,62,0.11,0.09,12,54,Online,Pharmacology,Tough but rewarding,4.9,0.46
+COURSE0252,Computer Science,Networks Fundamentals,3,Advanced,3.8,82,0.3,0.17,10,79,Online,Networks,Tough but rewarding,5.0,0.34
+COURSE0253,Computer Science,Networks Fundamentals,3,Basic,4.6,66,0.25,0.15,8,46,Online,Networks,Very engaging,2.9,0.6
+COURSE0254,Healthcare,Pharmacology Fundamentals,3,None,4.3,67,0.23,0.09,12,74,In-person,Pharmacology,Project-heavy,4.9,0.33
+COURSE0255,Engineering,CAD Fundamentals,3,None,4.7,72,0.21,0.06,12,44,Hybrid,CAD,Project-heavy,2.9,0.35
+COURSE0256,Computer Science,Networks Fundamentals,4,Advanced,3.0,65,0.2,0.12,13,52,Hybrid,Networks,Conceptually rich,4.2,0.78
+COURSE0257,Engineering,CAD Fundamentals,3,None,2.6,62,0.11,0.17,10,59,Hybrid,CAD,Conceptually rich,4.1,0.57
+COURSE0258,Computer Science,AI Fundamentals,3,None,4.5,85,0.23,0.19,8,73,Hybrid,AI,Project-heavy,4.9,0.61
+COURSE0259,Computer Science,AI Fundamentals,4,None,3.6,71,0.09,0.05,14,78,Hybrid,AI,Conceptually rich,4.6,0.3
+COURSE0260,Business,Finance Fundamentals,3,Basic,3.5,74,0.15,0.11,8,42,Online,Finance,Project-heavy,3.5,0.92
+COURSE0261,Business,Finance Fundamentals,4,Advanced,3.2,67,0.12,0.12,12,80,In-person,Finance,Project-heavy,4.3,0.93
+COURSE0262,Business,Marketing Fundamentals,3,None,4.9,85,0.08,0.05,13,53,In-person,Marketing,Very engaging,2.8,0.48
+COURSE0263,Business,Finance Fundamentals,3,Basic,4.7,70,0.12,0.16,13,48,Online,Finance,Conceptually rich,3.0,0.48
+COURSE0264,Business,Finance Fundamentals,4,None,4.3,73,0.11,0.18,13,60,Hybrid,Finance,Tough but rewarding,4.8,0.86
+COURSE0265,Computer Science,AI Fundamentals,3,Advanced,4.0,69,0.14,0.03,9,55,In-person,AI,Very engaging,3.9,0.57
+COURSE0266,Business,Finance Fundamentals,3,Basic,3.9,74,0.08,0.05,8,47,In-person,Finance,Project-heavy,3.8,0.71
+COURSE0267,Business,Finance Fundamentals,4,Advanced,3.3,64,0.09,0.12,10,50,Online,Finance,Tough but rewarding,2.6,0.51
+COURSE0268,Business,Marketing Fundamentals,3,Basic,3.2,62,0.23,0.13,12,66,Online,Marketing,Project-heavy,2.6,0.88
+COURSE0269,Business,Marketing Fundamentals,3,Basic,3.6,85,0.27,0.11,9,60,Online,Marketing,Conceptually rich,4.7,0.69
+COURSE0270,Engineering,CAD Fundamentals,3,Advanced,4.0,61,0.22,0.16,9,47,Online,CAD,Conceptually rich,3.1,0.94
+COURSE0271,Healthcare,Pharmacology Fundamentals,3,Basic,3.7,77,0.22,0.15,11,63,Online,Pharmacology,Tough but rewarding,2.5,0.81
+COURSE0272,Healthcare,Pharmacology Fundamentals,3,Basic,4.0,60,0.2,0.1,13,67,Online,Pharmacology,Conceptually rich,4.3,0.65
+COURSE0273,Computer Science,Networks Fundamentals,3,None,3.0,63,0.22,0.18,13,70,Online,Networks,Tough but rewarding,2.8,0.7
+COURSE0274,Business,Marketing Fundamentals,4,None,2.5,63,0.29,0.1,11,59,Hybrid,Marketing,Conceptually rich,3.9,0.83
+COURSE0275,Healthcare,Pharmacology Fundamentals,4,Basic,4.6,75,0.26,0.09,10,49,Online,Pharmacology,Tough but rewarding,2.8,0.65
+COURSE0276,Computer Science,Networks Fundamentals,3,Advanced,3.4,62,0.21,0.09,11,57,Online,Networks,Project-heavy,2.9,0.57
+COURSE0277,Business,Marketing Fundamentals,4,Advanced,4.7,82,0.13,0.14,10,49,Hybrid,Marketing,Very engaging,3.7,0.49
+COURSE0278,Computer Science,Networks Fundamentals,4,Advanced,3.0,84,0.09,0.11,14,45,Hybrid,Networks,Tough but rewarding,3.8,0.73
+COURSE0279,Business,Marketing Fundamentals,4,None,4.0,70,0.25,0.18,11,50,Hybrid,Marketing,Tough but rewarding,2.8,0.53
+COURSE0280,Business,Finance Fundamentals,3,None,4.9,71,0.15,0.07,7,61,In-person,Finance,Very engaging,4.4,0.51
+COURSE0281,Computer Science,Networks Fundamentals,3,Basic,4.2,68,0.3,0.16,10,72,In-person,Networks,Conceptually rich,3.5,0.48
+COURSE0282,Engineering,CAD Fundamentals,3,Advanced,2.5,65,0.15,0.11,7,69,Online,CAD,Conceptually rich,3.0,0.81
+COURSE0283,Healthcare,Pharmacology Fundamentals,4,Basic,4.7,76,0.23,0.2,13,61,Online,Pharmacology,Very engaging,4.9,0.72
+COURSE0284,Engineering,CAD Fundamentals,3,None,3.0,60,0.08,0.04,13,79,Online,CAD,Project-heavy,4.5,0.46
+COURSE0285,Business,Finance Fundamentals,3,Advanced,3.7,79,0.19,0.02,10,48,Hybrid,Finance,Very engaging,3.5,0.94
+COURSE0286,Engineering,CAD Fundamentals,3,None,2.5,61,0.2,0.02,10,78,Hybrid,CAD,Conceptually rich,3.8,0.47
+COURSE0287,Business,Ethics Fundamentals,3,Basic,3.5,79,0.05,0.09,11,64,Hybrid,Ethics,Tough but rewarding,4.9,0.49
+COURSE0288,Computer Science,Networks Fundamentals,3,None,2.8,65,0.12,0.06,11,59,Online,Networks,Very engaging,2.6,0.76
+COURSE0289,Business,Finance Fundamentals,4,Basic,4.3,64,0.17,0.17,8,52,Hybrid,Finance,Very engaging,2.5,0.49
+COURSE0290,Business,Marketing Fundamentals,4,Basic,4.1,67,0.12,0.04,6,62,In-person,Marketing,Project-heavy,4.4,0.77
+COURSE0291,Business,Ethics Fundamentals,3,None,2.9,68,0.15,0.03,6,68,Hybrid,Ethics,Project-heavy,2.5,0.8
+COURSE0292,Business,Marketing Fundamentals,4,None,3.2,80,0.1,0.09,11,71,In-person,Marketing,Project-heavy,4.8,0.81
+COURSE0293,Healthcare,Pharmacology Fundamentals,4,None,2.6,73,0.25,0.12,11,43,Online,Pharmacology,Conceptually rich,3.1,0.86
+COURSE0294,Business,Finance Fundamentals,3,Basic,2.6,61,0.23,0.07,10,69,In-person,Finance,Very engaging,2.6,0.7
+COURSE0295,Computer Science,AI Fundamentals,4,Advanced,3.2,70,0.18,0.07,10,55,In-person,AI,Very engaging,4.6,0.68
+COURSE0296,Business,Marketing Fundamentals,4,None,4.3,74,0.21,0.05,12,42,In-person,Marketing,Project-heavy,3.4,0.73
+COURSE0297,Business,Ethics Fundamentals,3,Basic,4.2,64,0.07,0.09,6,68,Hybrid,Ethics,Very engaging,4.4,0.88
+COURSE0298,Business,Finance Fundamentals,4,Advanced,3.9,64,0.18,0.03,10,41,In-person,Finance,Very engaging,3.0,0.74
+COURSE0299,Engineering,CAD Fundamentals,4,None,3.2,61,0.14,0.15,6,49,Hybrid,CAD,Very engaging,3.4,0.4
+COURSE0300,Business,Finance Fundamentals,4,Advanced,4.7,79,0.19,0.08,7,48,Hybrid,Finance,Project-heavy,3.7,0.79
+COURSE0301,Business,Marketing Fundamentals,4,Basic,3.3,68,0.23,0.04,13,66,Hybrid,Marketing,Very engaging,2.7,0.53
+COURSE0302,Computer Science,AI Fundamentals,3,Advanced,2.8,84,0.18,0.18,12,70,Hybrid,AI,Tough but rewarding,4.1,0.82
+COURSE0303,Engineering,CAD Fundamentals,3,Basic,2.8,62,0.15,0.09,11,80,In-person,CAD,Project-heavy,3.2,0.53
+COURSE0304,Engineering,CAD Fundamentals,3,None,3.9,66,0.28,0.02,12,62,Online,CAD,Tough but rewarding,4.1,0.94
+COURSE0305,Business,Marketing Fundamentals,4,Advanced,4.5,85,0.17,0.04,13,71,Hybrid,Marketing,Very engaging,4.5,0.37
+COURSE0306,Computer Science,AI Fundamentals,4,Basic,3.3,72,0.13,0.11,8,52,Online,AI,Tough but rewarding,3.7,0.69
+COURSE0307,Computer Science,Networks Fundamentals,3,None,4.5,77,0.06,0.13,6,79,Hybrid,Networks,Very engaging,4.7,0.42
+COURSE0308,Business,Ethics Fundamentals,4,Advanced,4.9,65,0.14,0.19,12,44,In-person,Ethics,Tough but rewarding,3.6,0.39
+COURSE0309,Computer Science,Networks Fundamentals,3,Advanced,4.9,69,0.17,0.15,9,71,In-person,Networks,Conceptually rich,3.7,0.59
+COURSE0310,Computer Science,AI Fundamentals,4,Advanced,2.7,82,0.12,0.1,10,80,Online,AI,Tough but rewarding,4.5,0.82
+COURSE0311,Engineering,CAD Fundamentals,3,Advanced,2.6,83,0.2,0.16,12,46,Hybrid,CAD,Conceptually rich,2.8,0.47
+COURSE0312,Business,Marketing Fundamentals,4,Basic,4.6,64,0.19,0.13,13,67,Online,Marketing,Very engaging,3.9,0.63
+COURSE0313,Business,Finance Fundamentals,4,Advanced,2.8,80,0.28,0.06,12,78,Online,Finance,Conceptually rich,3.0,0.66
+COURSE0314,Computer Science,Networks Fundamentals,4,Advanced,4.4,78,0.16,0.04,8,77,Hybrid,Networks,Conceptually rich,4.6,0.77
+COURSE0315,Business,Ethics Fundamentals,4,Basic,5.0,67,0.09,0.13,7,41,In-person,Ethics,Very engaging,2.9,0.9
+COURSE0316,Engineering,CAD Fundamentals,4,Basic,4.5,71,0.18,0.08,10,65,Hybrid,CAD,Tough but rewarding,2.9,0.93
+COURSE0317,Healthcare,Pharmacology Fundamentals,4,None,2.6,84,0.2,0.08,8,49,Online,Pharmacology,Project-heavy,3.5,0.72
+COURSE0318,Healthcare,Pharmacology Fundamentals,3,Basic,4.3,71,0.29,0.05,9,56,Online,Pharmacology,Project-heavy,4.0,0.64
+COURSE0319,Business,Ethics Fundamentals,4,Advanced,3.7,81,0.27,0.05,14,57,Hybrid,Ethics,Tough but rewarding,3.2,0.93
+COURSE0320,Engineering,CAD Fundamentals,3,None,4.4,64,0.27,0.1,10,69,Hybrid,CAD,Tough but rewarding,3.0,0.94
+COURSE0321,Business,Finance Fundamentals,3,Advanced,4.7,67,0.19,0.05,12,53,In-person,Finance,Very engaging,4.2,0.5
+COURSE0322,Business,Marketing Fundamentals,3,Advanced,2.7,75,0.2,0.15,10,59,Hybrid,Marketing,Tough but rewarding,4.2,0.65
+COURSE0323,Computer Science,AI Fundamentals,3,Basic,3.4,84,0.26,0.16,8,79,Online,AI,Conceptually rich,2.7,0.58
+COURSE0324,Computer Science,AI Fundamentals,3,None,4.8,75,0.26,0.03,8,53,Online,AI,Project-heavy,2.7,0.63
+COURSE0325,Business,Marketing Fundamentals,3,Basic,4.7,76,0.21,0.18,7,42,Hybrid,Marketing,Project-heavy,4.9,0.84
+COURSE0326,Healthcare,Pharmacology Fundamentals,3,Advanced,4.6,76,0.08,0.04,11,67,In-person,Pharmacology,Very engaging,4.4,0.92
+COURSE0327,Business,Finance Fundamentals,4,None,5.0,80,0.25,0.15,11,68,Online,Finance,Tough but rewarding,4.8,0.43
+COURSE0328,Computer Science,AI Fundamentals,3,Basic,3.0,72,0.13,0.05,12,48,In-person,AI,Conceptually rich,3.7,0.64
+COURSE0329,Computer Science,AI Fundamentals,4,Advanced,2.7,71,0.11,0.1,11,57,In-person,AI,Very engaging,3.8,0.9
+COURSE0330,Business,Ethics Fundamentals,4,Advanced,4.7,83,0.1,0.1,14,44,Hybrid,Ethics,Project-heavy,3.5,0.93
+COURSE0331,Business,Finance Fundamentals,3,None,4.7,74,0.07,0.09,7,56,In-person,Finance,Very engaging,4.6,0.86
+COURSE0332,Engineering,CAD Fundamentals,3,Advanced,4.7,75,0.22,0.18,10,78,Hybrid,CAD,Very engaging,2.7,0.57
+COURSE0333,Healthcare,Pharmacology Fundamentals,4,Advanced,4.9,73,0.11,0.15,6,43,In-person,Pharmacology,Very engaging,3.2,0.49
+COURSE0334,Computer Science,AI Fundamentals,3,None,4.1,74,0.1,0.1,9,77,Hybrid,AI,Very engaging,4.7,0.74
+COURSE0335,Computer Science,AI Fundamentals,3,Basic,3.3,75,0.16,0.19,11,56,In-person,AI,Tough but rewarding,3.5,0.39
+COURSE0336,Healthcare,Pharmacology Fundamentals,4,Basic,2.7,84,0.13,0.09,10,75,In-person,Pharmacology,Very engaging,4.9,0.48
+COURSE0337,Healthcare,Pharmacology Fundamentals,4,Advanced,4.7,67,0.2,0.19,10,73,Online,Pharmacology,Conceptually rich,3.4,0.53
+COURSE0338,Computer Science,AI Fundamentals,4,None,4.7,75,0.07,0.16,9,63,In-person,AI,Tough but rewarding,4.8,0.52
+COURSE0339,Computer Science,AI Fundamentals,3,Advanced,2.7,62,0.16,0.04,14,70,In-person,AI,Tough but rewarding,2.8,0.31
+COURSE0340,Business,Ethics Fundamentals,4,Basic,3.4,71,0.07,0.15,14,53,Hybrid,Ethics,Tough but rewarding,4.1,0.52
+COURSE0341,Computer Science,AI Fundamentals,3,Advanced,4.6,72,0.18,0.08,13,42,Online,AI,Project-heavy,4.6,0.66
+COURSE0342,Business,Marketing Fundamentals,3,Basic,4.2,69,0.18,0.17,7,69,Hybrid,Marketing,Very engaging,2.9,0.91
+COURSE0343,Computer Science,Networks Fundamentals,3,Basic,4.8,83,0.29,0.04,6,54,Online,Networks,Project-heavy,3.9,0.44
+COURSE0344,Computer Science,Networks Fundamentals,3,Advanced,5.0,82,0.27,0.09,11,62,Hybrid,Networks,Tough but rewarding,5.0,0.32
+COURSE0345,Business,Finance Fundamentals,4,None,2.7,63,0.28,0.08,11,54,Hybrid,Finance,Conceptually rich,3.6,0.8
+COURSE0346,Engineering,CAD Fundamentals,3,None,3.2,63,0.28,0.13,8,80,Hybrid,CAD,Project-heavy,3.5,0.92
+COURSE0347,Computer Science,Networks Fundamentals,4,Advanced,4.3,62,0.17,0.05,13,42,Online,Networks,Project-heavy,3.3,0.61
+COURSE0348,Healthcare,Pharmacology Fundamentals,3,None,2.5,84,0.23,0.09,10,59,In-person,Pharmacology,Tough but rewarding,3.1,0.79
+COURSE0349,Computer Science,AI Fundamentals,4,Basic,4.5,73,0.25,0.19,6,49,Online,AI,Very engaging,4.1,0.74
+COURSE0350,Healthcare,Pharmacology Fundamentals,3,Basic,3.5,66,0.07,0.1,8,69,In-person,Pharmacology,Project-heavy,3.3,0.48
+COURSE0351,Business,Finance Fundamentals,3,Advanced,3.5,63,0.23,0.19,9,73,Hybrid,Finance,Tough but rewarding,3.5,0.53
+COURSE0352,Business,Ethics Fundamentals,3,None,3.6,85,0.17,0.04,12,61,Online,Ethics,Conceptually rich,4.9,0.67
+COURSE0353,Business,Ethics Fundamentals,3,None,3.7,83,0.23,0.13,10,61,Hybrid,Ethics,Project-heavy,3.3,0.64
+COURSE0354,Computer Science,AI Fundamentals,4,None,4.5,81,0.08,0.19,8,71,In-person,AI,Tough but rewarding,3.1,0.45
+COURSE0355,Computer Science,AI Fundamentals,3,Basic,4.9,61,0.29,0.08,11,62,In-person,AI,Project-heavy,4.8,0.59
+COURSE0356,Computer Science,AI Fundamentals,3,Basic,5.0,81,0.25,0.04,12,52,Online,AI,Very engaging,3.2,0.71
+COURSE0357,Computer Science,AI Fundamentals,4,Basic,2.7,61,0.12,0.14,11,40,Hybrid,AI,Very engaging,4.7,0.6
+COURSE0358,Computer Science,AI Fundamentals,3,Advanced,2.6,68,0.19,0.06,10,55,Hybrid,AI,Very engaging,3.9,0.74
+COURSE0359,Healthcare,Pharmacology Fundamentals,3,None,4.6,74,0.25,0.02,14,43,In-person,Pharmacology,Project-heavy,3.6,0.6
+COURSE0360,Business,Finance Fundamentals,4,None,5.0,85,0.14,0.17,13,64,In-person,Finance,Project-heavy,2.8,0.34
+COURSE0361,Healthcare,Pharmacology Fundamentals,4,Basic,4.1,73,0.28,0.15,7,46,Online,Pharmacology,Very engaging,2.9,0.94
+COURSE0362,Computer Science,Networks Fundamentals,3,Advanced,2.8,83,0.22,0.15,14,46,Online,Networks,Conceptually rich,4.2,0.61
+COURSE0363,Business,Ethics Fundamentals,4,Advanced,4.9,74,0.13,0.08,9,43,Online,Ethics,Conceptually rich,2.7,0.45
+COURSE0364,Computer Science,Networks Fundamentals,4,None,4.0,69,0.24,0.06,10,56,Online,Networks,Tough but rewarding,4.6,0.65
+COURSE0365,Engineering,CAD Fundamentals,4,Advanced,3.0,79,0.1,0.02,12,66,In-person,CAD,Tough but rewarding,4.0,0.47
+COURSE0366,Healthcare,Pharmacology Fundamentals,3,Basic,2.7,78,0.07,0.16,14,55,Hybrid,Pharmacology,Conceptually rich,2.7,0.56
+COURSE0367,Business,Finance Fundamentals,3,Basic,4.3,61,0.29,0.19,7,56,Online,Finance,Project-heavy,4.8,0.77
+COURSE0368,Business,Finance Fundamentals,3,None,2.5,63,0.06,0.04,9,78,Online,Finance,Very engaging,4.9,0.4
+COURSE0369,Business,Finance Fundamentals,3,Advanced,3.8,73,0.11,0.15,12,44,In-person,Finance,Conceptually rich,4.1,0.68
+COURSE0370,Computer Science,Networks Fundamentals,4,Basic,4.5,73,0.3,0.12,9,76,Online,Networks,Very engaging,3.4,0.65
+COURSE0371,Computer Science,Networks Fundamentals,3,None,3.4,78,0.1,0.19,13,52,Online,Networks,Tough but rewarding,4.5,0.62
+COURSE0372,Engineering,CAD Fundamentals,4,Advanced,4.5,73,0.09,0.09,7,49,Hybrid,CAD,Very engaging,3.9,0.38
+COURSE0373,Computer Science,AI Fundamentals,4,None,2.5,72,0.13,0.02,11,68,In-person,AI,Project-heavy,2.6,0.69
+COURSE0374,Computer Science,Networks Fundamentals,4,None,3.4,74,0.07,0.08,13,65,Online,Networks,Very engaging,3.9,0.88
+COURSE0375,Computer Science,AI Fundamentals,4,None,4.8,79,0.1,0.19,12,76,Hybrid,AI,Conceptually rich,3.2,0.52
+COURSE0376,Healthcare,Pharmacology Fundamentals,3,Advanced,3.2,69,0.11,0.09,9,71,Online,Pharmacology,Tough but rewarding,4.8,0.42
+COURSE0377,Business,Finance Fundamentals,4,Advanced,4.4,63,0.26,0.03,13,50,Hybrid,Finance,Project-heavy,2.9,0.91
+COURSE0378,Healthcare,Pharmacology Fundamentals,4,Basic,4.9,67,0.21,0.18,8,58,In-person,Pharmacology,Very engaging,2.5,0.56
+COURSE0379,Business,Ethics Fundamentals,3,None,2.6,69,0.07,0.03,13,48,Online,Ethics,Project-heavy,3.7,0.59
+COURSE0380,Business,Marketing Fundamentals,4,Basic,3.0,60,0.26,0.08,11,75,In-person,Marketing,Project-heavy,4.6,0.62
+COURSE0381,Computer Science,Networks Fundamentals,4,None,3.2,66,0.16,0.08,10,50,Online,Networks,Conceptually rich,3.3,0.67
+COURSE0382,Business,Ethics Fundamentals,3,Basic,3.7,66,0.09,0.18,10,58,Hybrid,Ethics,Project-heavy,3.9,0.72
+COURSE0383,Healthcare,Pharmacology Fundamentals,3,Advanced,4.9,75,0.15,0.11,14,60,Online,Pharmacology,Very engaging,3.2,0.67
+COURSE0384,Engineering,CAD Fundamentals,3,Advanced,3.8,83,0.3,0.17,14,68,Online,CAD,Very engaging,3.4,0.51
+COURSE0385,Computer Science,Networks Fundamentals,3,None,2.7,73,0.28,0.07,13,77,Online,Networks,Project-heavy,3.6,0.93
+COURSE0386,Healthcare,Pharmacology Fundamentals,3,Basic,3.9,77,0.27,0.19,10,40,Online,Pharmacology,Project-heavy,3.7,0.45
+COURSE0387,Business,Finance Fundamentals,4,Advanced,3.4,76,0.19,0.03,6,66,In-person,Finance,Tough but rewarding,4.1,0.91
+COURSE0388,Business,Ethics Fundamentals,3,None,3.4,71,0.09,0.16,6,43,Hybrid,Ethics,Tough but rewarding,3.5,0.67
+COURSE0389,Healthcare,Pharmacology Fundamentals,3,Advanced,3.3,66,0.22,0.18,11,49,In-person,Pharmacology,Very engaging,2.9,0.89
+COURSE0390,Computer Science,Networks Fundamentals,4,None,4.6,71,0.08,0.1,14,71,Online,Networks,Conceptually rich,4.5,0.7
+COURSE0391,Engineering,CAD Fundamentals,3,Basic,3.3,72,0.19,0.19,14,59,Online,CAD,Tough but rewarding,3.3,0.36
+COURSE0392,Computer Science,Networks Fundamentals,4,Advanced,3.4,80,0.05,0.1,9,40,In-person,Networks,Tough but rewarding,3.6,0.72
+COURSE0393,Business,Finance Fundamentals,4,Advanced,4.5,74,0.18,0.08,14,55,Hybrid,Finance,Conceptually rich,4.5,0.85
+COURSE0394,Healthcare,Pharmacology Fundamentals,3,Advanced,4.2,84,0.18,0.13,8,66,Online,Pharmacology,Project-heavy,4.9,0.84
+COURSE0395,Business,Marketing Fundamentals,3,None,2.5,73,0.09,0.13,6,65,Hybrid,Marketing,Tough but rewarding,2.8,0.91
+COURSE0396,Computer Science,Networks Fundamentals,4,Basic,4.6,81,0.2,0.12,10,44,Online,Networks,Project-heavy,4.6,0.5
+COURSE0397,Healthcare,Pharmacology Fundamentals,4,None,3.5,60,0.06,0.13,9,45,Hybrid,Pharmacology,Conceptually rich,4.5,0.69
+COURSE0398,Computer Science,Networks Fundamentals,4,Advanced,4.9,77,0.12,0.08,6,68,Online,Networks,Project-heavy,4.5,0.75
+COURSE0399,Healthcare,Pharmacology Fundamentals,4,None,3.0,72,0.26,0.19,8,61,Online,Pharmacology,Project-heavy,3.1,0.74
+COURSE0400,Business,Marketing Fundamentals,4,Advanced,4.7,76,0.2,0.15,8,71,Online,Marketing,Tough but rewarding,3.6,0.33
+COURSE0401,Computer Science,AI Fundamentals,4,Advanced,4.9,72,0.28,0.12,6,48,Hybrid,AI,Conceptually rich,4.5,0.4
+COURSE0402,Computer Science,AI Fundamentals,4,Basic,3.4,82,0.29,0.04,7,74,Hybrid,AI,Project-heavy,4.5,0.72
+COURSE0403,Healthcare,Pharmacology Fundamentals,3,Basic,3.0,78,0.05,0.11,6,62,In-person,Pharmacology,Project-heavy,4.5,0.44
+COURSE0404,Engineering,CAD Fundamentals,3,None,2.9,69,0.3,0.19,13,69,Hybrid,CAD,Tough but rewarding,3.8,0.83
+COURSE0405,Healthcare,Pharmacology Fundamentals,4,Basic,2.6,85,0.17,0.03,12,47,Hybrid,Pharmacology,Tough but rewarding,3.0,0.47
+COURSE0406,Computer Science,AI Fundamentals,4,Basic,3.2,64,0.18,0.13,7,52,Online,AI,Tough but rewarding,3.4,0.84
+COURSE0407,Computer Science,AI Fundamentals,3,Advanced,3.5,68,0.28,0.13,9,49,Online,AI,Conceptually rich,4.4,0.35
+COURSE0408,Business,Marketing Fundamentals,3,Basic,4.6,68,0.06,0.18,10,65,Hybrid,Marketing,Project-heavy,5.0,0.43
+COURSE0409,Healthcare,Pharmacology Fundamentals,3,Basic,2.8,74,0.24,0.03,14,66,In-person,Pharmacology,Project-heavy,4.0,0.63
+COURSE0410,Healthcare,Pharmacology Fundamentals,4,Basic,2.7,71,0.21,0.11,14,72,Hybrid,Pharmacology,Very engaging,2.6,0.67
+COURSE0411,Business,Finance Fundamentals,4,Advanced,3.5,79,0.23,0.03,6,42,Online,Finance,Project-heavy,4.1,0.7
+COURSE0412,Engineering,CAD Fundamentals,3,Advanced,4.8,79,0.16,0.09,10,57,Hybrid,CAD,Project-heavy,4.7,0.6
+COURSE0413,Healthcare,Pharmacology Fundamentals,4,Basic,4.9,68,0.24,0.19,8,62,Online,Pharmacology,Project-heavy,3.7,0.53
+COURSE0414,Business,Marketing Fundamentals,4,Basic,3.2,64,0.13,0.07,13,66,In-person,Marketing,Conceptually rich,4.8,0.43
+COURSE0415,Business,Ethics Fundamentals,4,Advanced,3.6,74,0.28,0.15,9,45,Online,Ethics,Tough but rewarding,4.4,0.31
+COURSE0416,Business,Marketing Fundamentals,3,None,4.3,76,0.28,0.18,11,41,In-person,Marketing,Conceptually rich,3.1,0.71
+COURSE0417,Healthcare,Pharmacology Fundamentals,3,None,3.4,74,0.16,0.18,9,67,In-person,Pharmacology,Tough but rewarding,2.6,0.51
+COURSE0418,Computer Science,AI Fundamentals,3,Basic,2.7,70,0.07,0.17,10,64,Hybrid,AI,Project-heavy,2.7,0.31
+COURSE0419,Business,Ethics Fundamentals,3,None,3.6,66,0.08,0.18,7,60,In-person,Ethics,Conceptually rich,4.9,0.42
+COURSE0420,Computer Science,AI Fundamentals,4,Basic,4.7,69,0.09,0.14,10,55,Online,AI,Project-heavy,2.7,0.93
+COURSE0421,Computer Science,AI Fundamentals,3,Basic,4.0,60,0.27,0.12,9,43,In-person,AI,Project-heavy,4.4,0.81
+COURSE0422,Computer Science,AI Fundamentals,4,None,3.7,76,0.07,0.11,12,44,In-person,AI,Very engaging,2.5,0.63
+COURSE0423,Business,Marketing Fundamentals,3,None,4.2,85,0.19,0.12,8,57,Online,Marketing,Project-heavy,2.8,0.9
+COURSE0424,Business,Finance Fundamentals,3,Basic,3.2,62,0.22,0.1,6,53,Hybrid,Finance,Very engaging,3.8,0.79
+COURSE0425,Business,Marketing Fundamentals,4,None,3.9,72,0.26,0.07,14,66,Online,Marketing,Very engaging,2.7,0.87
+COURSE0426,Healthcare,Pharmacology Fundamentals,3,None,3.6,67,0.13,0.1,13,76,In-person,Pharmacology,Very engaging,4.2,0.62
+COURSE0427,Business,Ethics Fundamentals,4,None,4.8,85,0.29,0.13,12,48,Hybrid,Ethics,Project-heavy,3.9,0.66
+COURSE0428,Computer Science,Networks Fundamentals,3,Advanced,4.8,66,0.19,0.17,8,43,Hybrid,Networks,Very engaging,2.6,0.89
+COURSE0429,Computer Science,AI Fundamentals,4,Basic,2.7,78,0.19,0.17,11,73,In-person,AI,Very engaging,3.0,0.85
+COURSE0430,Computer Science,AI Fundamentals,4,Basic,3.5,68,0.28,0.14,6,41,In-person,AI,Conceptually rich,4.1,0.52
+COURSE0431,Engineering,CAD Fundamentals,4,Basic,3.3,62,0.24,0.04,8,66,Online,CAD,Project-heavy,2.8,0.72
+COURSE0432,Computer Science,Networks Fundamentals,3,Basic,3.3,60,0.11,0.18,12,70,Hybrid,Networks,Very engaging,4.1,0.86
+COURSE0433,Healthcare,Pharmacology Fundamentals,3,None,4.6,63,0.06,0.07,9,54,In-person,Pharmacology,Very engaging,2.7,0.54
+COURSE0434,Computer Science,Networks Fundamentals,4,Advanced,2.6,62,0.21,0.18,14,80,Hybrid,Networks,Project-heavy,4.8,0.48
+COURSE0435,Computer Science,Networks Fundamentals,3,Basic,4.0,70,0.12,0.12,10,51,In-person,Networks,Project-heavy,3.2,0.85
+COURSE0436,Computer Science,Networks Fundamentals,3,None,4.0,79,0.12,0.2,7,57,Hybrid,Networks,Conceptually rich,3.7,0.68
+COURSE0437,Computer Science,AI Fundamentals,4,None,4.4,82,0.1,0.19,7,59,Online,AI,Very engaging,4.9,0.4
+COURSE0438,Business,Marketing Fundamentals,3,Advanced,2.7,66,0.08,0.19,9,49,In-person,Marketing,Very engaging,3.9,0.37
+COURSE0439,Business,Marketing Fundamentals,4,Advanced,4.6,69,0.17,0.15,13,43,In-person,Marketing,Conceptually rich,4.2,0.4
+COURSE0440,Computer Science,AI Fundamentals,4,None,4.6,64,0.06,0.05,9,55,In-person,AI,Conceptually rich,4.5,0.44
+COURSE0441,Engineering,CAD Fundamentals,3,None,2.9,71,0.25,0.1,6,72,In-person,CAD,Conceptually rich,3.2,0.93
+COURSE0442,Healthcare,Pharmacology Fundamentals,4,None,4.2,75,0.13,0.11,6,48,In-person,Pharmacology,Tough but rewarding,3.3,0.69
+COURSE0443,Business,Finance Fundamentals,4,None,4.1,76,0.23,0.11,7,64,Online,Finance,Tough but rewarding,4.9,0.89
+COURSE0444,Business,Finance Fundamentals,3,Advanced,3.1,80,0.26,0.19,12,51,In-person,Finance,Conceptually rich,4.0,0.9
+COURSE0445,Business,Finance Fundamentals,3,Advanced,3.6,66,0.26,0.15,13,42,Online,Finance,Tough but rewarding,4.8,0.51
+COURSE0446,Computer Science,AI Fundamentals,4,Advanced,4.7,64,0.12,0.19,14,42,Online,AI,Conceptually rich,3.4,0.87
+COURSE0447,Business,Marketing Fundamentals,3,Advanced,2.9,66,0.16,0.11,11,65,Hybrid,Marketing,Very engaging,3.2,0.53
+COURSE0448,Healthcare,Pharmacology Fundamentals,4,Advanced,3.6,76,0.16,0.06,9,65,Online,Pharmacology,Tough but rewarding,4.0,0.66
+COURSE0449,Business,Ethics Fundamentals,3,None,3.4,68,0.13,0.1,9,72,Online,Ethics,Conceptually rich,3.2,0.73
+COURSE0450,Computer Science,Networks Fundamentals,4,Basic,4.0,72,0.11,0.15,14,43,Online,Networks,Very engaging,4.1,0.71
+COURSE0451,Computer Science,AI Fundamentals,4,Advanced,4.6,66,0.2,0.03,10,44,In-person,AI,Conceptually rich,2.5,0.76
+COURSE0452,Business,Marketing Fundamentals,4,Advanced,3.6,84,0.13,0.1,14,70,Online,Marketing,Tough but rewarding,2.7,0.54
+COURSE0453,Healthcare,Pharmacology Fundamentals,3,Advanced,3.6,80,0.11,0.04,11,68,In-person,Pharmacology,Very engaging,4.8,0.68
+COURSE0454,Healthcare,Pharmacology Fundamentals,4,Basic,4.1,64,0.14,0.13,13,65,Hybrid,Pharmacology,Very engaging,3.0,0.36
+COURSE0455,Computer Science,AI Fundamentals,3,Basic,2.9,64,0.13,0.17,7,62,Hybrid,AI,Project-heavy,4.1,0.36
+COURSE0456,Business,Finance Fundamentals,4,Basic,3.9,71,0.25,0.06,11,75,Online,Finance,Very engaging,4.8,0.68
+COURSE0457,Computer Science,AI Fundamentals,4,None,3.9,85,0.21,0.09,8,78,In-person,AI,Conceptually rich,3.9,0.61
+COURSE0458,Business,Marketing Fundamentals,3,Advanced,3.0,78,0.16,0.09,6,69,In-person,Marketing,Conceptually rich,3.7,0.56
+COURSE0459,Business,Marketing Fundamentals,3,None,2.9,62,0.24,0.06,11,53,In-person,Marketing,Tough but rewarding,4.0,0.95
+COURSE0460,Business,Ethics Fundamentals,3,None,4.7,84,0.15,0.14,11,71,Hybrid,Ethics,Very engaging,4.0,0.63
+COURSE0461,Computer Science,AI Fundamentals,4,Advanced,2.8,63,0.26,0.08,10,64,In-person,AI,Project-heavy,4.0,0.45
+COURSE0462,Business,Ethics Fundamentals,3,Basic,4.4,64,0.13,0.15,6,56,Online,Ethics,Tough but rewarding,3.4,0.92
+COURSE0463,Business,Finance Fundamentals,3,Basic,3.1,63,0.14,0.12,7,47,In-person,Finance,Conceptually rich,4.3,0.72
+COURSE0464,Engineering,CAD Fundamentals,3,Basic,2.9,71,0.11,0.1,11,70,In-person,CAD,Conceptually rich,4.3,0.48
+COURSE0465,Healthcare,Pharmacology Fundamentals,3,None,2.6,65,0.08,0.06,9,47,In-person,Pharmacology,Project-heavy,3.1,0.44
+COURSE0466,Business,Marketing Fundamentals,3,None,4.8,66,0.07,0.08,9,51,Hybrid,Marketing,Conceptually rich,3.5,0.64
+COURSE0467,Healthcare,Pharmacology Fundamentals,3,Advanced,4.8,82,0.21,0.17,11,41,Hybrid,Pharmacology,Project-heavy,4.8,0.42
+COURSE0468,Healthcare,Pharmacology Fundamentals,4,Basic,3.7,81,0.29,0.12,8,71,In-person,Pharmacology,Conceptually rich,4.4,0.63
+COURSE0469,Business,Marketing Fundamentals,3,None,4.6,78,0.14,0.08,6,43,In-person,Marketing,Very engaging,4.7,0.87
+COURSE0470,Business,Ethics Fundamentals,4,Advanced,4.3,66,0.24,0.07,13,79,In-person,Ethics,Project-heavy,3.8,0.73
+COURSE0471,Computer Science,AI Fundamentals,4,Basic,3.7,82,0.27,0.11,9,62,Online,AI,Project-heavy,2.9,0.39
+COURSE0472,Healthcare,Pharmacology Fundamentals,4,Basic,3.1,84,0.24,0.17,14,76,In-person,Pharmacology,Project-heavy,2.9,0.41
+COURSE0473,Engineering,CAD Fundamentals,3,Basic,4.0,77,0.23,0.12,13,76,In-person,CAD,Conceptually rich,4.3,0.8
+COURSE0474,Business,Ethics Fundamentals,4,Advanced,3.8,81,0.2,0.05,10,72,Hybrid,Ethics,Very engaging,4.6,0.41
+COURSE0475,Computer Science,Networks Fundamentals,4,Basic,2.6,77,0.08,0.06,12,43,Online,Networks,Tough but rewarding,5.0,0.37
+COURSE0476,Business,Ethics Fundamentals,4,None,3.7,74,0.25,0.16,7,60,In-person,Ethics,Tough but rewarding,2.6,0.64
+COURSE0477,Business,Finance Fundamentals,3,None,3.8,80,0.15,0.19,14,80,Online,Finance,Tough but rewarding,4.0,0.36
+COURSE0478,Engineering,CAD Fundamentals,4,None,3.7,74,0.05,0.15,14,57,Hybrid,CAD,Tough but rewarding,4.0,0.33
+COURSE0479,Computer Science,Networks Fundamentals,4,None,3.7,79,0.18,0.06,8,63,Online,Networks,Project-heavy,4.7,0.94
+COURSE0480,Engineering,CAD Fundamentals,3,None,4.0,65,0.26,0.03,14,67,Hybrid,CAD,Project-heavy,2.7,0.72
+COURSE0481,Engineering,CAD Fundamentals,3,Advanced,4.0,63,0.1,0.17,14,44,Online,CAD,Very engaging,4.9,0.84
+COURSE0482,Computer Science,Networks Fundamentals,3,Advanced,3.1,65,0.28,0.16,12,46,Online,Networks,Very engaging,3.8,0.43
+COURSE0483,Computer Science,Networks Fundamentals,4,Basic,2.6,72,0.26,0.11,11,66,Hybrid,Networks,Conceptually rich,4.2,0.78
+COURSE0484,Business,Marketing Fundamentals,4,Advanced,2.6,63,0.27,0.18,14,51,Hybrid,Marketing,Conceptually rich,2.8,0.82
+COURSE0485,Business,Finance Fundamentals,3,None,4.9,78,0.12,0.09,13,63,Online,Finance,Very engaging,3.2,0.61
+COURSE0486,Business,Finance Fundamentals,3,Advanced,3.1,75,0.24,0.15,14,66,In-person,Finance,Tough but rewarding,5.0,0.47
+COURSE0487,Engineering,CAD Fundamentals,4,Basic,4.7,67,0.09,0.1,9,62,Online,CAD,Very engaging,3.4,0.89
+COURSE0488,Business,Finance Fundamentals,3,None,2.9,78,0.16,0.13,6,68,In-person,Finance,Conceptually rich,3.0,0.85
+COURSE0489,Computer Science,AI Fundamentals,3,None,4.4,82,0.13,0.14,12,56,Online,AI,Tough but rewarding,3.5,0.77
+COURSE0490,Business,Ethics Fundamentals,4,Advanced,3.4,72,0.18,0.13,9,71,Hybrid,Ethics,Project-heavy,4.3,0.37
+COURSE0491,Business,Finance Fundamentals,4,Advanced,4.7,63,0.2,0.14,13,43,Hybrid,Finance,Project-heavy,4.4,0.56
+COURSE0492,Engineering,CAD Fundamentals,4,None,2.9,62,0.26,0.06,9,78,Hybrid,CAD,Tough but rewarding,3.3,0.59
+COURSE0493,Business,Ethics Fundamentals,3,None,3.6,62,0.22,0.14,9,64,Online,Ethics,Very engaging,4.7,0.86
+COURSE0494,Business,Ethics Fundamentals,4,Advanced,4.4,83,0.29,0.04,8,59,In-person,Ethics,Project-heavy,4.7,0.67
+COURSE0495,Business,Ethics Fundamentals,3,Basic,4.3,79,0.16,0.05,6,74,In-person,Ethics,Very engaging,3.3,0.67
+COURSE0496,Business,Marketing Fundamentals,4,None,3.2,76,0.13,0.06,8,62,Hybrid,Marketing,Project-heavy,4.2,0.8
+COURSE0497,Business,Finance Fundamentals,3,None,3.2,82,0.26,0.11,9,70,In-person,Finance,Very engaging,4.7,0.3
+COURSE0498,Healthcare,Pharmacology Fundamentals,4,Advanced,3.3,83,0.13,0.09,12,41,Hybrid,Pharmacology,Tough but rewarding,3.4,0.74
+COURSE0499,Business,Ethics Fundamentals,4,None,4.5,75,0.13,0.1,11,49,Hybrid,Ethics,Tough but rewarding,3.6,0.31
+COURSE0500,Business,Ethics Fundamentals,4,None,2.6,79,0.23,0.15,12,79,Hybrid,Ethics,Project-heavy,3.3,0.82
